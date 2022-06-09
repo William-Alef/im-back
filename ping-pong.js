@@ -22,10 +22,18 @@ function colisaoBolinhaRaquete(){
     xBolinhaSpeed *= -1;
   }
 }
+//Importando uma colisao e aplicando do codigo
+function colisaoBolinhaRaqueteBiblioteca(){
+  colidiu = collideRectCircle(xRaqueteJogador, yRaqueteJogador, diametroRaqueteJogador, alturaRaqueteJogador, xBolinha, yBolinha, raioBolinha);
+  
+  if (colidiu){
+    xBolinhaSpeed *= -1;
+  }
+}
 
 //Funcoes para mostrar e movimentar as raquetes
-function mostraRaqueteJogador(){
-  rect(xRaqueteJogador, yRaqueteJogador, diametroRaqueteJogador, alturaRaqueteJogador)
+function mostraRaquete(x, y){
+  rect(x, y, diametroRaqueteJogador, alturaRaqueteJogador)
 }
 function movimentoRaqueteJogador(){
   if (keyIsDown(UP_ARROW)){
@@ -59,14 +67,17 @@ let yRaqueteInimiga = 150;
 let diametroRaqueteI = 7;
 let alturaRaqueteInimiga = 88;
 
+let hit = false;
+
 //Chama mostrar bolinha, raquetes e background + testes de colisao com as bordas
 function draw() {
   background(100);
   mostrarBolinha();
   movimentoBolinha();
   colisaoBolinhaComBordas();
-  colisaoBolinhaRaquete();
-  mostraRaqueteJogador();
-  mostraRaqueteInimiga();
+  //colisaoBolinhaRaquete();
+  colisaoBolinhaRaqueteBiblioteca();
+  mostraRaquete(xRaqueteJogador, yRaqueteJogador);
+  mostraRaquete(xRaqueteInimiga, yRaqueteInimiga);
   movimentoRaqueteJogador();  
 }
