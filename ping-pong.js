@@ -17,14 +17,15 @@ function colisaoBolinhaComBordas(){
       yBolinhaSpeed *= -1;
   }
 }
-function colisaoBolinhaRaquete(){
+/*function colisaoBolinhaRaquete(){
   if (xBolinha - raioBolinha < xRaqueteJogador + diametroRaqueteJogador && yBolinha - raioBolinha < yRaqueteJogador + alturaRaqueteJogador && yBolinha + raioBolinha > yRaqueteJogador){
     xBolinhaSpeed *= -1;
   }
-}
+}*/
+
 //Importando uma colisao e aplicando do codigo
-function colisaoBolinhaRaqueteBiblioteca(){
-  colidiu = collideRectCircle(xRaqueteJogador, yRaqueteJogador, diametroRaqueteJogador, alturaRaqueteJogador, xBolinha, yBolinha, raioBolinha);
+function colisaoBolinhaRaqueteBiblioteca(x, y){
+  colidiu = collideRectCircle(x, y, diametroRaqueteJogador, alturaRaqueteJogador, xBolinha, yBolinha, raioBolinha);
   
   if (colidiu){
     xBolinhaSpeed *= -1;
@@ -35,16 +36,20 @@ function colisaoBolinhaRaqueteBiblioteca(){
 function mostraRaquete(x, y){
   rect(x, y, diametroRaqueteJogador, alturaRaqueteJogador)
 }
+function mostraRaqueteInimiga(){
+  rect(xRaqueteInimiga, yRaqueteInimiga, diametroRaqueteI, alturaRaqueteInimiga)
+}
 function movimentoRaqueteJogador(){
   if (keyIsDown(UP_ARROW)){
     yRaqueteJogador += -5;
 }
   if (keyIsDown(DOWN_ARROW)){
-    yRaqueteJogador +=5;
+    yRaqueteJogador += 5;
   }
 }
-function mostraRaqueteInimiga(){
-  rect(xRaqueteInimiga, yRaqueteInimiga, diametroRaqueteI, alturaRaqueteInimiga)
+function movimentoRaqueteInimiga(){
+  raqueteInimigaSpeed = yBolinha - yRaqueteInimiga - diametroRaqueteI / 2 -30;
+  yRaqueteInimiga += raqueteInimigaSpeed;
 }
 
 //Variaveis da bolinha
@@ -66,6 +71,7 @@ let xRaqueteInimiga = 590;
 let yRaqueteInimiga = 150;
 let diametroRaqueteI = 7;
 let alturaRaqueteInimiga = 88;
+let raqueteInimigaSpeed;
 
 let hit = false;
 
@@ -76,8 +82,10 @@ function draw() {
   movimentoBolinha();
   colisaoBolinhaComBordas();
   //colisaoBolinhaRaquete();
-  colisaoBolinhaRaqueteBiblioteca();
+  colisaoBolinhaRaqueteBiblioteca(xRaqueteJogador, yRaqueteJogador);
+  colisaoBolinhaRaqueteBiblioteca(xRaqueteInimiga, yRaqueteInimiga);
   mostraRaquete(xRaqueteJogador, yRaqueteJogador);
   mostraRaquete(xRaqueteInimiga, yRaqueteInimiga);
-  movimentoRaqueteJogador();  
+  movimentoRaqueteJogador();
+  movimentoRaqueteInimiga();  
 }
