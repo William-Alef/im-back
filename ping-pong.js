@@ -1,6 +1,7 @@
   //Funcoes para mostrar e movimentar a bolinha
-  function setup() {
+  function setup(){
     createCanvas(600, 400);
+    trilha.loop();
   }
   function mostrarBolinha(){
     circle(xBolinha, yBolinha, diametroBolinha)
@@ -29,6 +30,7 @@
     
     if (colidiu){
       xBolinhaSpeed *= -1;
+      raquetada.play();
     }
   }
 
@@ -48,8 +50,26 @@
     }
   }
   function movimentoRaqueteInimiga(){
-    raqueteInimigaSpeed = yBolinha - yRaqueteInimiga - diametroRaqueteI / 2 -30;
-    yRaqueteInimiga += raqueteInimigaSpeed;
+    raqueteInimigaSpeed = yBolinha - yRaqueteInimiga - diametroRaqueteI / 2 - 30;
+    yRaqueteInimiga += raqueteInimigaSpeed + chanceDeErrar;
+    calculaChanceDeErrar();
+  }
+  //Funcao para roubar
+  function calculaChanceDeErrar(){
+    if (pontosInimigo >= pontosJogador){
+      chanceDeErrar += 1;
+    }else{
+      chanceDeErrar -= 1;
+      if (chanceDeErrar <= 35){
+        chanceDeErrar = 35;
+      }
+    }
+  }
+  //Funcao buscando resolver a bolinha presa na raquete
+  function bolinhaPresa(){
+    if (xBolinha - raioBolinha < 0){
+      xBolinha = 23;
+    }
   }
 
   //Funcoes para mostrar o placar e computar pontos
@@ -69,11 +89,21 @@
   function computaPontos(){
     if (xBolinha > 593){
       pontosJogador += 1;
+      ponto.play();
     }
     if (xBolinha < 10){
       pontosInimigo +=1;
+      ponto.play();
     }
   }
+
+  function preload(){
+    trilha = loadSound('trilha.mp3');
+    raquetada = loadSound('raquetada.mp3');
+    ponto = loadSound('ponto.wav');
+    venceu = loadSound('venceu_00.mp3');
+    perdeu = loadSound('perdeu.mp3');
+ }
 
   //Variaveis da bolinha
   let xBolinha = 300;
@@ -95,6 +125,7 @@
   let diametroRaqueteI = 5;
   let alturaRaqueteInimiga = 88;
   let raqueteInimigaSpeed;
+  let chanceDeErrar = 0;
 
   //Variaveis do placar
   let pontosJogador = 0;
@@ -102,7 +133,7 @@
 
   let hit = false;
 
-  //Chama mostrar bolinha, raquetes e background + testes de colisao com as bordas
+  //Background + chamada das funcoes
   function draw() {
     background(100);
     mostrarBolinha();
