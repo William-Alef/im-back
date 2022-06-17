@@ -1,6 +1,7 @@
 <p align="center">
     <img src="https://github.com/William-Alef/im-back/blob/main/game-preview.gif" width="550">
 </p>
+
 # ping-pong-em-js-pelo-p5.js
 Um projeto tratado pelo curso **"Iniciante em Programação"** da plataforma **Alura**.
 
