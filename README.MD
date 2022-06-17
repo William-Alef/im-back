@@ -1,5 +1,6 @@
 <p align="center">
     <img src="https://github.com/William-Alef/im-back/blob/main/game-preview.gif" width="550">
+    </a>
 </p>
 
 # ping-pong-em-js-pelo-p5.js
