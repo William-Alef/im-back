@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/William-Alef/im-back/blob/main/game-preview.gif" width="550">
+    <img src="https://github.com/William-Alef/im-back/blob/main/projetoPingPong/game-preview.gif" width="550">
 </p>
 
 # Ping-Pong em JS através do p5.js
