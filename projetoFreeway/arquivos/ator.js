@@ -14,6 +14,7 @@ function marcaponto(){
   if (yAtor < 15){
     pontosJogador +=1;
     voltaJogador();
+    musicaPonto.play();
   }
 }
 function pontosPositivos(){
@@ -42,6 +43,8 @@ function movimentoAtor(){
 }
 function colidiu(){
   yAtor = 366;
+  musicaHit.play();
+  musicaBuzina.play();
 }
 function verificaColisao(){
   for (let i = 0; i < imagemCarros.length; i = i++){
