@@ -11,3 +11,4 @@ Antes de prosseguir, é importante que acesse o **[P5.js](editor.p5js.org)**, po
 Você pode rodar o jogo través **[desse link!](https://editor.p5js.org/gamerforeverr/full/uboJ_EGSE)**
 
 AVISO: O jogo está com o **áudio super estourado!!!!**
+Infelizmente não encontrei um meio de modificar o volume :c
