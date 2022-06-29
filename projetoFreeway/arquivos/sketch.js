@@ -15,6 +15,7 @@ function preload(){
   musicaHit = loadSound('sons/hit.mp3');
   musicaBuzina = loadSound('sons/buzina.mp3');
   musicaPonto = loadSound('sons/ponto.mp3');
+  musicaPerdePonto = loadSound('sons/losePoint.mp3');
 }
 
 function draw() {
