@@ -9,3 +9,5 @@ Um projeto tratado pelo curso **"Iniciante em Programação"** da plataforma **A
 Antes de prosseguir, é importante que acesse o **[P5.js](editor.p5js.org)**, pois todo o projeto foi feito para rodar por lá.
 
 Você pode rodar o jogo través **[desse link!](https://editor.p5js.org/gamerforeverr/full/uboJ_EGSE)**
+
+AVISO: O jogo está com o **áudio super estourado!!!!**
