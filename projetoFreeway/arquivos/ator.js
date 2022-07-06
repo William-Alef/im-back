@@ -51,6 +51,7 @@ function verificaColisao(){
     colisao = collideRectCircle(xCarros[i], yCarros[i], 50, 40, xAtor, yAtor, 30)
     if (colisao){
       colidiu();
+      musicaPerdePonto.play();
       if (pontosPositivos()){
         pontosJogador -= 1;
       }
