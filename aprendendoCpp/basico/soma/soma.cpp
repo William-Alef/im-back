@@ -10,6 +10,5 @@ int main()
     scanf("%d", &valor2);
     
     soma = valor1+valor2;
-    printf("A soma dos valor é %d",soma);
-    
+    printf("A soma dos valor é %d", soma);
 }
