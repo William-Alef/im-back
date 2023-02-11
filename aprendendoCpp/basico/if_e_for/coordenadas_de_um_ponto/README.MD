@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/William-Alef/im-back/main/aprendendoCpp/basico/if_e_for/coordenadas_de_um_ponto/tabelaBase.jpg" width="550">
+    <img src="https://raw.githubusercontent.com/William-Alef/im-back/main/aprendendoCpp/basico/if_e_for/coordenadas_de_um_ponto/tabelaBase.jpg" width="220">
 </p>
 Foi proposto o seguinte programa:
 
