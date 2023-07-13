@@ -133,6 +133,6 @@ while (servir_cafe.upper() == 'S' and cafe_na_garrafa != 0):
 
             if (cafe_na_garrafa == 0):
                 print('\nO café acabou!')
-        else(servir_cafe.upper() == 'N'):
+        elif(servir_cafe.upper() == 'N'):
             print('\nSem problemas!')
 print('Fim do algoritimo')
