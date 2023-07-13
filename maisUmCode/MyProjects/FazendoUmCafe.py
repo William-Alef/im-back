@@ -10,12 +10,12 @@ cafe_na_garrafa = 0
 quantidade_da_agua = 200
 temperatura_da_agua = 20
 filtro = None
-suportefiltro = None
+suporte_filtro = None
 po_de_cafe = 100 #100 gramas do pó de café
 fogao = None
 fogao_ligado = False
 tipo_fogao = None
-informouFogao = False
+informou_fogao = False
 chaleira = None
 tipo_ignicao = None
 ignicao = ['isqueiro', 'fósforo']
@@ -27,11 +27,11 @@ xicara = 0
 chaleira = temperatura_da_agua
 
 # Verificando qual o tipo do fogão e confirmando que o mesmo foi informado corretamente
-while(informouFogao != True):
+while(informou_fogao != True):
 
     tipo_fogao = input('Digite o número que indica qual o tipo do seu fogão:\n(1) Fogão gás\n(2) Fogão a elétrico\n\nSua resposta: ')
     if (tipo_fogao == '1' or tipo_fogao == '2'):
-        informouFogao = True
+        informou_fogao = True
     else:
         print(5*'\n')
         print('Desculpe, esta não é uma opção válida!')  
@@ -69,13 +69,13 @@ fogao = chaleira
 # Preparando a garrada para receber o café
 print('Adicionando o filtro de café dentro do suporte')
 time.sleep(0.1)
-suportefiltro = filtro
+suporte_filtro = filtro
 print('Adicionando o pó de café no filtro')
 time.sleep(0.1)
 filtro = po_de_cafe
 print('Adicionando o suporte de filtro em cima da garrafa de café')
 time.sleep(0.1)
-garrafa = suportefiltro
+garrafa = suporte_filtro
 
 # Aquecendo e verificando a temperatura da água para desligar o fogão e seguir com o processo
 while(temperatura_da_agua <= 100):
@@ -114,7 +114,7 @@ print('\nToda a água que foi despejada já acabou!')
 
 # Hora de remover o suporte e fechar a garrafa!
 print('Removendo o suporte de cima da garrafa e fechando da garrafa')
-del suportefiltro
+del suporte_filtro
 del filtro
 
 servir_cafe = input('\nO café está pronto!!\nGsotaria de Servir agora?\n(S / N): ')
