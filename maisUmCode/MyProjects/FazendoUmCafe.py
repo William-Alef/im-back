@@ -1,6 +1,3 @@
-# Este é um programa que ensina detalhadamente uma pessoa a fazer um café, demonstrando como o PC está fazendo o mesmo.
-# Agradeço imensamente ao meu professor Fernandino por me inspirar a fazer este algoritimo.
-
 import time
 from random import randint
 
@@ -32,6 +29,7 @@ def falhando_ignicao(inicio_num, maximo_num):
     return(numero_randomico)
 
 def preparando_garrafa(suporte_filtro, filtro, po_de_cafe, garrafa):
+    global cafe_na_garrafa
     print('Adicionando o filtro de café dentro do suporte')
     time.sleep(0.1)
     suporte_filtro = filtro
@@ -50,9 +48,10 @@ def ferver_agua(temperatura_da_agua):
         temperatura_da_agua += 5
     print('\n\nA água ferveu!')
 
-def passar_cafe_cafeteira_manual(quantidade_da_agua, cafe_na_garrafa):
+def passar_cafe_cafeteira_manual(quantidade_da_agua):
+    global cafe_na_garrafa
     while(quantidade_da_agua != 0):
-        
+
         print('\nEsperando o café passar...')
         time.sleep(1)
         quantidade_da_agua -= 100
@@ -62,7 +61,6 @@ def passar_cafe_cafeteira_manual(quantidade_da_agua, cafe_na_garrafa):
         if(quantidade_da_agua == 100):
             print('Adicionando mais água')
             time.sleep(1)
-
             quantidade_da_agua -= 100
             cafe_na_garrafa += 100
 
@@ -74,45 +72,44 @@ def passar_cafe_cafeteira_simples(cafeteira_lista):
         
         print('\nEsperando o café passar...')
         time.sleep(1)
-        cafeteira_lista[2]-= 240
-        cafeteira_lista[4]+= 240
+        cafeteira_lista[2]-= 100
+        cafeteira_lista[4]+= 100
         print('Toda a água que foi despejada já acabou!\n')
         
-        if(cafeteira_lista[2] <= 240):
+        if(cafeteira_lista[2] <= 100):
             print('Adicionando mais água')
             time.sleep(1)
 
-            quantidade_da_agua -= 240
-            cafe_na_garrafa += 240
+            quantidade_da_agua -= 100
+            cafe_na_garrafa += 100
 
             print('Esperando o café passar...')
             time.sleep(1.7)
         
-def servir_cafe_cafeteira_manual(servir_cafe, cafe_na_garrafa, xicara):
+def servir_cafe_cafeteira_manual(servir_cafe, xicara):
+    global cafe_na_garrafa
     while (servir_cafe.upper() == 'S' and cafe_na_garrafa != 0):
         print('\nColocando o café da garrafa na xicara...')
         time.sleep(0.5)
         cafe_na_garrafa -= 100
         xicara += 100
 
-        while (servir_cafe.upper() == 'S' and cafe_na_garrafa != 0):
-            servir_cafe = input('\nGostaria de servir outra xicara?\n(S / N): ')
+        servir_cafe = input('\nGostaria de servir outra xicara?\n(S / N): ')
+        if(servir_cafe.upper() == 'S'):
+            print('\nServindo outra rodada de café!')
+            cafe_na_garrafa -= 100
+            xicara += 100
 
-            if(servir_cafe.upper() == 'S'):
-                print('\nServindo outra rodada de café!')
-                cafe_na_garrafa -= 100
-                xicara += 100
+            if (cafe_na_garrafa == 0):
+                print('\nO café acabou!')
 
-                if (cafe_na_garrafa == 0):
-                    print('\nO café acabou!')
-
-            elif(servir_cafe.upper() == 'N'):
-                print('\nSem problemas!')
-        print('Fim do algoritimo')
+        elif(servir_cafe.upper() == 'N'):
+            print('\nSem problemas!')
 
 def servir_cafe_cafeteira_simples(cafeteira_lista, xicara):
     while (servir_cafe.upper() == 'S' and cafeteira_lista[4] != 0):
         print('\nColocando o café da garrafa na xicara...')
+        
         time.sleep(0.5)
         cafeteira_lista[4] -= 120
         xicara += 120
@@ -132,7 +129,7 @@ def servir_cafe_cafeteira_simples(cafeteira_lista, xicara):
                 print('\nSem problemas!')
         print('Fim do algoritimo')
 
-modo_de_preparo = int(input('Qual será o método para fazer o café:\n(1) Cafeteira elétrica simples\n(2) Cafeteira de capsula\n(3) Forma manual\n\nResposta:'))
+modo_de_preparo = int(input('Qual será o método para fazer o café:\n\n(1) Cafeteira elétrica simples\n(2) Cafeteira de capsula\n(3) Forma manual\n\nResposta: '))
 if(modo_de_preparo == 1):
     
     print('\nPreparando a cafeteira para fazer o café...')
@@ -232,14 +229,16 @@ elif (modo_de_preparo == 3):
     time.sleep(1)
 
     #Passando o café
-    passar_cafe_cafeteira_manual(quantidade_da_agua, cafe_na_garrafa)
+    passar_cafe_cafeteira_manual(quantidade_da_agua)
+    print(cafe_na_garrafa)
 
     # Hora de remover o suporte e fechar a garrafa!
-    print('Removendo o suporte de cima da garrafa e fechando da garrafa')
+    print('\nRemovendo o suporte de cima da garrafa e fechando da garrafa')
     del suporte_filtro
     del filtro
 
-    servir_cafe = input('\nO café está pronto!!\nGsotaria de Servir agora?\n(S / N): ')
-    servir_cafe_cafeteira_manual(servir_cafe, cafe_na_garrafa, xicara)
+
+    servir_cafe = input('\nO café está pronto!!\nGostaria de servir agora?\n(S / N): ')
+    servir_cafe_cafeteira_manual(servir_cafe, xicara)
 
 print('Fim do algoritimo')
