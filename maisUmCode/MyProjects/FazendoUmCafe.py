@@ -16,10 +16,9 @@ fogao_ligado = False
 tipo_fogao = None
 informou_fogao = False
 chaleira = None
-tipo_ignicao = None
+tipo_ignicao = 0
 ignicao = ['isqueiro', 'fósforo']
-falhando_ignicao = None
-servir_cafe = None
+falhando_ignicao = 0
 xicara = 0
 modo_de_preparo = 0
 
@@ -67,7 +66,9 @@ def passar_cafe_cafeteira_manual(quantidade_da_agua):
             print('Esperando o café passar...')
             time.sleep(1.7)
 
-def passar_cafe_cafeteira_simples(cafeteira_lista):
+def passar_cafe_cafeteira_simples():
+    global cafeteira_lista
+
     while(cafeteira_lista[2] != 0):
         
         print('\nEsperando o café passar...')
@@ -80,8 +81,8 @@ def passar_cafe_cafeteira_simples(cafeteira_lista):
             print('Adicionando mais água')
             time.sleep(1)
 
-            quantidade_da_agua -= 100
-            cafe_na_garrafa += 100
+            cafeteira_lista[2]-= 100
+            cafeteira_lista[4]+= 100
 
             print('Esperando o café passar...')
             time.sleep(1.7)
@@ -106,14 +107,16 @@ def servir_cafe_cafeteira_manual(servir_cafe, xicara):
         elif(servir_cafe.upper() == 'N'):
             print('\nSem problemas!')
 
-def servir_cafe_cafeteira_simples(cafeteira_lista, xicara):
+def servir_cafe_cafeteira_simples():
+    global servir_cafe, xicara, cafeteira_lista, servir_cafe
+
     while (servir_cafe.upper() == 'S' and cafeteira_lista[4] != 0):
         print('\nColocando o café da garrafa na xicara...')
         
         time.sleep(0.5)
         cafeteira_lista[4] -= 120
         xicara += 120
-
+        
         while (servir_cafe.upper() == 'S' and cafeteira_lista[4] != 0):
             servir_cafe = input('\nGostaria de servir outra xicara?\n(S / N): ')
 
@@ -149,7 +152,7 @@ if(modo_de_preparo == 1):
 
     print('Adicionando água no compartimento...')
     time.sleep(0.4)
-    cafeteira_lista[2] = 440
+    cafeteira_lista[2] = 200
 
     print("Ligando a cafeteira...")
     time.sleep(0.4)
@@ -159,10 +162,10 @@ if(modo_de_preparo == 1):
     ferver_agua(temperatura_da_agua)
 
     # Passando o café
-    passar_cafe_cafeteira_simples(cafeteira_lista)
+    passar_cafe_cafeteira_simples()
 
     # Servindo café
-    servir_cafe_cafeteira_simples(cafeteira_lista, xicara)
+    servir_cafe_cafeteira_simples()
 
 elif (modo_de_preparo == 2):
     print('')
@@ -230,7 +233,6 @@ elif (modo_de_preparo == 3):
 
     #Passando o café
     passar_cafe_cafeteira_manual(quantidade_da_agua)
-    print(cafe_na_garrafa)
 
     # Hora de remover o suporte e fechar a garrafa!
     print('\nRemovendo o suporte de cima da garrafa e fechando da garrafa')
