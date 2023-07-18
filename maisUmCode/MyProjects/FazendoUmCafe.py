@@ -286,7 +286,7 @@ elif (modo_de_preparo == 3):
     else:
         while(falhando_ignicao(0, 3) != 1):
             falhando_ignicao(0, 3)
-            print('\nO figão não ligou!\nTentando novamente...')
+            print('\nO fugão não ligou!\nTentando novamente...')
         fogao_ligado = True
         print('\nFogão ligado!')
 
