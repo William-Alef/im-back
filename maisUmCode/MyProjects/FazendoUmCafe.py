@@ -216,10 +216,8 @@ if(modo_de_preparo == 1):
 
     # Aquecendo e verificando a temperatura da água para desligar o fogão e seguir com o processo
     ferver_agua()
-
     # Passando o café
     passar_cafe_cafeteira_simples()
-
     # Servindo café
     servir_cafe_cafeteira_simples()
 
@@ -242,9 +240,13 @@ elif (modo_de_preparo == 2):
     print(f'Colocando a capsula de sabor {capsulas_lista[capsula - 1]} no compartimento...\n')
     time.sleep(0.5)
     cafeteira_lista[3] = capsulas_lista[capsula - 1]
+    
     print('Esquentando a água...')
+    # Aquecendo e verificando a temperatura 
     ferver_agua()
+    # Passando o café
     passar_cafe_cafeteira_capsula()
+    # Servindo café
     servir_cafe_cafeteira_capsula()
 
 elif (modo_de_preparo == 3):
