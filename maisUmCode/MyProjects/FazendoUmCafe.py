@@ -12,6 +12,8 @@ po_de_cafe = 100 #100 gramas do pó de café
 fogao = None
 cafeteira = (False, None, 0, None, 0) #[0] Status de ligada ou desligada. [1] Compartimento para receber o filto. [2] Compartimento para acomodar a água. [3] Compartimento para as capsulas. [4] Compartimento para o café.
 cafeteira_lista = list(cafeteira)
+capsulas = ('Intenso', 'Stormio', 'Arondio', 'Fortado')
+capsulas_lista = list(capsulas)
 fogao_ligado = False
 tipo_fogao = None
 informou_fogao = False
@@ -21,6 +23,7 @@ ignicao = ['isqueiro', 'fósforo']
 falhando_ignicao = 0
 xicara = 0
 modo_de_preparo = 0
+resposta_correta = ''
 
 # Criando funções para a reutilização durante o código
 def falhando_ignicao(inicio_num, maximo_num):
@@ -39,13 +42,15 @@ def preparando_garrafa(suporte_filtro, filtro, po_de_cafe, garrafa):
     time.sleep(0.1)
     garrafa = suporte_filtro
 
-def ferver_agua(temperatura_da_agua):
+def ferver_agua():
+    global temperatura_da_agua
+
     while(temperatura_da_agua <= 100):
         
         print(f'Temperatura da água: {temperatura_da_agua}')
         time.sleep(0.2)
         temperatura_da_agua += 5
-    print('\n\nA água ferveu!')
+    print('\nA água ferveu!')
 
 def passar_cafe_cafeteira_manual(quantidade_da_agua):
     global cafe_na_garrafa
@@ -86,7 +91,31 @@ def passar_cafe_cafeteira_simples():
 
             print('Esperando o café passar...')
             time.sleep(1.7)
+
+def passar_cafe_cafeteira_capsula():
+    global quantidade_da_agua, cafeteira_lista
+
+    print('Colocando água no compartimento...')
+    time.sleep(0.3)
+    cafeteira_lista[2] = 200
+    
+    while(cafeteira_lista[2] != 0):
+
+        print('\nEsperando o café passar...')
+        time.sleep(1)
+        cafeteira_lista[2] -= 100
+        cafeteira_lista[4] += 100
+        print('Toda a água que foi despejada já acabou!\n')
         
+        if(quantidade_da_agua == 100):
+            print('Adicionando mais água')
+            time.sleep(1)
+            cafeteira_lista[2] -= 100
+            cafeteira_lista[4] += 100
+
+            print('Esperando o café passar...')
+            time.sleep(1.7)
+  
 def servir_cafe_cafeteira_manual(servir_cafe, xicara):
     global cafe_na_garrafa
     while (servir_cafe.upper() == 'S' and cafe_na_garrafa != 0):
@@ -109,21 +138,48 @@ def servir_cafe_cafeteira_manual(servir_cafe, xicara):
 
 def servir_cafe_cafeteira_simples():
     global servir_cafe, xicara, cafeteira_lista, servir_cafe
+    servir_cafe = 'S'
 
     while (servir_cafe.upper() == 'S' and cafeteira_lista[4] != 0):
         print('\nColocando o café da garrafa na xicara...')
         
         time.sleep(0.5)
-        cafeteira_lista[4] -= 120
-        xicara += 120
+        cafeteira_lista[4] -= 100
+        xicara += 100
         
         while (servir_cafe.upper() == 'S' and cafeteira_lista[4] != 0):
             servir_cafe = input('\nGostaria de servir outra xicara?\n(S / N): ')
 
             if(servir_cafe.upper() == 'S'):
                 print('\nServindo outra rodada de café!')
-                cafeteira_lista[4] -= 120
-                xicara += 120
+                cafeteira_lista[4] -= 100
+                xicara += 100
+
+                if (cafeteira_lista[4] == 0):
+                    print('\nO café acabou!')
+
+            elif(servir_cafe.upper() == 'N'):
+                print('\nSem problemas!')
+        print('Fim do algoritimo')
+
+def servir_cafe_cafeteira_capsula():
+    global cafeteira_lista, servir_cafe, xicara
+
+    servir_cafe = 'S'
+    while (servir_cafe.upper() == 'S' and cafeteira_lista[4] != 0):
+        
+        print('\nTransferindo o café para a xicara...')
+        time.sleep(0.5)
+        cafeteira_lista[4] -= 100
+        xicara += 100
+        
+        while (servir_cafe.upper() == 'S' and cafeteira_lista[4] != 0):
+            servir_cafe = input('\nGostaria de servir outra xicara?\n(S / N): ')
+
+            if(servir_cafe.upper() == 'S'):
+                print('\nServindo outra rodada de café!')
+                cafeteira_lista[4] -= 100
+                xicara += 100
 
                 if (cafeteira_lista[4] == 0):
                     print('\nO café acabou!')
@@ -159,7 +215,7 @@ if(modo_de_preparo == 1):
     cafeteira_lista[0] = True
 
     # Aquecendo e verificando a temperatura da água para desligar o fogão e seguir com o processo
-    ferver_agua(temperatura_da_agua)
+    ferver_agua()
 
     # Passando o café
     passar_cafe_cafeteira_simples()
@@ -168,7 +224,28 @@ if(modo_de_preparo == 1):
     servir_cafe_cafeteira_simples()
 
 elif (modo_de_preparo == 2):
-    print('')
+    
+    while(resposta_correta != 'sim'):
+        capsula = int(input('\nQual a capsula desejada:\n(1) Intenso:\n   Notas de açucar mascavo e torrado.\n\n(2) Stormio:\n   Aromas de especiarias, madeira e cereais.\n\n(3) Arondio:\n   Toque de cereais com caramelo e crema denso.\n\n(4) Fortado:\n   Aromas diferenciados com notas de cacau e madeira. \n\nQual número desejado: '))
+        
+        if (capsula > 4 or capsula < 0):
+            print('\n\nDesculpe, mas esta não é uma opção válida!')
+            resposta_correta = 'nao'
+        else:
+            resposta_correta = 'sim'
+    
+    print(f'Você solicitou a capsula de sabor {capsulas_lista[capsula - 1]}!')
+    time.sleep(0.2)
+    print('Ligando a cafeteira...\n')
+    time.sleep(0.5)
+    cafeteira_lista[0] = True
+    print(f'Colocando a capsula de sabor {capsulas_lista[capsula - 1]} no compartimento...\n')
+    time.sleep(0.5)
+    cafeteira_lista[3] = capsulas_lista[capsula - 1]
+    print('Esquentando a água...')
+    ferver_agua()
+    passar_cafe_cafeteira_capsula()
+    servir_cafe_cafeteira_capsula()
 
 elif (modo_de_preparo == 3):
 
@@ -219,7 +296,7 @@ elif (modo_de_preparo == 3):
     preparando_garrafa(suporte_filtro, filtro, po_de_cafe, garrafa)
 
     # Aquecendo e verificando a temperatura da água para desligar o fogão e seguir com o processo
-    ferver_agua(temperatura_da_agua)
+    ferver_agua()
 
     # Desligando o fogão
     fogao_ligado = False
