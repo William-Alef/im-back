@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+     
+        var distancia = Number(prompt('Entre com a distância em Km: '));
+        var velocidade = Number(prompt('Entre com a velocidade média em Km/h'));
+
+        function calcularTempo(distancia, velocidade){
+            let tempo = distancia / velocidade;
+            return tempo;
+        }
+        if (distancia === NaN | velocidade === NaN){
+            alerta('Ce burro')
+        }
+        let tempo = calcularTempo(distancia, velocidade);
+        document.write(`Percorrendo uma distância de ${distancia}Km em uma velocidade média de ${velocidade}Km/h você chegará em seu destino dentro de <strong>${tempo}h e ${tempo % 1}m!</strong>`);
+    
+
+    </script>
+</body>
+</html>
