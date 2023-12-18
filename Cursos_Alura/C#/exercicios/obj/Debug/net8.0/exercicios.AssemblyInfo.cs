@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("csharp-projeto-musical")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("exercicios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("csharp-projeto-musical")]
-[assembly: System.Reflection.AssemblyTitleAttribute("csharp-projeto-musical")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa5c74a1b4355f727a91d61f59d05232d32796be")]
+[assembly: System.Reflection.AssemblyProductAttribute("exercicios")]
+[assembly: System.Reflection.AssemblyTitleAttribute("exercicios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
