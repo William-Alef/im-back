@@ -1,0 +1,15 @@
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\bin\Debug\net8.0\csharp-projeto-musical.exe
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\bin\Debug\net8.0\csharp-projeto-musical.deps.json
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\bin\Debug\net8.0\csharp-projeto-musical.runtimeconfig.json
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\bin\Debug\net8.0\csharp-projeto-musical.dll
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\bin\Debug\net8.0\csharp-projeto-musical.pdb
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.AssemblyInfoInputs.cache
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.AssemblyInfo.cs
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.csproj.CoreCompileInputs.cache
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.sourcelink.json
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.dll
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\obj\Debug\net8.0\refint\csharp-projeto-musical.dll
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.pdb
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.genruntimeconfig.cache
+E:\GitHub\im-back\Cursos_Alura\C#\csharp-projeto-musical\obj\Debug\net8.0\ref\csharp-projeto-musical.dll
