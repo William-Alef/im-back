@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("operacoesComPontoFlutuante")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcbd06887b0f05fbc12a9a509cee2b700962ee2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("operacoesComPontoFlutuante")]
 [assembly: System.Reflection.AssemblyTitleAttribute("operacoesComPontoFlutuante")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
