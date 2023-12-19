@@ -1,25 +1,43 @@
-﻿using System.Runtime.InteropServices;
+﻿using System.ComponentModel;
+using System.Runtime.InteropServices;
 using System.Runtime.Intrinsics.X86;
 using System.Xml.Serialization;
 
-//Solicitando e lendo os números.
+//Solicitando e lendo os números e o operador.
 Console.Write("Entre com o primeiro número: ");
-String primeiroNumero = Console.ReadLine()!;
+String a = Console.ReadLine()!;
 Console.Write("Entre com o segundo número: ");
-String segundoNumero = Console.ReadLine()!;
+String b = Console.ReadLine()!;
+Console.Write("\nOperadores:\n(+) Adição\n(-) Subtração\n(/) Divisão\n(*) Multiplicação\n\nEntre com o simbolo para a operação desejada: ");
+String operador = Console.ReadLine()!;
 
 //Convertendo a string de entrada em inteiro.
-float a = float.Parse(primeiroNumero);
-float b = float.Parse(segundoNumero);
+double primeiroNumero = float.Parse(a);
+double segundoNumero = float.Parse(b);
 
-//Realizando as operações.
-float adicao = a + b;
-float subtracao = a - b;
-float divisao = a / b;
-float multiplicacao = a * b;
- 
+//Realizando a operação matemática baseada na escolha do usuário
+double resultado = 0;
+switch (operador)
+{
+    case "+": 
+        resultado = primeiroNumero + segundoNumero;
+        break;
+    case "-":
+        resultado = primeiroNumero - segundoNumero;
+        break;
+    case "/":
+        resultado = primeiroNumero / segundoNumero;
+        break;
+    case "*":
+        resultado = primeiroNumero * segundoNumero;
+        break;
+    default: 
+        Console.WriteLine("Desculpe, mas não foi escolhida uma opção válida");
+        break;
+}   
+
 //Apresentando o resultado ao usuário.
-Console.WriteLine($"\n{a} + {b} = {adicao}\n{a} - {b} = {subtracao}\n{a} / {b} = {divisao}\n{a} * {b} = {multiplicacao}\n");
+Console.WriteLine($"{primeiroNumero} {operador} {segundoNumero} = {resultado}\n");
 
 //Criando uma lista e utilizando foreach para apresentar os itens da lista.
 List<string>bandas = new List<string>()
@@ -28,6 +46,8 @@ List<string>bandas = new List<string>()
     "Metallica",
     "Megadeth"
 };
+bandas.Add("Pink Floyd");
+bandas.Add("Led Zeppelin");
 
 foreach (string banda in bandas)
 {
@@ -37,10 +57,7 @@ foreach (string banda in bandas)
 //Criação da lista de números e apresentação para o usuário.
 List<int>listaNumerica = new List<int>()
 {
-    1,
-    2,
-    5,
-    8
+    1, 2, 5, 8
 };
 
 int somaNumeros = 0;
