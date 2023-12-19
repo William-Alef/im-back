@@ -17,7 +17,6 @@ foreach (int numero in listaDeInteiros)
 }
 
 //Percorrendo a lista com For.
-
 for(int i=0; i < listaDeInteiros.Count; i++)
 {
     if(listaDeInteiros[i] %2 == 0){
