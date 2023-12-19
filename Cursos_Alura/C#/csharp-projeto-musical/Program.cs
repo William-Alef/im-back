@@ -2,6 +2,7 @@
 using System.Data.Common;
 using System.Data.SqlTypes;
 using System.Reflection.Metadata.Ecma335;
+using System.Reflection.PortableExecutable;
 
 string mensagemDeBoasVindas = "\nBoas vindas ao Screen Sound";
 
@@ -59,7 +60,7 @@ void exibirOpcoesDoMenu()
 void registrarBandas()
 {
     Console.Clear();
-    Console.WriteLine("Registro de bandas\n");
+    exibirTitulo("Registro de bandas\n");
     Console.Write("Informe o nome da banda: ");
     string nomeDaBanda = Console.ReadLine()!;
     Console.WriteLine($"A Banda {nomeDaBanda} foi registrada com sucesso!");
@@ -72,7 +73,7 @@ void registrarBandas()
 void exibirBandasRegistradas()
 {
     Console.Clear();
-    Console.WriteLine("Bandas registradas");
+    exibirTitulo("Bandas registradas\n");
 
     foreach (string banda in bandas)
     {
@@ -85,4 +86,13 @@ void exibirBandasRegistradas()
     exibirOpcoesDoMenu();
 }
 
+void exibirTitulo(string titulo){
+    int quantidadeDeLetras = titulo.Length;
+    string caracteres = "".PadLeft(quantidadeDeLetras, '=');
+
+    Console.WriteLine(caracteres);
+    Console.Write(titulo);
+    Console.WriteLine(caracteres);
+};
+exibirBoasVindas();
 exibirOpcoesDoMenu();
