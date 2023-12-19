@@ -1,0 +1,15 @@
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\bin\Debug\net8.0\forAndForeach.exe
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\bin\Debug\net8.0\forAndForeach.deps.json
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\bin\Debug\net8.0\forAndForeach.runtimeconfig.json
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\bin\Debug\net8.0\forAndForeach.dll
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\bin\Debug\net8.0\forAndForeach.pdb
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\obj\Debug\net8.0\forAndForeach.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\obj\Debug\net8.0\forAndForeach.AssemblyInfoInputs.cache
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\obj\Debug\net8.0\forAndForeach.AssemblyInfo.cs
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\obj\Debug\net8.0\forAndForeach.csproj.CoreCompileInputs.cache
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\obj\Debug\net8.0\forAndForeach.sourcelink.json
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\obj\Debug\net8.0\forAndForeach.dll
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\obj\Debug\net8.0\refint\forAndForeach.dll
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\obj\Debug\net8.0\forAndForeach.pdb
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\obj\Debug\net8.0\forAndForeach.genruntimeconfig.cache
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\forAndForeach\obj\Debug\net8.0\ref\forAndForeach.dll
