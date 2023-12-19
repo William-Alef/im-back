@@ -17,10 +17,10 @@ foreach (int numero in listaDeInteiros)
 }
 
 //Percorrendo a lista com For.
-
 for(int i=0; i < listaDeInteiros.Count; i++)
 {
-    if(listaDeInteiros[i] %2 == 0){
+    if(listaDeInteiros[i] %2 == 0)
+    {
         Console.Write($"\n\nLista percorrida pelo For{listaDeInteiros[i]}");
     };
 };
