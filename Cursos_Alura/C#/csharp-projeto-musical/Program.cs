@@ -5,25 +5,54 @@ using System.Reflection.Metadata.Ecma335;
 
 string mensagemDeBoasVindas = "\nBoas vindas ao Screen Sound";
 
+List<string>bandas = new List<string>()
+{
+
+};
+
+exibirBoasVindas();
+Thread.Sleep(1000);
+exibirOpcoesDoMenu();
 
 void exibirBoasVindas()
 {
     Console.WriteLine(@"
-░██████╗░█████╗░██████╗░███████╗███████╗███╗░░██╗
-██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝████╗░██║
-╚█████╗░██║░░╚═╝██████╔╝█████╗░░█████╗░░██╔██╗██║
-░╚═══██╗██║░░██╗██╔══██╗██╔══╝░░██╔══╝░░██║╚████║
-██████╔╝╚█████╔╝██║░░██║███████╗███████╗██║░╚███║
-╚═════╝░░╚════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░╚══╝
-
-░██████╗░█████╗░██╗░░░██╗███╗░░██╗██████╗░
-██╔════╝██╔══██╗██║░░░██║████╗░██║██╔══██╗
-╚█████╗░██║░░██║██║░░░██║██╔██╗██║██║░░██║
-░╚═══██╗██║░░██║██║░░░██║██║╚████║██║░░██║
-██████╔╝╚█████╔╝╚██████╔╝██║░╚███║██████╔╝
-╚═════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝╚═════╝░");
+░██████╗░█████╗░██████╗░███████╗███████╗███╗░░██╗  ░██████╗░█████╗░██╗░░░██╗███╗░░██╗██████╗░
+██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝████╗░██║  ██╔════╝██╔══██╗██║░░░██║████╗░██║██╔══██╗
+╚█████╗░██║░░╚═╝██████╔╝█████╗░░█████╗░░██╔██╗██║  ╚█████╗░██║░░██║██║░░░██║██╔██╗██║██║░░██║
+░╚═══██╗██║░░██╗██╔══██╗██╔══╝░░██╔══╝░░██║╚████║  ░╚═══██╗██║░░██║██║░░░██║██║╚████║██║░░██║
+██████╔╝╚█████╔╝██║░░██║███████╗███████╗██║░╚███║  ██████╔╝╚█████╔╝╚██████╔╝██║░╚███║██████╔╝
+╚═════╝░░╚════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░╚══╝  ╚═════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝╚═════╝░");
     Console.WriteLine(mensagemDeBoasVindas);
+}
 
+void registrarBandas()
+{
+    Console.Clear();
+    Console.WriteLine("Registro de bandas\n");
+    Console.Write("Informe o nome da banda: ");
+    string nomeDaBanda = Console.ReadLine()!;
+    Console.WriteLine($"A Banda {nomeDaBanda} foi registrada com sucesso!");
+    bandas.Add(nomeDaBanda);
+    Thread.Sleep(2000);
+    Console.Clear();
+    exibirOpcoesDoMenu();
+}
+
+void exibirBandasRegistradas()
+{
+    Console.Clear();
+    Console.WriteLine("Bandas registradas");
+
+    foreach (string banda in bandas)
+    {
+        Console.WriteLine($"Banda: {banda}");
+    }
+    
+    Console.WriteLine("Digite qualquer tecla para voltar ao menu inicial.");
+    Console.ReadKey();
+    Console.Clear();
+    exibirOpcoesDoMenu();
 }
 
 void exibirOpcoesDoMenu()
@@ -35,15 +64,15 @@ void exibirOpcoesDoMenu()
     Console.WriteLine("Digite 5 para sair");
 }
 
-Console.WriteLine("\nQual a opção desejada: ");
+Console.Write("\nQual a opção desejada: ");
 string escolha = Console.ReadLine()!;
 int opcaoEscolhidaNumerica = int.Parse(escolha);
 
 switch(opcaoEscolhidaNumerica)
 {
-    case 1: Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
+    case 1: registrarBandas();
     break;
-    case 2: Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
+    case 2: exibirBandasRegistradas();
     break;
     case 3: Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
     break;
@@ -57,18 +86,3 @@ switch(opcaoEscolhidaNumerica)
 
 exibirBoasVindas();
 exibirOpcoesDoMenu();
-
-
-/*
-var nomes = new List<string>()
-{
-    "Maria",
-    "Jose",
-
-};
-
-foreach (var nome in nomes)
-{
-    Console.WriteLine(nome);
-}
-*/
