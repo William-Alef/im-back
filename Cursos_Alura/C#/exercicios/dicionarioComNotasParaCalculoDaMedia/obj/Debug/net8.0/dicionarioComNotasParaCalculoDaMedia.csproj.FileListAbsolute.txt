@@ -1,0 +1,15 @@
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\bin\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.exe
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\bin\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.deps.json
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\bin\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.runtimeconfig.json
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\bin\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.dll
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\bin\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.pdb
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\obj\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\obj\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.AssemblyInfoInputs.cache
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\obj\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.AssemblyInfo.cs
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\obj\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.csproj.CoreCompileInputs.cache
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\obj\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.sourcelink.json
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\obj\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.dll
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\obj\Debug\net8.0\refint\dicionarioComNotasParaCalculoDaMedia.dll
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\obj\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.pdb
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\obj\Debug\net8.0\dicionarioComNotasParaCalculoDaMedia.genruntimeconfig.cache
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\dicionarioComNotasParaCalculoDaMedia\obj\Debug\net8.0\ref\dicionarioComNotasParaCalculoDaMedia.dll

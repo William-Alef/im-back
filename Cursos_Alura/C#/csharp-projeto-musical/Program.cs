@@ -89,7 +89,8 @@ void exibirBandasRegistradas()
     exibirOpcoesDoMenu();
 }
 
-void exibirTitulo(string titulo){
+void exibirTitulo(string titulo)
+{
     int quantidadeDeLetras = titulo.Length;
     string caracteres = "".PadLeft(quantidadeDeLetras, '=');
 
@@ -122,5 +123,6 @@ void avaliarBanda()
         exibirOpcoesDoMenu();
     };
 };
+
 exibirBoasVindas();
 exibirOpcoesDoMenu();
