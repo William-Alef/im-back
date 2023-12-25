@@ -128,6 +128,7 @@ void sistemaDeLogin(){
         }while(senha != confirmaSenha);
 
         logins.Add(usuario, new List<string> {senha});
+        Console.Write("Usuário criado com sucesso!");
 
     }
     void entrarComLogin(){
