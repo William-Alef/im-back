@@ -1,13 +1,14 @@
 ﻿using System.ComponentModel.Design;
+using System.Data;
 using System.Reflection.Metadata;
-
+Dictionary<string, List<String>> logins = new Dictionary<string, List<string>>();
 Dictionary<string, List<double>> notas = new Dictionary<string, List<double>>();
 
 opcoesMenu();
 
 void opcoesMenu()
 {
-    Console.Write("Bem vindo!\n\nDigite o número da ação desejada: \n(1) Para registrar alunos e suas notas.\n(2) Gerenciamento do estoque de uma loja.\n(3) Jogar Quiz.\n(4) Sistema de login.\n\nEscolha:");
+    Console.Write("Bem vindo!\n\nDigite o número da ação desejada: \n(1) Para registrar alunos e suas notas.\n(2) Gerenciamento do estoque de uma loja.\n(3) Jogar Quiz.\n(4) Sistema de login.\n\nEscolha: ");
     int escolhaMenu = int.Parse(Console.ReadLine()!);
 
     switch (escolhaMenu)
@@ -21,7 +22,7 @@ void opcoesMenu()
         case 3: //jogarQuiz();
         break;
         
-        case 4: //sistemaDeLogin();
+        case 4: sistemaDeLogin();
         break;
 
         default: Console.WriteLine("\n\nOpção não aceita\nPor favor, Selecione uma opção válida."); Thread.Sleep(2000); opcoesMenu();
@@ -60,7 +61,12 @@ void gerenciamentoDeNotas()
 
                 if(calcularMedia == 1)
                 {
-                    
+                    foreach (var aluno in notas)
+                    {
+                        List<double> notasAluno = aluno.Value;
+                        double media = notasAluno.Count > 0 ? notasAluno.Average() : 0;
+                        Console.WriteLine($"\n{nome} com média {media}");
+                    }
                 }
             }
         }else
@@ -78,4 +84,53 @@ void gerenciamentoDeNotas()
     Console.WriteLine("Voltando ao menu inicial.");
     Thread.Sleep(2000);
     opcoesMenu();
+}
+
+
+
+void sistemaDeLogin(){
+    Console.Write("Bem vindo ao sistema de login!\nDigite o número da opção desejada.\n(1) Criar login e senha.\n(2) Entrar com login e senha.\n(3) Voltar ao menu. \nEscolha: ");
+    int escolhaLogin = int.Parse(Console.ReadLine()!);
+    switch (escolhaLogin)
+    {
+        case 1: criarLogin();
+        break;
+
+        case 2: entrarComLogin();
+        break;
+
+        case 3: Console.WriteLine("Voltando ao menu inicial."); opcoesMenu();
+        break;
+
+        default: Console.WriteLine("Por favor, entre com um valor "); sistemaDeLogin();
+        break;
+    }
+
+    void criarLogin(){
+        Console.Write("Login: ");
+        string usuario = Console.ReadLine()!;
+
+        Console.Write("Senha: ");
+        string senha = Console.ReadLine()!;
+        
+        string confirmaSenha = "";
+        int contador = 0;
+        do
+        {
+            if (contador > 1)
+            {
+                Console.WriteLine("\nSenha de confirmação errada!");
+            }
+            Console.Write("Confirme a senha: ");
+            confirmaSenha = Console.ReadLine()!;   
+            contador++;
+
+        }while(senha != confirmaSenha);
+
+        logins.Add(usuario, new List<string> {senha});
+
+    }
+    void entrarComLogin(){
+
+    };
 }
