@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dicionarioComNotasParaCalculoDaMedia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f329df629d45e080bb7d8ced84ec4dc576b82fc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdd5c98631ee1d768c7d2342924d68a1d36a9034")]
 [assembly: System.Reflection.AssemblyProductAttribute("dicionarioComNotasParaCalculoDaMedia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dicionarioComNotasParaCalculoDaMedia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

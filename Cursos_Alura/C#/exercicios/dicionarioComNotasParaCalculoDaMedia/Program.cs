@@ -1,7 +1,8 @@
 ﻿using System.ComponentModel.Design;
 using System.Data;
 using System.Reflection.Metadata;
-Dictionary<string, List<String>> logins = new Dictionary<string, List<string>>();
+//Dictionary<string, List<String>> logins = new Dictionary<string, List<string>>();
+Dictionary<string, string> logins = new Dictionary<string, string>();
 Dictionary<string, List<double>> notas = new Dictionary<string, List<double>>();
 
 opcoesMenu();
@@ -86,10 +87,9 @@ void gerenciamentoDeNotas()
     opcoesMenu();
 }
 
-
-
-void sistemaDeLogin(){
-    Console.Write("Bem vindo ao sistema de login!\nDigite o número da opção desejada.\n(1) Criar login e senha.\n(2) Entrar com login e senha.\n(3) Voltar ao menu. \nEscolha: ");
+void sistemaDeLogin()
+{
+    Console.Write("Bem vindo ao sistema de login!\nDigite o número da opção desejada.\n(1) Criar login e senha.\n(2) Entrar com login e senha.\n(3) Voltar ao menu. \n\nEscolha: ");
     int escolhaLogin = int.Parse(Console.ReadLine()!);
     switch (escolhaLogin)
     {
@@ -127,11 +127,43 @@ void sistemaDeLogin(){
 
         }while(senha != confirmaSenha);
 
-        logins.Add(usuario, new List<string> {senha});
-        Console.Write("Usuário criado com sucesso!");
-
+        logins.Add(usuario, senha);
+        Console.WriteLine("\nUsuário criado com sucesso!");
+        Console.WriteLine("Voltando ao menu de Login.");
+        Thread.Sleep(3000);
+        sistemaDeLogin();
     }
-    void entrarComLogin(){
+    void entrarComLogin()
+    {
+        string usuarioLogin = "";
+        string senhaLogin = "";
 
+        while(true)
+        {
+            Console.Write("Usuário: ");
+            usuarioLogin = Console.ReadLine()!;
+            Console.Write("Senha: ");
+            senhaLogin = Console.ReadLine()!;
+
+            if(logins.ContainsKey(usuarioLogin))
+            {
+                string senhaArmazenada = logins[usuarioLogin];
+                if(senhaLogin.Equals(senhaArmazenada))
+                {
+                    Console.WriteLine("\nLogin realizado com sucesso!\n");
+                    Console.WriteLine("Voltando ao menu inicial.");
+                    Thread.Sleep(2000);
+                    opcoesMenu();
+                    break;
+                    
+                }else
+                {
+                    Console.WriteLine("\nSenha errada ou inexistente em nossa base!\n");
+                }
+            }else 
+            {
+                Console.WriteLine("\nUsuário errado ou inexistente em nossa base!\n");
+            };
+        };
     };
-}
+};
