@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\exercicios\\dicionarioComNotasParaCalculoDaMedia\\dicionarioComNotasParaCalculoDaMedia.csproj": {}
+    "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\exercicios\\exerciciosDeDictionary\\dicionarioComNotasParaCalculoDaMedia.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\exercicios\\dicionarioComNotasParaCalculoDaMedia\\dicionarioComNotasParaCalculoDaMedia.csproj": {
+    "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\exercicios\\exerciciosDeDictionary\\dicionarioComNotasParaCalculoDaMedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\exercicios\\dicionarioComNotasParaCalculoDaMedia\\dicionarioComNotasParaCalculoDaMedia.csproj",
+        "projectUniqueName": "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\exercicios\\exerciciosDeDictionary\\dicionarioComNotasParaCalculoDaMedia.csproj",
         "projectName": "dicionarioComNotasParaCalculoDaMedia",
-        "projectPath": "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\exercicios\\dicionarioComNotasParaCalculoDaMedia\\dicionarioComNotasParaCalculoDaMedia.csproj",
+        "projectPath": "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\exercicios\\exerciciosDeDictionary\\dicionarioComNotasParaCalculoDaMedia.csproj",
         "packagesPath": "C:\\Users\\Robot Alef\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\exercicios\\dicionarioComNotasParaCalculoDaMedia\\obj\\",
+        "outputPath": "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\exercicios\\exerciciosDeDictionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robot Alef\\AppData\\Roaming\\NuGet\\NuGet.Config"

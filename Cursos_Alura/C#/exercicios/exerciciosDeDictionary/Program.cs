@@ -4,12 +4,14 @@ using System.Reflection.Metadata;
 //Dictionary<string, List<String>> logins = new Dictionary<string, List<string>>();
 Dictionary<string, string> logins = new Dictionary<string, string>();
 Dictionary<string, List<double>> notas = new Dictionary<string, List<double>>();
+Dictionary<string, string> quiz = new Dictionary<string, string>();
 
 opcoesMenu();
 
 void opcoesMenu()
 {
-    Console.Write("Bem vindo!\n\nDigite o número da ação desejada: \n(1) Para registrar alunos e suas notas.\n(2) Gerenciamento do estoque de uma loja.\n(3) Jogar Quiz.\n(4) Sistema de login.\n\nEscolha: ");
+    Console.Clear();
+    Console.Write("Bem vindo!\n\nDigite o número da ação desejada: \n(1) Para registrar alunos e suas notas.\n(2) Gerenciamento do estoque de uma loja.\n(3) Jogar Quiz.\n(4) Sistema de login.\nEscolha: ");
     int escolhaMenu = int.Parse(Console.ReadLine()!);
 
     switch (escolhaMenu)
@@ -20,7 +22,7 @@ void opcoesMenu()
         case 2: //gerenciamentoDeEstoque();
         break;
 
-        case 3: //jogarQuiz();
+        case 3: jogarQuiz();
         break;
         
         case 4: sistemaDeLogin();
@@ -33,6 +35,8 @@ void opcoesMenu()
 
 void gerenciamentoDeNotas()
 {
+    Console.Clear();
+    Console.WriteLine("Bem vindo ao gerenciamento de notas!\n");
     Console.Write("\nQual a quantidade de alunos: ");
     int quantidadeAlunos = int.Parse(Console.ReadLine()!);
 
@@ -87,6 +91,48 @@ void gerenciamentoDeNotas()
     opcoesMenu();
 }
 
+void jogarQuiz()
+{
+    Console.Clear();
+    Console.Write("Bem vindo ao jogo do Quiz!\nDigite o número da opção desejada:\n(1) - Registrar perguntas e respostas.\n(2) - Jogar Quiz.\n(3) - Voltar ao menu inicial.\n\nEscolha: ");
+    int escolha = int.Parse(Console.ReadLine()!);
+
+    switch (escolha)
+    {   
+        case 1: registrarQuiz();
+        break;
+        case 2: jogar();
+        break;
+        case 3: Console.WriteLine("Voltando ao menu inicial."); Thread.Sleep(3000); opcoesMenu();
+        break;
+        default: Console.WriteLine("Por favor, entre com um valor válido"); Thread.Sleep(3000); jogarQuiz();
+        break;
+
+        void registrarQuiz()
+        {
+            Console.Clear();
+            Console.Write("Qual a quantidade de perguntas: ");
+            int quantidadeQuiz = int.Parse(Console.ReadLine()!);
+
+            for (int i = 0; i < quantidadeQuiz; i++)
+            {
+                Console.Write($"Qual a pergunda para o {i+1} Quiz: ");
+                string perguntaQuiz = Console.ReadLine()!;
+                Console.Write($"Qual a resposta para {i+1} Quiz: ");
+                string respostaQuiz = Console.ReadLine()!;
+                quiz.Add(perguntaQuiz, respostaQuiz);
+            };
+            Console.WriteLine("Perguntas e respostas registradas com sucesso!\nVoltando ao menu do jogo."); Thread.Sleep(3000);
+            jogarQuiz();
+        };
+        
+        void jogar(){
+
+
+        };
+    };
+};
+
 void sistemaDeLogin()
 {
     Console.Write("Bem vindo ao sistema de login!\nDigite o número da opção desejada.\n(1) Criar login e senha.\n(2) Entrar com login e senha.\n(3) Voltar ao menu. \n\nEscolha: ");
@@ -95,14 +141,11 @@ void sistemaDeLogin()
     {
         case 1: criarLogin();
         break;
-
         case 2: entrarComLogin();
         break;
-
         case 3: Console.WriteLine("Voltando ao menu inicial."); opcoesMenu();
         break;
-
-        default: Console.WriteLine("Por favor, entre com um valor "); sistemaDeLogin();
+        default: Console.WriteLine("Por favor, entre com um valor válido"); sistemaDeLogin();
         break;
     }
 
@@ -137,7 +180,6 @@ void sistemaDeLogin()
     {
         string usuarioLogin = "";
         string senhaLogin = "";
-
         while(true)
         {
             Console.Write("Usuário: ");
@@ -155,7 +197,7 @@ void sistemaDeLogin()
                     Thread.Sleep(2000);
                     opcoesMenu();
                     break;
-                    
+
                 }else
                 {
                     Console.WriteLine("\nSenha errada ou inexistente em nossa base!\n");
