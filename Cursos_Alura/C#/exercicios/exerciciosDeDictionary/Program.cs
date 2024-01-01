@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.Design;
 using System.Data;
 using System.Reflection.Metadata;
+using System.Security.Cryptography.X509Certificates;
 //Dictionary<string, List<String>> logins = new Dictionary<string, List<string>>();
 Dictionary<string, string> logins = new Dictionary<string, string>();
 Dictionary<string, List<double>> notas = new Dictionary<string, List<double>>();
@@ -125,10 +126,23 @@ void jogarQuiz()
             Console.WriteLine("Perguntas e respostas registradas com sucesso!\nVoltando ao menu do jogo."); Thread.Sleep(3000);
             jogarQuiz();
         };
-        
         void jogar(){
+            Console.Clear();
+            foreach (var pergunta in quiz.Keys)
+            {
+                Console.WriteLine($"Pergunta: {pergunta}");
+                Console.Write("Resposta: ");
+                string resposta = Console.ReadLine()!;
 
-
+                if (resposta.ToLower() == quiz[pergunta].ToLower())
+                {
+                    Console.WriteLine("Correto!\n");
+                }
+                else
+                {
+                    Console.WriteLine($"Incorreto. A resposta correta é: {quiz[pergunta]}\n");
+                };
+            };
         };
     };
 };
