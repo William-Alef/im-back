@@ -1,6 +1,8 @@
 ﻿// Screen Sound
 using System.Data.Common;
 using System.Data.SqlTypes;
+using System.Net.Http.Headers;
+using System.Reflection.Metadata;
 using System.Reflection.Metadata.Ecma335;
 using System.Reflection.PortableExecutable;
 
@@ -50,7 +52,7 @@ void exibirOpcoesDoMenu()
         break;
         case 3: avaliarBanda();
         break;
-        case 4: Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
+        case 4: exibirMediaDasBandas();
         break;
         case 5: Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
         break;
@@ -124,5 +126,24 @@ void avaliarBanda()
     };
 };
 
+void exibirMediaDasBandas()
+{
+    Console.Clear();
+    exibirTitulo("Media da banda\n");
+    Console.Write("Por gentileza, qual o nome da banda: ");
+    string nomeBanda = Console.ReadLine()!;
+    
+    if(bandas.ContainsKey(nomeBanda))
+    {
+        double mediaBanda = bandas[nomeBanda].Average();
+        Console.WriteLine($"A média de notas para a banda {nomeBanda} é {mediaBanda}!\nVoltando ao menu inicial."); Thread.Sleep(3000);
+        Console.WriteLine("Pressione qualquer tecla para voltar ao menu inicial."); Console.ReadKey(); Console.Clear(); exibirOpcoesDoMenu();
+    }else
+    {
+        Console.WriteLine("Desculpe, mas não identificamos a banda informada em nosso sistema.\nPressione qualquer tecla para voltar ao menu inicial."); Console.ReadKey(); Console.Clear(); exibirOpcoesDoMenu();
+    };
+};
+
 exibirBoasVindas();
 exibirOpcoesDoMenu();
+
