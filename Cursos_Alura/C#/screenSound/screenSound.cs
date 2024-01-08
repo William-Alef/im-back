@@ -1,14 +1,15 @@
-﻿musica musica1 = new musica();
-musica1.nome = "ROBOCOP";
-musica1.artista = "Sosmula";
-musica1.duracao = 231;
-musica1.elegivel = true;
+﻿Musicas musica1 = new Musicas();
+    musica1.Nome = "ROBOCOP";
+    musica1.Artista = "Sosmula";
+    musica1.Duracao = 231;
+    musica1.Elegivel = (true);
+    Console.WriteLine(musica1.DescricaoResumida);
 
-musica musica2 = new musica();
-musica2.nome = "Bohemian Rhapsody";
-musica2.artista = "Queen";
-musica2.duracao = 352;
-musica2.elegivel = false;
+Musicas musica2 = new Musicas();
+    musica2.Nome = "Bohemian Rhapsody";
+    musica2.Artista = "Queen";
+    musica2.Duracao = 352;
+    musica2.Elegivel = (false);
 
 musica1.exibirFixaTecnica();
 musica2.exibirFixaTecnica();
