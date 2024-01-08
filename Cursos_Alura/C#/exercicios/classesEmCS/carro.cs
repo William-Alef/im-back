@@ -1,41 +1,96 @@
 class Carro
 {
-    public string fabricante;
-    public string modelo;
-    public int ano;
-    public int portas;
-    public int velocidade;
+    private int ano;
+    public string Fabricante { get; set; }
+    public string Modelo { get; set; }
+    public int Ano { 
+        get => ano;
+        set{
+            if(Ano > 1960 || Ano < 2023){
+                ano = value;
+            }else{
+                Console.Write("Ano inválido!.");
+            }
+        }
+    }
+    public int Portas { get; set; }
+    public int Velocidade { get; set; }
+    public string DescricaoDetalhada =>
+        $"Este é um {Modelo} ano {Ano} da {Fabricante}.";
 
     public void exibirInformacoesCarro()
     {
-        Console.Write($"Fabricante: {fabricante}\nModelo: {modelo}\nAno: {ano}\nPortas: {portas}");
+        Console.Write($"Fabricante: {Fabricante}\nModelo: {Modelo}\nAno: {Ano}\nPortas: {Portas}");
     }
     public void acelerar()
     {
-        if(velocidade >= 100)
+        Console.Write(DescricaoDetalhada);
+        if(Velocidade >= 100)
         {
             Console.Write("Já estamos na velocidade máxima!");
         }
         else
         {
             Console.WriteLine("Acelerando!");
-            velocidade += 5;    
+            Velocidade += 5;    
         }
     }
 
     public void frear()
     {
-        if(velocidade <= 0)
+        if(Velocidade <= 0)
         {
             Console.Write("O carro já está parado.");
         }else
         {
             Console.Write("Freando!");
-            velocidade += 5;
+            Velocidade += 5;
         }
     }
     public void buzinar()
     {
         Console.Write("Bip, Bip!");
+    }
+};
+
+class Produto
+{
+    public string Nome { get; set; }
+    public string Marca { get; set; }
+
+    public string InformacoesDetalhadas => 
+        $"Temos {Estoque} {Nome}`s em estoque no valor de {Preco}";
+
+    private double preco;
+    public double Preco 
+    { 
+        get => preco;
+        set{
+            if(Preco < 0)
+            {
+                Console.WriteLine("Valor inválido.");
+            }else
+            {
+                preco = value;
+            }
+        } 
+    }
+
+    private int estoque;
+    public int Estoque 
+    { 
+        get => estoque; 
+        set{
+            if(Estoque < 0)
+            {
+                Console.WriteLine("Valor inválido.");
+            }else{
+                estoque = value;
+            }
+        } 
+    }  
+    
+    public void xoxota(){
+        Console.WriteLine(InformacoesDetalhadas);
     }
 };

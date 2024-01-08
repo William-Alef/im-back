@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("classesEmCC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8510c3f51020d7a36855c8043e732a0be9b634a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("classesEmCC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("classesEmCC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
