@@ -95,7 +95,7 @@ class Produto
     }
 };
 
-class constaBanco {
+class Banco {
 
     public int idConta;
     public string nome;

@@ -14,7 +14,7 @@ produto1.Estoque = 14;
 produto1.Preco = 345.90;
 produto1.apresentaInformações();
 
-constaBanco conta = new constaBanco();
+Banco conta = new Banco();
 conta.idConta = 1;
 conta.nome = "Joana Maria";
 conta.saldo = 5023;
