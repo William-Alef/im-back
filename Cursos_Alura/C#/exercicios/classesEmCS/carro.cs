@@ -90,7 +90,7 @@ class Produto
         } 
     }  
     
-    public void xoxota(){
+    public void apresentaInformações(){
         Console.WriteLine(InformacoesDetalhadas);
     }
 };

@@ -12,4 +12,4 @@ Produto produto1 = new Produto();
 produto1.Nome = "Teclado Gamer";
 produto1.Estoque = 14;
 produto1.Preco = 345.90;
-produto1.xoxota();
+produto1.apresentaInformações();
