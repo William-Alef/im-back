@@ -1,15 +1,18 @@
-﻿Musicas musica1 = new Musicas();
-    musica1.Nome = "ROBOCOP";
-    musica1.Artista = "Sosmula";
-    musica1.Duracao = 231;
-    musica1.Elegivel = (true);
-    Console.WriteLine(musica1.DescricaoResumida);
+﻿Album AlbumDoQueen = new Album();
+AlbumDoQueen.Nome = "A nogth at the opera";
 
-Musicas musica2 = new Musicas();
-    musica2.Nome = "Bohemian Rhapsody";
-    musica2.Artista = "Queen";
-    musica2.Duracao = 352;
-    musica2.Elegivel = (false);
+Musica musica1 = new Musica();
+musica1.Nome = "Love of my life";
+musica1.Duracao = 213;
 
-musica1.exibirFixaTecnica();
-musica2.exibirFixaTecnica();
+Musica musica2 = new Musica();
+musica2.Nome = "Bohemian Rhapsody";
+musica2.Duracao = 354;
+
+AlbumDoQueen.AdicionarMusica(musica1);
+AlbumDoQueen.AdicionarMusica(musica2);
+
+Banda queen = new Banda();
+queen.Nome = "Queen";
+queen.adicionarAlbum(AlbumDoQueen);
+queen.exibirDiscografia();

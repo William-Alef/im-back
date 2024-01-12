@@ -1,0 +1,15 @@
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\obj\Debug\net8.0\classesEmCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\obj\Debug\net8.0\classesEmCS.AssemblyInfoInputs.cache
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\obj\Debug\net8.0\classesEmCS.AssemblyInfo.cs
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\obj\Debug\net8.0\classesEmCS.csproj.CoreCompileInputs.cache
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\obj\Debug\net8.0\classesEmCS.sourcelink.json
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\bin\Debug\net8.0\classesEmCS.exe
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\bin\Debug\net8.0\classesEmCS.deps.json
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\bin\Debug\net8.0\classesEmCS.runtimeconfig.json
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\bin\Debug\net8.0\classesEmCS.dll
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\bin\Debug\net8.0\classesEmCS.pdb
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\obj\Debug\net8.0\classesEmCS.dll
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\obj\Debug\net8.0\refint\classesEmCS.dll
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\obj\Debug\net8.0\classesEmCS.pdb
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\obj\Debug\net8.0\classesEmCS.genruntimeconfig.cache
+E:\GitHub\im-back\Cursos_Alura\C#\exercicios\classesEmCS\obj\Debug\net8.0\ref\classesEmCS.dll
