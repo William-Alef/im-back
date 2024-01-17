@@ -1,0 +1,15 @@
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\bin\Debug\net8.0\banco.exe
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\bin\Debug\net8.0\banco.deps.json
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\bin\Debug\net8.0\banco.runtimeconfig.json
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\bin\Debug\net8.0\banco.dll
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\bin\Debug\net8.0\banco.pdb
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\obj\Debug\net8.0\banco.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\obj\Debug\net8.0\banco.AssemblyInfoInputs.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\obj\Debug\net8.0\banco.AssemblyInfo.cs
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\obj\Debug\net8.0\banco.csproj.CoreCompileInputs.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\obj\Debug\net8.0\banco.sourcelink.json
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\obj\Debug\net8.0\banco.dll
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\obj\Debug\net8.0\refint\banco.dll
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\obj\Debug\net8.0\banco.pdb
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\obj\Debug\net8.0\banco.genruntimeconfig.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\banco\obj\Debug\net8.0\ref\banco.dll
