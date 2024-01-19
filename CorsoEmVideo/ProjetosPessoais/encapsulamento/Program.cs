@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+ControleRemoto PrimeiroControle = new ControleRemoto();
+PrimeiroControle.Ligar();
+PrimeiroControle.Play();
+PrimeiroControle.AbaixarVolume(5111);
+PrimeiroControle.AbrirMenu();
+PrimeiroControle.FecharMneu();

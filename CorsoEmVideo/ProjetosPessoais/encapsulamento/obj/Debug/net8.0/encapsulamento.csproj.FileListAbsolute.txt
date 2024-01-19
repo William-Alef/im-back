@@ -1,0 +1,15 @@
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\bin\Debug\net8.0\encapsulamento.exe
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\bin\Debug\net8.0\encapsulamento.deps.json
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\bin\Debug\net8.0\encapsulamento.runtimeconfig.json
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\bin\Debug\net8.0\encapsulamento.dll
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\bin\Debug\net8.0\encapsulamento.pdb
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\obj\Debug\net8.0\encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\obj\Debug\net8.0\encapsulamento.AssemblyInfoInputs.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\obj\Debug\net8.0\encapsulamento.AssemblyInfo.cs
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\obj\Debug\net8.0\encapsulamento.csproj.CoreCompileInputs.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\obj\Debug\net8.0\encapsulamento.sourcelink.json
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\obj\Debug\net8.0\encapsulamento.dll
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\obj\Debug\net8.0\refint\encapsulamento.dll
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\obj\Debug\net8.0\encapsulamento.pdb
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\obj\Debug\net8.0\encapsulamento.genruntimeconfig.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\encapsulamento\obj\Debug\net8.0\ref\encapsulamento.dll
