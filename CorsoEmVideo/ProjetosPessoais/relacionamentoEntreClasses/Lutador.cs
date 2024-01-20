@@ -52,10 +52,10 @@ public class Lutador : ILutador
         Derrotas = derrotas;
         Empates = empates;
     }
-
     public void Apresentar()
     {
-        System.Console.WriteLine($"Lutador: {Nome}\nOrigem: {Nacionalidade}\nIdade: {Idade}\nAltura: {Altura}\nPesando: {Peso}\nGanhou: {Vitorias} lutas\nPerdeu: {Derrotas} lutas\nEmpatou: {Empates} lutas");
+        Console.Clear();
+        System.Console.WriteLine($"CHEGOU O GRANDE MOMENTO!\nApresentamos o lutador {Nome}\nDiretamente do(a) {Nacionalidade}\nCom {Idade} anos e {Altura} metros\nPesando {Peso}Kg\nGanhou: {Vitorias} lutas, perdeu {Derrotas} e empatou {Empates}!");
     }
 
     public void GanharLuta()
