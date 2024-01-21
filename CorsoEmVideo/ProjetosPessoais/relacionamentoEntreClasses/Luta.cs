@@ -1,24 +1,7 @@
 class Luta : ILuta
 {
-    private Lutador _desafiado;
-    private Lutador Desafiado 
-    { 
-        get => _desafiado; 
-        set
-        {
-            _desafiado = value;
-        } 
-    }
-    private Lutador _Desafiante;
-    private Lutador Desafiante 
-    {
-        get => _Desafiante; 
-        set 
-        {
-            _Desafiante = value;
-        }
-    }
-    private int Rounds;
+    private Lutador Desafiado {get; set;}
+    private Lutador Desafiante {get; set;}
     private bool Aprovada;
 
     public void MarcarLuta(Lutador lutador1, Lutador lutador2)
@@ -46,21 +29,22 @@ class Luta : ILuta
 
     public void Lutar()
     {
-        if(Aprovada)
+        if(this.Aprovada)
         {
-            Desafiado.Apresentar();
-            Desafiante.Apresentar();
-            Random random = new Random();
-            int nRandomico = random.Next(0, 2);
+            this.Desafiado.Apresentar();
+            this.Desafiante.Apresentar();
 
-            switch (nRandomico)
+            Random random = new Random();
+            int vencedor = random.Next(0, 3);
+            System.Console.WriteLine();
+            switch (vencedor)
             {
-                case 1: Desafiado.GanharLuta(); Desafiante.PerderLuta();
+                case 0: this.Desafiado.EmpatarLuta(); this.Desafiante.EmpatarLuta(); System.Console.WriteLine("A luta empatou!");
                 break;
-                case 2: Desafiante.GanharLuta(); Desafiado.PerderLuta(); System.Console.WriteLine("");
+                case 1: this.Desafiado.GanharLuta(); this.Desafiante.PerderLuta(); System.Console.WriteLine($"O vencedor da luta é...\n{Desafiado.ObterNome()}!!");
                 break;
-                default: Desafiado.EmpatarLuta(); Desafiante.EmpatarLuta(); System.Console.WriteLine("A luta empatou!");
-                break;
+                case 2: this.Desafiante.GanharLuta(); this.Desafiado.PerderLuta(); System.Console.WriteLine($"O vencedor da luta é...\n{Desafiante.ObterNome()}!!");
+                break;  
             }
         }
         else
