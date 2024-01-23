@@ -1,0 +1,15 @@
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\obj\Debug\net8.0\heranca.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\obj\Debug\net8.0\heranca.AssemblyInfoInputs.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\obj\Debug\net8.0\heranca.AssemblyInfo.cs
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\obj\Debug\net8.0\heranca.csproj.CoreCompileInputs.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\obj\Debug\net8.0\heranca.sourcelink.json
+e:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\bin\Debug\net8.0\heranca.exe
+e:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\bin\Debug\net8.0\heranca.deps.json
+e:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\bin\Debug\net8.0\heranca.runtimeconfig.json
+e:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\bin\Debug\net8.0\heranca.dll
+e:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\bin\Debug\net8.0\heranca.pdb
+e:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\obj\Debug\net8.0\heranca.dll
+e:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\obj\Debug\net8.0\refint\heranca.dll
+e:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\obj\Debug\net8.0\heranca.pdb
+e:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\obj\Debug\net8.0\heranca.genruntimeconfig.cache
+e:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\heranca\obj\Debug\net8.0\ref\heranca.dll

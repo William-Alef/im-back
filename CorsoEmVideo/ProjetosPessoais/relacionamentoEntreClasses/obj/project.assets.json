@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Robot Alef\\.nuget\\packages\\": {}
+    "C:\\Users\\William\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "E:\\GitHub\\im-back\\CorsoEmVideo\\ProjetosPessoais\\relacionamentoEntreClasses\\relacionamentoEntreClasses.csproj",
       "projectName": "relacionamentoEntreClasses",
       "projectPath": "E:\\GitHub\\im-back\\CorsoEmVideo\\ProjetosPessoais\\relacionamentoEntreClasses\\relacionamentoEntreClasses.csproj",
-      "packagesPath": "C:\\Users\\Robot Alef\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
       "outputPath": "E:\\GitHub\\im-back\\CorsoEmVideo\\ProjetosPessoais\\relacionamentoEntreClasses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Robot Alef\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
