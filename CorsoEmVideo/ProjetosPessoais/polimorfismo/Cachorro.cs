@@ -50,7 +50,7 @@ public class Cachorro : Mamifero
         {
             System.Console.WriteLine("Abanando o rabo olhando para o dono");
         }
-        if(!dono)
+        else
         {
             System.Console.WriteLine("Cachorro rosnando e latindo para o estranho");
         }
