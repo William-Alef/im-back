@@ -1,0 +1,15 @@
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\bin\Debug\net8.0\projetoDeConclusao.exe
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\bin\Debug\net8.0\projetoDeConclusao.deps.json
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\bin\Debug\net8.0\projetoDeConclusao.runtimeconfig.json
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\bin\Debug\net8.0\projetoDeConclusao.dll
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\bin\Debug\net8.0\projetoDeConclusao.pdb
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\obj\Debug\net8.0\projetoDeConclusao.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\obj\Debug\net8.0\projetoDeConclusao.AssemblyInfoInputs.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\obj\Debug\net8.0\projetoDeConclusao.AssemblyInfo.cs
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\obj\Debug\net8.0\projetoDeConclusao.csproj.CoreCompileInputs.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\obj\Debug\net8.0\projetoDeConclusao.sourcelink.json
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\obj\Debug\net8.0\projetoDeConclusao.dll
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\obj\Debug\net8.0\refint\projetoDeConclusao.dll
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\obj\Debug\net8.0\projetoDeConclusao.pdb
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\obj\Debug\net8.0\projetoDeConclusao.genruntimeconfig.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\projetoDeConclusao\obj\Debug\net8.0\ref\projetoDeConclusao.dll
