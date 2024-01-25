@@ -2,7 +2,12 @@
 Ave a1 = new(40, 10, 2, "Cinza");
 Reptil r1 = new(0.350f, 1, 4, "Cinza Claro");
 Mamifero m1 = new(80, 17, 4, "Pardo");
+Cachorro C1 = new(10, 10, 4, "Caramelo");
 p1.SoltarBolha();
 a1.FazerNinho();
 m1.Alimentar();
 r1.EmitirSom();
+Canguru c = new(20, 10, 4, "Marrom");
+C1.reacao(17, 4.5f);
+C1.reacao("Agressivo");
+C1.reacao(true);
