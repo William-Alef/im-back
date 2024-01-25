@@ -7,5 +7,6 @@ public class Tecnico : Aluno
     }
     public void Praticar()
     {
+        System.Console.WriteLine($"O profissional {Nome} tem permissão para exercer o seu serviço");
     }
 }
