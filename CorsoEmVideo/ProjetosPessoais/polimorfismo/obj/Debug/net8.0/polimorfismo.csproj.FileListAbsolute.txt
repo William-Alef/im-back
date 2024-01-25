@@ -1,0 +1,15 @@
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\bin\Debug\net8.0\polimorfismo.exe
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\bin\Debug\net8.0\polimorfismo.deps.json
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\bin\Debug\net8.0\polimorfismo.runtimeconfig.json
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\bin\Debug\net8.0\polimorfismo.dll
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\bin\Debug\net8.0\polimorfismo.pdb
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\obj\Debug\net8.0\polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\obj\Debug\net8.0\polimorfismo.AssemblyInfoInputs.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\obj\Debug\net8.0\polimorfismo.AssemblyInfo.cs
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\obj\Debug\net8.0\polimorfismo.csproj.CoreCompileInputs.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\obj\Debug\net8.0\polimorfismo.sourcelink.json
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\obj\Debug\net8.0\polimorfismo.dll
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\obj\Debug\net8.0\refint\polimorfismo.dll
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\obj\Debug\net8.0\polimorfismo.pdb
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\obj\Debug\net8.0\polimorfismo.genruntimeconfig.cache
+E:\GitHub\im-back\CorsoEmVideo\ProjetosPessoais\polimorfismo\obj\Debug\net8.0\ref\polimorfismo.dll
