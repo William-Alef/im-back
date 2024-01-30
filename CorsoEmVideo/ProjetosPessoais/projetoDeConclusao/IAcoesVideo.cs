@@ -1,15 +1,6 @@
-interface IAcoesVideo
+public interface IAcoesVideo
 {
-    public void Play()
-    {
-
-    }
-    public void Pause()
-    {
-
-    }
-    public void Like()
-    {
-
-    }
+    public abstract void Play();
+    public abstract void Pause();
+    public abstract void Like();
 }
