@@ -1,0 +1,15 @@
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\bin\Debug\net8.0\TheBiggestOne.exe
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\bin\Debug\net8.0\TheBiggestOne.deps.json
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\bin\Debug\net8.0\TheBiggestOne.runtimeconfig.json
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\bin\Debug\net8.0\TheBiggestOne.dll
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\bin\Debug\net8.0\TheBiggestOne.pdb
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\obj\Debug\net8.0\TheBiggestOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\obj\Debug\net8.0\TheBiggestOne.AssemblyInfoInputs.cache
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\obj\Debug\net8.0\TheBiggestOne.AssemblyInfo.cs
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\obj\Debug\net8.0\TheBiggestOne.csproj.CoreCompileInputs.cache
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\obj\Debug\net8.0\TheBiggestOne.sourcelink.json
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\obj\Debug\net8.0\TheBiggestOne.dll
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\obj\Debug\net8.0\refint\TheBiggestOne.dll
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\obj\Debug\net8.0\TheBiggestOne.pdb
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\obj\Debug\net8.0\TheBiggestOne.genruntimeconfig.cache
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\TheBiggestOne\obj\Debug\net8.0\ref\TheBiggestOne.dll
