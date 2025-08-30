@@ -1,4 +1,6 @@
-﻿using Class;
+﻿using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
+using Class;
 namespace Program
 {
     class Program
@@ -12,6 +14,7 @@ namespace Program
 
             Console.WriteLine("List:\n");
             list.Show();
+
         }
     }
 }

@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Palindrome
+build_property.ProjectDir = c:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Binary_Search_Algorithm\Palindrome\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
