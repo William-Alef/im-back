@@ -11,7 +11,6 @@ namespace Program
         }
         static int FindTheBigger(List<int> list)
         {
-            list.Sort();
             if (list.Count == 1)
             {
                 return list[0];

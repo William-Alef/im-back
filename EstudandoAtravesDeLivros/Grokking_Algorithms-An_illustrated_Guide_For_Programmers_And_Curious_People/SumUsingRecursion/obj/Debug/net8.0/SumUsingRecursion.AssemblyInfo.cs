@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumUsingRecursion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b94ed15c254d81d698a528091ca62c15dee095da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11444fa0117b1b067a31b2c3bac4fcc726554d13")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumUsingRecursion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumUsingRecursion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
