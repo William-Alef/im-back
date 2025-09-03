@@ -1,0 +1,15 @@
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\bin\Debug\net8.0\Graph.exe
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\bin\Debug\net8.0\Graph.deps.json
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\bin\Debug\net8.0\Graph.runtimeconfig.json
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\bin\Debug\net8.0\Graph.dll
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\bin\Debug\net8.0\Graph.pdb
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\obj\Debug\net8.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\obj\Debug\net8.0\Graph.AssemblyInfoInputs.cache
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\obj\Debug\net8.0\Graph.AssemblyInfo.cs
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\obj\Debug\net8.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\obj\Debug\net8.0\Graph.sourcelink.json
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\obj\Debug\net8.0\Graph.dll
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\obj\Debug\net8.0\refint\Graph.dll
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\obj\Debug\net8.0\Graph.pdb
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\obj\Debug\net8.0\Graph.genruntimeconfig.cache
+C:\Users\William Alef\Documents\GitHub\im-back\EstudandoAtravesDeLivros\Grokking_Algorithms-An_illustrated_Guide_For_Programmers_And_Curious_People\Graph\obj\Debug\net8.0\ref\Graph.dll

@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/TheBiggestOne/bin/Debug/net8.0/TheBiggestOne.dll",
+            "program": "${workspaceFolder}/Graph/bin/Debug/net8.0/Graph.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/TheBiggestOne",
+            "cwd": "${workspaceFolder}/Graph",
             "console": "internalConsole",
             "stopAtEntry": false
         },
