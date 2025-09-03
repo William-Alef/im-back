@@ -7,7 +7,7 @@ namespace Program
         static void Main(string[] args)
         {
             List<int> numbers = new List<int> { 1, 10, 20, 5, 2 };
-            Console.WriteLine(FindTheBigger(numbers));
+            Console.WriteLine("The bigger one is: " + FindTheBigger(numbers));
         }
         static int FindTheBigger(List<int> list)
         {
