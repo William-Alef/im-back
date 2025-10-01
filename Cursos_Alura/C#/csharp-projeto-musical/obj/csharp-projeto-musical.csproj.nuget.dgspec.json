@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\csharp-projeto-musical\\csharp-projeto-musical.csproj": {}
+    "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\C#\\csharp-projeto-musical\\csharp-projeto-musical.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\csharp-projeto-musical\\csharp-projeto-musical.csproj": {
+    "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\C#\\csharp-projeto-musical\\csharp-projeto-musical.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\csharp-projeto-musical\\csharp-projeto-musical.csproj",
+        "projectUniqueName": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\C#\\csharp-projeto-musical\\csharp-projeto-musical.csproj",
         "projectName": "csharp-projeto-musical",
-        "projectPath": "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\csharp-projeto-musical\\csharp-projeto-musical.csproj",
-        "packagesPath": "C:\\Users\\Robot Alef\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\im-back\\Cursos_Alura\\C#\\csharp-projeto-musical\\obj\\",
+        "projectPath": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\C#\\csharp-projeto-musical\\csharp-projeto-musical.csproj",
+        "packagesPath": "C:\\Users\\hawlk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\C#\\csharp-projeto-musical\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Robot Alef\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hawlk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,7 +34,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -53,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
