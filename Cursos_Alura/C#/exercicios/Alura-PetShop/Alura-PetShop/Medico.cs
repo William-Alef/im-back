@@ -1,0 +1,19 @@
+﻿namespace Alura_PetShop;
+
+internal class Medico
+{
+    public string Nome{ get; set; }
+    public string Especialidade{ get; set; }
+    List<Consulta> Consultas { get; set; } = [];
+
+    public Medico(string nome, string especialidade) 
+    {
+        Nome = nome;
+        Especialidade = especialidade;
+    }
+
+    public void AdicionarConsultas(Consulta consulta)
+    {
+        Consultas.Add(consulta);
+    }
+}

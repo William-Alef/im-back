@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hawlk\\source\\repos\\AluraFilmes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{008F9461-74F7-461B-BAFA-D6B24BFFF302}|AluraFilmes\\AluraFilmes.csproj|c:\\users\\hawlk\\source\\repos\\alurafilmes\\alurafilmes\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008F9461-74F7-461B-BAFA-D6B24BFFF302}|AluraFilmes\\AluraFilmes.csproj|solutionrelative:alurafilmes\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008F9461-74F7-461B-BAFA-D6B24BFFF302}|AluraFilmes\\AluraFilmes.csproj|c:\\users\\hawlk\\source\\repos\\alurafilmes\\alurafilmes\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008F9461-74F7-461B-BAFA-D6B24BFFF302}|AluraFilmes\\AluraFilmes.csproj|solutionrelative:alurafilmes\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008F9461-74F7-461B-BAFA-D6B24BFFF302}|AluraFilmes\\AluraFilmes.csproj|c:\\users\\hawlk\\source\\repos\\alurafilmes\\alurafilmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008F9461-74F7-461B-BAFA-D6B24BFFF302}|AluraFilmes\\AluraFilmes.csproj|solutionrelative:alurafilmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\AluraFilmes\\AluraFilmes\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "AluraFilmes\\Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\AluraFilmes\\AluraFilmes\\Models\\Filme.cs*",
+              "RelativeToolTip": "AluraFilmes\\Models\\Filme.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:09:31.224Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\AluraFilmes\\AluraFilmes\\Models\\Artista.cs",
+              "RelativeDocumentMoniker": "AluraFilmes\\Models\\Artista.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\AluraFilmes\\AluraFilmes\\Models\\Artista.cs",
+              "RelativeToolTip": "AluraFilmes\\Models\\Artista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:21:56.531Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\AluraFilmes\\AluraFilmes\\Program.cs",
+              "RelativeDocumentMoniker": "AluraFilmes\\Program.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\AluraFilmes\\AluraFilmes\\Program.cs",
+              "RelativeToolTip": "AluraFilmes\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:06:20.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

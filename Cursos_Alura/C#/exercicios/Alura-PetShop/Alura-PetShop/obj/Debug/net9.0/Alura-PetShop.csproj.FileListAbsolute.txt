@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\bin\Debug\net9.0\Alura-PetShop.exe
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\bin\Debug\net9.0\Alura-PetShop.deps.json
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\bin\Debug\net9.0\Alura-PetShop.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\bin\Debug\net9.0\Alura-PetShop.dll
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\bin\Debug\net9.0\Alura-PetShop.pdb
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\obj\Debug\net9.0\Alura-PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\obj\Debug\net9.0\Alura-PetShop.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\obj\Debug\net9.0\Alura-PetShop.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\obj\Debug\net9.0\Alura-PetShop.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\obj\Debug\net9.0\Alura-PetShop.dll
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\obj\Debug\net9.0\refint\Alura-PetShop.dll
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\obj\Debug\net9.0\Alura-PetShop.pdb
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\obj\Debug\net9.0\Alura-PetShop.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\Alura-PetShop\Alura-PetShop\obj\Debug\net9.0\ref\Alura-PetShop.dll
