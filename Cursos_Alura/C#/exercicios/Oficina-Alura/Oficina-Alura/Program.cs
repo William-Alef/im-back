@@ -1,4 +1,4 @@
-﻿using Oficina_Alura;
+﻿using Oficina_Alura.Models;
 
 namespace AluraOficina;
 public class Program

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\oficina-alura\\oficina-alura\\models\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|solutionrelative:oficina-alura\\models\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\oficina-alura\\oficina-alura\\models\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|solutionrelative:oficina-alura\\models\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\oficina-alura\\oficina-alura\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|solutionrelative:oficina-alura\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\oficina-alura\\oficina-alura\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|solutionrelative:oficina-alura\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\oficina-alura\\oficina-alura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|solutionrelative:oficina-alura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\oficina-alura\\oficina-alura\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|solutionrelative:oficina-alura\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\oficina-alura\\oficina-alura\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|solutionrelative:oficina-alura\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\oficina-alura\\oficina-alura\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|solutionrelative:oficina-alura\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\oficina-alura\\oficina-alura\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3785667C-E83A-4B8C-A274-89BB128808F4}|Oficina-Alura\\Oficina-Alura.csproj|solutionrelative:oficina-alura\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,36 +40,36 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Oficina.cs",
-              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Oficina.cs",
-              "RelativeDocumentMoniker": "Oficina-Alura\\Oficina.cs",
-              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Oficina.cs",
-              "RelativeToolTip": "Oficina-Alura\\Oficina.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Models\\Oficina.cs",
+              "RelativeDocumentMoniker": "Oficina-Alura\\Models\\Oficina.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Models\\Oficina.cs*",
+              "RelativeToolTip": "Oficina-Alura\\Models\\Oficina.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T05:12:53.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Mecanico.cs",
-              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Mecanico.cs",
-              "RelativeDocumentMoniker": "Oficina-Alura\\Mecanico.cs",
-              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Mecanico.cs",
-              "RelativeToolTip": "Oficina-Alura\\Mecanico.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBkAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Models\\Mecanico.cs",
+              "RelativeDocumentMoniker": "Oficina-Alura\\Models\\Mecanico.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Models\\Mecanico.cs*",
+              "RelativeToolTip": "Oficina-Alura\\Models\\Mecanico.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T05:09:02.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Cliente.cs",
-              "RelativeDocumentMoniker": "Oficina-Alura\\Cliente.cs",
-              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Cliente.cs",
-              "RelativeToolTip": "Oficina-Alura\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Oficina-Alura\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Models\\Cliente.cs",
+              "RelativeToolTip": "Oficina-Alura\\Models\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T05:05:25.542Z",
@@ -77,13 +77,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Veiculo.cs",
-              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Veiculo.cs",
-              "RelativeDocumentMoniker": "Oficina-Alura\\Veiculo.cs",
-              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Veiculo.cs",
-              "RelativeToolTip": "Oficina-Alura\\Veiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Oficina-Alura\\Models\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Models\\Veiculo.cs",
+              "RelativeToolTip": "Oficina-Alura\\Models\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T05:02:57.062Z",
               "EditorCaption": ""
@@ -96,13 +96,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Program.cs",
               "RelativeDocumentMoniker": "Oficina-Alura\\Program.cs",
-              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Program.cs",
-              "RelativeToolTip": "Oficina-Alura\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Oficina-Alura\\Oficina-Alura\\Program.cs*",
+              "RelativeToolTip": "Oficina-Alura\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T05:02:14.439Z",
               "EditorCaption": ""
