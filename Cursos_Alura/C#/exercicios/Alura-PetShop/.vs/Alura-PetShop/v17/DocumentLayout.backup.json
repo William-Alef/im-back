@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\alura-petshop\\alura-petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|solutionrelative:alura-petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\alura-petshop\\alura-petshop\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|solutionrelative:alura-petshop\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\alura-petshop\\alura-petshop\\alura-petshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|solutionrelative:alura-petshop\\alura-petshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\alura-petshop\\alura-petshop\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|solutionrelative:alura-petshop\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\alura-petshop\\alura-petshop\\dono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|solutionrelative:alura-petshop\\dono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\alura-petshop\\alura-petshop\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|solutionrelative:alura-petshop\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\alura-petshop\\alura-petshop\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|solutionrelative:alura-petshop\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\alura-petshop\\alura-petshop\\dono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|solutionrelative:alura-petshop\\dono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\alura-petshop\\alura-petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503AD06D-7AD5-423C-9F27-B5BF869CDF21}|Alura-PetShop\\Alura-PetShop.csproj|solutionrelative:alura-petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,35 +34,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Consulta.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Consulta.cs",
               "RelativeDocumentMoniker": "Alura-PetShop\\Consulta.cs",
               "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Consulta.cs",
               "RelativeToolTip": "Alura-PetShop\\Consulta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T22:03:26.154Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Pet.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Pet.cs",
               "RelativeDocumentMoniker": "Alura-PetShop\\Pet.cs",
               "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Pet.cs",
               "RelativeToolTip": "Alura-PetShop\\Pet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T22:02:56.846Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -66,42 +68,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dono.cs",
-              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Dono.cs",
-              "RelativeDocumentMoniker": "Alura-PetShop\\Dono.cs",
-              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Dono.cs",
-              "RelativeToolTip": "Alura-PetShop\\Dono.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T22:03:17.831Z",
+              "DocumentIndex": 0,
+              "Title": "Alura-PetShop.csproj",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Alura-PetShop.csproj",
+              "RelativeDocumentMoniker": "Alura-PetShop\\Alura-PetShop.csproj",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Alura-PetShop.csproj",
+              "RelativeToolTip": "Alura-PetShop\\Alura-PetShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-04T00:13:35.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Medico.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Medico.cs",
               "RelativeDocumentMoniker": "Alura-PetShop\\Medico.cs",
               "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Medico.cs",
               "RelativeToolTip": "Alura-PetShop\\Medico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T22:03:31.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T22:03:31.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Dono.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Dono.cs",
+              "RelativeDocumentMoniker": "Alura-PetShop\\Dono.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Dono.cs",
+              "RelativeToolTip": "Alura-PetShop\\Dono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:03:17.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Program.cs",
               "RelativeDocumentMoniker": "Alura-PetShop\\Program.cs",
               "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\Alura-PetShop\\Alura-PetShop\\Program.cs",
               "RelativeToolTip": "Alura-PetShop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T21:59:46.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T21:59:46.841Z"
             }
           ]
         }

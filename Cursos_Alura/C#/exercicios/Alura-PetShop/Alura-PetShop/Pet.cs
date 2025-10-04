@@ -27,6 +27,11 @@ internal class Pet
         Consultas.Add(Consulta);
     }
 
+    public void RemoverConsulta(Consulta Consulta)
+    {
+        Consultas.Remove(Consulta);
+    }
+
     public void ConsultasAgendada()
     {
         if (Consultas.Any()) 

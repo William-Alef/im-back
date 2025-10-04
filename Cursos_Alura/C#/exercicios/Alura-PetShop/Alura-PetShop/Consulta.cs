@@ -17,6 +17,13 @@ internal class Consulta
         Descricao = descricao;
         pet.AgendaConsultas(this);
     }
+
+    public void cancelar()
+    {
+        Pet.RemoverConsulta(this);
+        Medico.RemoverConsulta(this);
+    }
+
     public override string ToString()
     {
         return $"Consulta agenda para o dia {Data:dd/MM/yyyy}"+

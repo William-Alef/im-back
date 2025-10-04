@@ -16,4 +16,8 @@ internal class Medico
     {
         Consultas.Add(consulta);
     }
+    public void RemoverConsulta(Consulta Consulta)
+    {
+        Consultas.Remove(Consulta);
+    }
 }
