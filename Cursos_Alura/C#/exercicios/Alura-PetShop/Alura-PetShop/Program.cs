@@ -1,4 +1,6 @@
-﻿namespace Alura_PetShop;
+﻿using Alura_PetShop.Models;
+
+namespace Alura_PetShop;
 public class MyClass
 {
     static void Main(string[] args)
