@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\obj\Debug\net9.0\Oficina-Alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\obj\Debug\net9.0\Oficina-Alura.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\obj\Debug\net9.0\Oficina-Alura.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\obj\Debug\net9.0\Oficina-Alura.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\bin\Debug\net9.0\Oficina-Alura.exe
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\bin\Debug\net9.0\Oficina-Alura.deps.json
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\bin\Debug\net9.0\Oficina-Alura.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\bin\Debug\net9.0\Oficina-Alura.dll
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\bin\Debug\net9.0\Oficina-Alura.pdb
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\obj\Debug\net9.0\Oficina-Alura.dll
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\obj\Debug\net9.0\refint\Oficina-Alura.dll
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\obj\Debug\net9.0\Oficina-Alura.pdb
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\obj\Debug\net9.0\Oficina-Alura.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\Oficina-Alura\Oficina-Alura\obj\Debug\net9.0\ref\Oficina-Alura.dll
