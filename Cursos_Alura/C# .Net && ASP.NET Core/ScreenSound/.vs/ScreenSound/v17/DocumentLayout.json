@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\hawlk\\source\\repos\\ScreenSound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\source\\repos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\source\\repos\\screensound\\screensound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\source\\repos\\screensound\\screensound\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\source\\repos\\screensound\\screensound\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\source\\repos\\screensound\\screensound\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\source\\repos\\screensound\\screensound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\source\\repos\\screensound\\screensound\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\source\\repos\\screensound\\screensound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\source\\repos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\source\\repos\\screensound\\screensound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\source\\repos\\screensound\\screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,34 +52,33 @@
               "RelativeDocumentMoniker": "ScreenSound\\Episodio.cs",
               "ToolTip": "C:\\Users\\hawlk\\source\\repos\\ScreenSound\\ScreenSound\\Episodio.cs",
               "RelativeToolTip": "ScreenSound\\Episodio.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T19:22:37.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Podcast.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\ScreenSound\\ScreenSound\\Podcast.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Podcast.cs",
               "ToolTip": "C:\\Users\\hawlk\\source\\repos\\ScreenSound\\ScreenSound\\Podcast.cs",
               "RelativeToolTip": "ScreenSound\\Podcast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T19:18:31.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
               "ToolTip": "C:\\Users\\hawlk\\source\\repos\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T19:58:06.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T19:58:06.255Z"
             },
             {
               "$type": "Document",
@@ -89,25 +88,26 @@
               "RelativeDocumentMoniker": "ScreenSound\\Musica.cs",
               "ToolTip": "C:\\Users\\hawlk\\source\\repos\\ScreenSound\\ScreenSound\\Musica.cs",
               "RelativeToolTip": "ScreenSound\\Musica.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T20:05:58.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Album.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\ScreenSound\\ScreenSound\\Album.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Album.cs",
               "ToolTip": "C:\\Users\\hawlk\\source\\repos\\ScreenSound\\ScreenSound\\Album.cs",
               "RelativeToolTip": "ScreenSound\\Album.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCMAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T22:26:31.695Z"
+              "WhenOpened": "2025-09-30T22:26:31.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Banda.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\ScreenSound\\ScreenSound\\Banda.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Banda.cs",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\ScreenSound\\ScreenSound\\Genero.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Genero.cs",
