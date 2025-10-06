@@ -49,11 +49,6 @@ public class Program
                 Console.WriteLine($"\n\nERRO: Houve um erro de operação. [{ex.Message}]\n\n");
                 LimparTerminal();
             }
-            catch(DivideByZeroException ex)
-            {
-                Console.WriteLine($"\n\nERRO: Houve um erro de operação [{ex.Message}] \n\n");
-                LimparTerminal();
-            }
             catch(Exception) { Console.WriteLine("ERRO: Houve um erro desconhecido."); LimparTerminal(); }
             Console.Clear();
         }
