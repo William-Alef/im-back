@@ -33,7 +33,7 @@ public class Program
             bool passB = double.TryParse(valores[2], out valorB);
             if (!passA || !passB)
             {
-                Console.WriteLine("\nERRO: Um ou mais valores fornecidos não foram fornecidos corretamente.\n\n");
+                Console.WriteLine("\nERRO: Um ou mais valores não foram fornecidos corretamente.\n\n");
                 LimparTerminal();
                 continue;
             }
