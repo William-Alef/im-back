@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cargos", "Cargos\Cargos.csproj", "{E085715A-2C11-47FA-8A83-6B50E0B73CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E085715A-2C11-47FA-8A83-6B50E0B73CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E085715A-2C11-47FA-8A83-6B50E0B73CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E085715A-2C11-47FA-8A83-6B50E0B73CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E085715A-2C11-47FA-8A83-6B50E0B73CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A46AAAAA-4001-40BC-B52E-AABA7EC2D5B1}
+	EndGlobalSection
+EndGlobal

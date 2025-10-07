@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\bin\Debug\net9.0\Cargos.exe
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\bin\Debug\net9.0\Cargos.deps.json
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\bin\Debug\net9.0\Cargos.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\bin\Debug\net9.0\Cargos.dll
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\bin\Debug\net9.0\Cargos.pdb
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\obj\Debug\net9.0\Cargos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\obj\Debug\net9.0\Cargos.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\obj\Debug\net9.0\Cargos.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\obj\Debug\net9.0\Cargos.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\obj\Debug\net9.0\Cargos.dll
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\obj\Debug\net9.0\refint\Cargos.dll
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\obj\Debug\net9.0\Cargos.pdb
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\obj\Debug\net9.0\Cargos.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\Cargos\Cargos\obj\Debug\net9.0\ref\Cargos.dll
