@@ -17,6 +17,6 @@ internal class Funcionario
     public override string ToString()
     {
         return $"Funcionário: {Nome}" +
-            $"\nSalário: {Salario}\n";
+            $"\nSalário: R${Salario}\n";
     }
 }
