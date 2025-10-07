@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CalculadoraDeFormasGeometricas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B277425B-98BE-45BD-8B33-5E4CBCCDB457}|CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\calculadoradeformasgeometricas\\calculadoradeformasgeometricas\\service\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B277425B-98BE-45BD-8B33-5E4CBCCDB457}|CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas.csproj|solutionrelative:calculadoradeformasgeometricas\\service\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B277425B-98BE-45BD-8B33-5E4CBCCDB457}|CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\calculadoradeformasgeometricas\\calculadoradeformasgeometricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B277425B-98BE-45BD-8B33-5E4CBCCDB457}|CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas.csproj|solutionrelative:calculadoradeformasgeometricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B277425B-98BE-45BD-8B33-5E4CBCCDB457}|CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\calculadoradeformasgeometricas\\calculadoradeformasgeometricas\\service\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B277425B-98BE-45BD-8B33-5E4CBCCDB457}|CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas.csproj|solutionrelative:calculadoradeformasgeometricas\\service\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B277425B-98BE-45BD-8B33-5E4CBCCDB457}|CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\calculadoradeformasgeometricas\\calculadoradeformasgeometricas\\models\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B277425B-98BE-45BD-8B33-5E4CBCCDB457}|CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas.csproj|solutionrelative:calculadoradeformasgeometricas\\models\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas\\Service\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeFormasGeometricas\\Service\\Menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas\\Service\\Menu\\Menu.cs*",
+              "RelativeToolTip": "CalculadoraDeFormasGeometricas\\Service\\Menu\\Menu.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:01:43.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormaGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas\\Models\\FormaGeometrica.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeFormasGeometricas\\Models\\FormaGeometrica.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas\\Models\\FormaGeometrica.cs",
+              "RelativeToolTip": "CalculadoraDeFormasGeometricas\\Models\\FormaGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:51:21.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas\\Service\\Calculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeFormasGeometricas\\Service\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas\\Service\\Calculadora.cs",
+              "RelativeToolTip": "CalculadoraDeFormasGeometricas\\Service\\Calculadora.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:49:56.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeFormasGeometricas\\Program.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CalculadoraDeFormasGeometricas\\CalculadoraDeFormasGeometricas\\Program.cs",
+              "RelativeToolTip": "CalculadoraDeFormasGeometricas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:43:21.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

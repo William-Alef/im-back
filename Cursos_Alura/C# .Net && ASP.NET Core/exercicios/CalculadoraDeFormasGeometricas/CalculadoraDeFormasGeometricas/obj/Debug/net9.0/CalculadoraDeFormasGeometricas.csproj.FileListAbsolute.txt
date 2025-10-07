@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\bin\Debug\net9.0\CalculadoraDeFormasGeometricas.exe
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\bin\Debug\net9.0\CalculadoraDeFormasGeometricas.deps.json
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\bin\Debug\net9.0\CalculadoraDeFormasGeometricas.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\bin\Debug\net9.0\CalculadoraDeFormasGeometricas.dll
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\bin\Debug\net9.0\CalculadoraDeFormasGeometricas.pdb
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\obj\Debug\net9.0\CalculadoraDeFormasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\obj\Debug\net9.0\CalculadoraDeFormasGeometricas.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\obj\Debug\net9.0\CalculadoraDeFormasGeometricas.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\obj\Debug\net9.0\CalculadoraDeFormasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\obj\Debug\net9.0\CalculadoraDeFormasGeometricas.dll
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\obj\Debug\net9.0\refint\CalculadoraDeFormasGeometricas.dll
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\obj\Debug\net9.0\CalculadoraDeFormasGeometricas.pdb
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\obj\Debug\net9.0\CalculadoraDeFormasGeometricas.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\CalculadoraDeFormasGeometricas\CalculadoraDeFormasGeometricas\obj\Debug\net9.0\ref\CalculadoraDeFormasGeometricas.dll
