@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\bin\Debug\net9.0\CatalogacaoDeItens.exe
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\bin\Debug\net9.0\CatalogacaoDeItens.deps.json
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\bin\Debug\net9.0\CatalogacaoDeItens.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\bin\Debug\net9.0\CatalogacaoDeItens.dll
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\bin\Debug\net9.0\CatalogacaoDeItens.pdb
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\obj\Debug\net9.0\CatalogacaoDeItens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\obj\Debug\net9.0\CatalogacaoDeItens.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\obj\Debug\net9.0\CatalogacaoDeItens.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\obj\Debug\net9.0\CatalogacaoDeItens.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\obj\Debug\net9.0\CatalogacaoDeItens.dll
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\obj\Debug\net9.0\refint\CatalogacaoDeItens.dll
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\obj\Debug\net9.0\CatalogacaoDeItens.pdb
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\obj\Debug\net9.0\CatalogacaoDeItens.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\CatalogacaoDeItens\CatalogacaoDeItens\obj\Debug\net9.0\ref\CatalogacaoDeItens.dll

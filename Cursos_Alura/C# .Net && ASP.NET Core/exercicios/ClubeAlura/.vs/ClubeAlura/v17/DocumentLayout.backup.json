@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hawlk\\source\\repos\\Exercises\\ClubeAlura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D3E90B-5FA4-49DE-BF5A-C88F3FD9E1ED}|ClubeAlura\\ClubeAlura.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\clubealura\\clubealura\\models\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D3E90B-5FA4-49DE-BF5A-C88F3FD9E1ED}|ClubeAlura\\ClubeAlura.csproj|solutionrelative:clubealura\\models\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D3E90B-5FA4-49DE-BF5A-C88F3FD9E1ED}|ClubeAlura\\ClubeAlura.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\clubealura\\clubealura\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D3E90B-5FA4-49DE-BF5A-C88F3FD9E1ED}|ClubeAlura\\ClubeAlura.csproj|solutionrelative:clubealura\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D3E90B-5FA4-49DE-BF5A-C88F3FD9E1ED}|ClubeAlura\\ClubeAlura.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\clubealura\\clubealura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D3E90B-5FA4-49DE-BF5A-C88F3FD9E1ED}|ClubeAlura\\ClubeAlura.csproj|solutionrelative:clubealura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\ClubeAlura\\ClubeAlura\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ClubeAlura\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\ClubeAlura\\ClubeAlura\\Models\\Pessoa.cs*",
+              "RelativeToolTip": "ClubeAlura\\Models\\Pessoa.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:45:18.499Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteVip.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\ClubeAlura\\ClubeAlura\\Models\\ClienteVip.cs",
+              "RelativeDocumentMoniker": "ClubeAlura\\Models\\ClienteVip.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\ClubeAlura\\ClubeAlura\\Models\\ClienteVip.cs",
+              "RelativeToolTip": "ClubeAlura\\Models\\ClienteVip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:47:19.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\ClubeAlura\\ClubeAlura\\Program.cs",
+              "RelativeDocumentMoniker": "ClubeAlura\\Program.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\ClubeAlura\\ClubeAlura\\Program.cs",
+              "RelativeToolTip": "ClubeAlura\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:44:40.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

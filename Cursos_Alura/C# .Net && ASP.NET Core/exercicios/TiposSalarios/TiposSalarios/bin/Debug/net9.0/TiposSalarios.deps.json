@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TiposSalarios/1.0.0": {
+        "runtime": {
+          "TiposSalarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TiposSalarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

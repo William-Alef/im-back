@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\bin\Debug\net9.0\GestaoDeServicos.exe
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\bin\Debug\net9.0\GestaoDeServicos.deps.json
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\bin\Debug\net9.0\GestaoDeServicos.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\bin\Debug\net9.0\GestaoDeServicos.dll
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\bin\Debug\net9.0\GestaoDeServicos.pdb
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\obj\Debug\net9.0\GestaoDeServicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\obj\Debug\net9.0\GestaoDeServicos.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\obj\Debug\net9.0\GestaoDeServicos.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\obj\Debug\net9.0\GestaoDeServicos.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\obj\Debug\net9.0\GestaoDeServicos.dll
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\obj\Debug\net9.0\refint\GestaoDeServicos.dll
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\obj\Debug\net9.0\GestaoDeServicos.pdb
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\obj\Debug\net9.0\GestaoDeServicos.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\GestaoDeServicos\GestaoDeServicos\obj\Debug\net9.0\ref\GestaoDeServicos.dll

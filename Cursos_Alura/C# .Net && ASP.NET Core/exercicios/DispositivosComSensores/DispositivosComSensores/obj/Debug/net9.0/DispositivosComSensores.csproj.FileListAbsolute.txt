@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\obj\Debug\net9.0\DispositivosComSensores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\obj\Debug\net9.0\DispositivosComSensores.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\obj\Debug\net9.0\DispositivosComSensores.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\obj\Debug\net9.0\DispositivosComSensores.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\bin\Debug\net9.0\DispositivosComSensores.exe
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\bin\Debug\net9.0\DispositivosComSensores.deps.json
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\bin\Debug\net9.0\DispositivosComSensores.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\bin\Debug\net9.0\DispositivosComSensores.dll
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\bin\Debug\net9.0\DispositivosComSensores.pdb
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\obj\Debug\net9.0\DispositivosComSensores.dll
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\obj\Debug\net9.0\refint\DispositivosComSensores.dll
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\obj\Debug\net9.0\DispositivosComSensores.pdb
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\obj\Debug\net9.0\DispositivosComSensores.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\DispositivosComSensores\DispositivosComSensores\obj\Debug\net9.0\ref\DispositivosComSensores.dll

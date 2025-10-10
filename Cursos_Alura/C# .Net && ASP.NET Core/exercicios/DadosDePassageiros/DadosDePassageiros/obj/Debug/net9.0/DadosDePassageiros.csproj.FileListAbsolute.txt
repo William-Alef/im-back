@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\bin\Debug\net9.0\DadosDePassageiros.exe
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\bin\Debug\net9.0\DadosDePassageiros.deps.json
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\bin\Debug\net9.0\DadosDePassageiros.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\bin\Debug\net9.0\DadosDePassageiros.dll
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\bin\Debug\net9.0\DadosDePassageiros.pdb
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\obj\Debug\net9.0\DadosDePassageiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\obj\Debug\net9.0\DadosDePassageiros.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\obj\Debug\net9.0\DadosDePassageiros.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\obj\Debug\net9.0\DadosDePassageiros.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\obj\Debug\net9.0\DadosDePassageiros.dll
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\obj\Debug\net9.0\refint\DadosDePassageiros.dll
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\obj\Debug\net9.0\DadosDePassageiros.pdb
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\obj\Debug\net9.0\DadosDePassageiros.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\DadosDePassageiros\DadosDePassageiros\obj\Debug\net9.0\ref\DadosDePassageiros.dll

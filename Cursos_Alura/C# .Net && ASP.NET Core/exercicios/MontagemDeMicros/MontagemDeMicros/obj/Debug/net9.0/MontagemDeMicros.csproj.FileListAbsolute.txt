@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\obj\Debug\net9.0\MontagemDeMicros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\obj\Debug\net9.0\MontagemDeMicros.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\obj\Debug\net9.0\MontagemDeMicros.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\obj\Debug\net9.0\MontagemDeMicros.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\bin\Debug\net9.0\MontagemDeMicros.exe
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\bin\Debug\net9.0\MontagemDeMicros.deps.json
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\bin\Debug\net9.0\MontagemDeMicros.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\bin\Debug\net9.0\MontagemDeMicros.dll
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\bin\Debug\net9.0\MontagemDeMicros.pdb
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\obj\Debug\net9.0\MontagemDeMicros.dll
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\obj\Debug\net9.0\refint\MontagemDeMicros.dll
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\obj\Debug\net9.0\MontagemDeMicros.pdb
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\obj\Debug\net9.0\MontagemDeMicros.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\MontagemDeMicros\MontagemDeMicros\obj\Debug\net9.0\ref\MontagemDeMicros.dll

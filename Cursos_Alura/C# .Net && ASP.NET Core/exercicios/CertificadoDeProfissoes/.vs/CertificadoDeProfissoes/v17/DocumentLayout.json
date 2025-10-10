@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CertificadoDeProfissoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A076A4-B485-4433-AA80-B15B02F9634E}|CertificadoDeProfissoes\\CertificadoDeProfissoes.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\certificadodeprofissoes\\certificadodeprofissoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A076A4-B485-4433-AA80-B15B02F9634E}|CertificadoDeProfissoes\\CertificadoDeProfissoes.csproj|solutionrelative:certificadodeprofissoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A076A4-B485-4433-AA80-B15B02F9634E}|CertificadoDeProfissoes\\CertificadoDeProfissoes.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\certificadodeprofissoes\\certificadodeprofissoes\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A076A4-B485-4433-AA80-B15B02F9634E}|CertificadoDeProfissoes\\CertificadoDeProfissoes.csproj|solutionrelative:certificadodeprofissoes\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A076A4-B485-4433-AA80-B15B02F9634E}|CertificadoDeProfissoes\\CertificadoDeProfissoes.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\certificadodeprofissoes\\certificadodeprofissoes\\models\\analista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A076A4-B485-4433-AA80-B15B02F9634E}|CertificadoDeProfissoes\\CertificadoDeProfissoes.csproj|solutionrelative:certificadodeprofissoes\\models\\analista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A076A4-B485-4433-AA80-B15B02F9634E}|CertificadoDeProfissoes\\CertificadoDeProfissoes.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\certificadodeprofissoes\\certificadodeprofissoes\\models\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A076A4-B485-4433-AA80-B15B02F9634E}|CertificadoDeProfissoes\\CertificadoDeProfissoes.csproj|solutionrelative:certificadodeprofissoes\\models\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A076A4-B485-4433-AA80-B15B02F9634E}|CertificadoDeProfissoes\\CertificadoDeProfissoes.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\certificadodeprofissoes\\certificadodeprofissoes\\models\\profissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A076A4-B485-4433-AA80-B15B02F9634E}|CertificadoDeProfissoes\\CertificadoDeProfissoes.csproj|solutionrelative:certificadodeprofissoes\\models\\profissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CertificadoDeProfissoes\\CertificadoDeProfissoes\\Program.cs",
+              "RelativeDocumentMoniker": "CertificadoDeProfissoes\\Program.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CertificadoDeProfissoes\\CertificadoDeProfissoes\\Program.cs",
+              "RelativeToolTip": "CertificadoDeProfissoes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:28:26.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CertificadoDeProfissoes\\CertificadoDeProfissoes\\Models\\Docente.cs",
+              "RelativeDocumentMoniker": "CertificadoDeProfissoes\\Models\\Docente.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CertificadoDeProfissoes\\CertificadoDeProfissoes\\Models\\Docente.cs",
+              "RelativeToolTip": "CertificadoDeProfissoes\\Models\\Docente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:34:49.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Certificado.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CertificadoDeProfissoes\\CertificadoDeProfissoes\\Models\\Certificado.cs",
+              "RelativeDocumentMoniker": "CertificadoDeProfissoes\\Models\\Certificado.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CertificadoDeProfissoes\\CertificadoDeProfissoes\\Models\\Certificado.cs",
+              "RelativeToolTip": "CertificadoDeProfissoes\\Models\\Certificado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:35:31.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Analista.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CertificadoDeProfissoes\\CertificadoDeProfissoes\\Models\\Analista.cs",
+              "RelativeDocumentMoniker": "CertificadoDeProfissoes\\Models\\Analista.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CertificadoDeProfissoes\\CertificadoDeProfissoes\\Models\\Analista.cs",
+              "RelativeToolTip": "CertificadoDeProfissoes\\Models\\Analista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:32:54.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profissao.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CertificadoDeProfissoes\\CertificadoDeProfissoes\\Models\\Profissao.cs",
+              "RelativeDocumentMoniker": "CertificadoDeProfissoes\\Models\\Profissao.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\CertificadoDeProfissoes\\CertificadoDeProfissoes\\Models\\Profissao.cs",
+              "RelativeToolTip": "CertificadoDeProfissoes\\Models\\Profissao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:30:11.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

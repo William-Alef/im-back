@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\bin\Debug\net9.0\ClubeAlura.exe
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\bin\Debug\net9.0\ClubeAlura.deps.json
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\bin\Debug\net9.0\ClubeAlura.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\bin\Debug\net9.0\ClubeAlura.dll
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\bin\Debug\net9.0\ClubeAlura.pdb
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\obj\Debug\net9.0\ClubeAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\obj\Debug\net9.0\ClubeAlura.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\obj\Debug\net9.0\ClubeAlura.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\obj\Debug\net9.0\ClubeAlura.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\obj\Debug\net9.0\ClubeAlura.dll
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\obj\Debug\net9.0\refint\ClubeAlura.dll
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\obj\Debug\net9.0\ClubeAlura.pdb
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\obj\Debug\net9.0\ClubeAlura.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\ClubeAlura\ClubeAlura\obj\Debug\net9.0\ref\ClubeAlura.dll

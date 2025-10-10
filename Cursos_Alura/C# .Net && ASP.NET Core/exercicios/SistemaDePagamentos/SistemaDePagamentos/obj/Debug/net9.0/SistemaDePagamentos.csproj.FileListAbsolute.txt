@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\bin\Debug\net9.0\SistemaDePagamentos.exe
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\bin\Debug\net9.0\SistemaDePagamentos.deps.json
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\bin\Debug\net9.0\SistemaDePagamentos.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\bin\Debug\net9.0\SistemaDePagamentos.dll
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\bin\Debug\net9.0\SistemaDePagamentos.pdb
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\obj\Debug\net9.0\SistemaDePagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\obj\Debug\net9.0\SistemaDePagamentos.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\obj\Debug\net9.0\SistemaDePagamentos.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\obj\Debug\net9.0\SistemaDePagamentos.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\obj\Debug\net9.0\SistemaDePagamentos.dll
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\obj\Debug\net9.0\refint\SistemaDePagamentos.dll
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\obj\Debug\net9.0\SistemaDePagamentos.pdb
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\obj\Debug\net9.0\SistemaDePagamentos.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\SistemaDePagamentos\SistemaDePagamentos\obj\Debug\net9.0\ref\SistemaDePagamentos.dll

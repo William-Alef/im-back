@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\bin\Debug\net9.0\TiposSalarios.exe
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\bin\Debug\net9.0\TiposSalarios.deps.json
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\bin\Debug\net9.0\TiposSalarios.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\bin\Debug\net9.0\TiposSalarios.dll
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\bin\Debug\net9.0\TiposSalarios.pdb
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\obj\Debug\net9.0\TiposSalarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\obj\Debug\net9.0\TiposSalarios.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\obj\Debug\net9.0\TiposSalarios.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\obj\Debug\net9.0\TiposSalarios.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\obj\Debug\net9.0\TiposSalarios.dll
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\obj\Debug\net9.0\refint\TiposSalarios.dll
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\obj\Debug\net9.0\TiposSalarios.pdb
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\obj\Debug\net9.0\TiposSalarios.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\TiposSalarios\TiposSalarios\obj\Debug\net9.0\ref\TiposSalarios.dll

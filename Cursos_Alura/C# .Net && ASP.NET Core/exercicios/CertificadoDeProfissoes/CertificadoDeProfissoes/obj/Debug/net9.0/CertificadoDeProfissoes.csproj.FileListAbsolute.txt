@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\bin\Debug\net9.0\CertificadoDeProfissoes.exe
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\bin\Debug\net9.0\CertificadoDeProfissoes.deps.json
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\bin\Debug\net9.0\CertificadoDeProfissoes.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\bin\Debug\net9.0\CertificadoDeProfissoes.dll
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\bin\Debug\net9.0\CertificadoDeProfissoes.pdb
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\obj\Debug\net9.0\CertificadoDeProfissoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\obj\Debug\net9.0\CertificadoDeProfissoes.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\obj\Debug\net9.0\CertificadoDeProfissoes.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\obj\Debug\net9.0\CertificadoDeProfissoes.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\obj\Debug\net9.0\CertificadoDeProfissoes.dll
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\obj\Debug\net9.0\refint\CertificadoDeProfissoes.dll
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\obj\Debug\net9.0\CertificadoDeProfissoes.pdb
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\obj\Debug\net9.0\CertificadoDeProfissoes.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\CertificadoDeProfissoes\CertificadoDeProfissoes\obj\Debug\net9.0\ref\CertificadoDeProfissoes.dll

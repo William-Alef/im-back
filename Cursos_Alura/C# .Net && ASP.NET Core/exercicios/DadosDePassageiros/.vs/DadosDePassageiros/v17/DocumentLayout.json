@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DadosDePassageiros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A21C82-BC1B-4660-8CB3-16B6921CED2C}|DadosDePassageiros\\DadosDePassageiros.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\dadosdepassageiros\\dadosdepassageiros\\models\\passageiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A21C82-BC1B-4660-8CB3-16B6921CED2C}|DadosDePassageiros\\DadosDePassageiros.csproj|solutionrelative:dadosdepassageiros\\models\\passageiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A21C82-BC1B-4660-8CB3-16B6921CED2C}|DadosDePassageiros\\DadosDePassageiros.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\dadosdepassageiros\\dadosdepassageiros\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A21C82-BC1B-4660-8CB3-16B6921CED2C}|DadosDePassageiros\\DadosDePassageiros.csproj|solutionrelative:dadosdepassageiros\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A21C82-BC1B-4660-8CB3-16B6921CED2C}|DadosDePassageiros\\DadosDePassageiros.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\dadosdepassageiros\\dadosdepassageiros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A21C82-BC1B-4660-8CB3-16B6921CED2C}|DadosDePassageiros\\DadosDePassageiros.csproj|solutionrelative:dadosdepassageiros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Passageiro.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DadosDePassageiros\\DadosDePassageiros\\Models\\Passageiro.cs",
+              "RelativeDocumentMoniker": "DadosDePassageiros\\Models\\Passageiro.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DadosDePassageiros\\DadosDePassageiros\\Models\\Passageiro.cs",
+              "RelativeToolTip": "DadosDePassageiros\\Models\\Passageiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:20:51.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DadosDePassageiros\\DadosDePassageiros\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "DadosDePassageiros\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DadosDePassageiros\\DadosDePassageiros\\Models\\Pessoa.cs",
+              "RelativeToolTip": "DadosDePassageiros\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:19:25.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DadosDePassageiros\\DadosDePassageiros\\Program.cs",
+              "RelativeDocumentMoniker": "DadosDePassageiros\\Program.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DadosDePassageiros\\DadosDePassageiros\\Program.cs",
+              "RelativeToolTip": "DadosDePassageiros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:18:41.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
