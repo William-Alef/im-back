@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DesserializacaoFilme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74A5FB60-8A9E-4FAE-A290-9EDD80FF8782}|DesserializacaoFilme\\DesserializacaoFilme.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\desserializacaofilme\\desserializacaofilme\\services\\filmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A5FB60-8A9E-4FAE-A290-9EDD80FF8782}|DesserializacaoFilme\\DesserializacaoFilme.csproj|solutionrelative:desserializacaofilme\\services\\filmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A5FB60-8A9E-4FAE-A290-9EDD80FF8782}|DesserializacaoFilme\\DesserializacaoFilme.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\desserializacaofilme\\desserializacaofilme\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A5FB60-8A9E-4FAE-A290-9EDD80FF8782}|DesserializacaoFilme\\DesserializacaoFilme.csproj|solutionrelative:desserializacaofilme\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A5FB60-8A9E-4FAE-A290-9EDD80FF8782}|DesserializacaoFilme\\DesserializacaoFilme.csproj|c:\\users\\hawlk\\source\\repos\\exercises\\desserializacaofilme\\desserializacaofilme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A5FB60-8A9E-4FAE-A290-9EDD80FF8782}|DesserializacaoFilme\\DesserializacaoFilme.csproj|solutionrelative:desserializacaofilme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmeService.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DesserializacaoFilme\\DesserializacaoFilme\\Services\\FilmeService.cs",
+              "RelativeDocumentMoniker": "DesserializacaoFilme\\Services\\FilmeService.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DesserializacaoFilme\\DesserializacaoFilme\\Services\\FilmeService.cs",
+              "RelativeToolTip": "DesserializacaoFilme\\Services\\FilmeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:05:08.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DesserializacaoFilme\\DesserializacaoFilme\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "DesserializacaoFilme\\Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DesserializacaoFilme\\DesserializacaoFilme\\Models\\Filme.cs*",
+              "RelativeToolTip": "DesserializacaoFilme\\Models\\Filme.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:36:36.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DesserializacaoFilme\\DesserializacaoFilme\\Program.cs",
+              "RelativeDocumentMoniker": "DesserializacaoFilme\\Program.cs",
+              "ToolTip": "C:\\Users\\hawlk\\source\\repos\\Exercises\\DesserializacaoFilme\\DesserializacaoFilme\\Program.cs",
+              "RelativeToolTip": "DesserializacaoFilme\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:34:10.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

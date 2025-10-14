@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\obj\Debug\net9.0\DesserializacaoPais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\obj\Debug\net9.0\DesserializacaoPais.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\obj\Debug\net9.0\DesserializacaoPais.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\obj\Debug\net9.0\DesserializacaoPais.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\bin\Debug\net9.0\DesserializacaoPais.exe
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\bin\Debug\net9.0\DesserializacaoPais.deps.json
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\bin\Debug\net9.0\DesserializacaoPais.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\bin\Debug\net9.0\DesserializacaoPais.dll
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\bin\Debug\net9.0\DesserializacaoPais.pdb
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\obj\Debug\net9.0\DesserializacaoPais.dll
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\obj\Debug\net9.0\refint\DesserializacaoPais.dll
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\obj\Debug\net9.0\DesserializacaoPais.pdb
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\obj\Debug\net9.0\DesserializacaoPais.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoPais\DesserializacaoPais\obj\Debug\net9.0\ref\DesserializacaoPais.dll

@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\bin\Debug\net9.0\DesserializacaoCarro.exe
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\bin\Debug\net9.0\DesserializacaoCarro.deps.json
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\bin\Debug\net9.0\DesserializacaoCarro.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\bin\Debug\net9.0\DesserializacaoCarro.dll
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\bin\Debug\net9.0\DesserializacaoCarro.pdb
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\obj\Debug\net9.0\DesserializacaoCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\obj\Debug\net9.0\DesserializacaoCarro.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\obj\Debug\net9.0\DesserializacaoCarro.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\obj\Debug\net9.0\DesserializacaoCarro.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\obj\Debug\net9.0\DesserializacaoCarro.dll
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\obj\Debug\net9.0\refint\DesserializacaoCarro.dll
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\obj\Debug\net9.0\DesserializacaoCarro.pdb
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\obj\Debug\net9.0\DesserializacaoCarro.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoCarro\DesserializacaoCarro\obj\Debug\net9.0\ref\DesserializacaoCarro.dll

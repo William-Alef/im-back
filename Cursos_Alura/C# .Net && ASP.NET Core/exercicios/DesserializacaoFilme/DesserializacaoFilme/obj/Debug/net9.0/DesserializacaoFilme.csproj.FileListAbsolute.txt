@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\bin\Debug\net9.0\DesserializacaoFilme.exe
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\bin\Debug\net9.0\DesserializacaoFilme.deps.json
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\bin\Debug\net9.0\DesserializacaoFilme.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\bin\Debug\net9.0\DesserializacaoFilme.dll
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\bin\Debug\net9.0\DesserializacaoFilme.pdb
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\obj\Debug\net9.0\DesserializacaoFilme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\obj\Debug\net9.0\DesserializacaoFilme.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\obj\Debug\net9.0\DesserializacaoFilme.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\obj\Debug\net9.0\DesserializacaoFilme.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\obj\Debug\net9.0\DesserializacaoFilme.dll
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\obj\Debug\net9.0\refint\DesserializacaoFilme.dll
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\obj\Debug\net9.0\DesserializacaoFilme.pdb
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\obj\Debug\net9.0\DesserializacaoFilme.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoFilme\DesserializacaoFilme\obj\Debug\net9.0\ref\DesserializacaoFilme.dll
