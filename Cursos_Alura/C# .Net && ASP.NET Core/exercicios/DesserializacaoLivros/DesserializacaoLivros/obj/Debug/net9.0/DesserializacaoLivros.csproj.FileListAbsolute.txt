@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\bin\Debug\net9.0\DesserializacaoLivros.exe
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\bin\Debug\net9.0\DesserializacaoLivros.deps.json
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\bin\Debug\net9.0\DesserializacaoLivros.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\bin\Debug\net9.0\DesserializacaoLivros.dll
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\bin\Debug\net9.0\DesserializacaoLivros.pdb
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\obj\Debug\net9.0\DesserializacaoLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\obj\Debug\net9.0\DesserializacaoLivros.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\obj\Debug\net9.0\DesserializacaoLivros.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\obj\Debug\net9.0\DesserializacaoLivros.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\obj\Debug\net9.0\DesserializacaoLivros.dll
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\obj\Debug\net9.0\refint\DesserializacaoLivros.dll
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\obj\Debug\net9.0\DesserializacaoLivros.pdb
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\obj\Debug\net9.0\DesserializacaoLivros.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\DesserializacaoLivros\DesserializacaoLivros\obj\Debug\net9.0\ref\DesserializacaoLivros.dll
