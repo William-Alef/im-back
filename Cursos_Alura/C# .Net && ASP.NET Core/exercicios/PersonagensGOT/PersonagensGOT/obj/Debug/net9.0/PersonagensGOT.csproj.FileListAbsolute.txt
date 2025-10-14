@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\bin\Debug\net9.0\PersonagensGOT.exe
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\bin\Debug\net9.0\PersonagensGOT.deps.json
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\bin\Debug\net9.0\PersonagensGOT.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\bin\Debug\net9.0\PersonagensGOT.dll
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\bin\Debug\net9.0\PersonagensGOT.pdb
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\obj\Debug\net9.0\PersonagensGOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\obj\Debug\net9.0\PersonagensGOT.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\obj\Debug\net9.0\PersonagensGOT.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\obj\Debug\net9.0\PersonagensGOT.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\obj\Debug\net9.0\PersonagensGOT.dll
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\obj\Debug\net9.0\refint\PersonagensGOT.dll
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\obj\Debug\net9.0\PersonagensGOT.pdb
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\obj\Debug\net9.0\PersonagensGOT.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\PersonagensGOT\PersonagensGOT\obj\Debug\net9.0\ref\PersonagensGOT.dll
