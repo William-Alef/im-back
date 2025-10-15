@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\bin\Debug\net9.0\ScreenSound_V4.exe
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\bin\Debug\net9.0\ScreenSound_V4.deps.json
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\bin\Debug\net9.0\ScreenSound_V4.runtimeconfig.json
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\bin\Debug\net9.0\ScreenSound_V4.dll
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\bin\Debug\net9.0\ScreenSound_V4.pdb
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\obj\Debug\net9.0\ScreenSound_V4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\obj\Debug\net9.0\ScreenSound_V4.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\obj\Debug\net9.0\ScreenSound_V4.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\obj\Debug\net9.0\ScreenSound_V4.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\obj\Debug\net9.0\ScreenSound_V4.dll
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\obj\Debug\net9.0\refint\ScreenSound_V4.dll
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\obj\Debug\net9.0\ScreenSound_V4.pdb
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\obj\Debug\net9.0\ScreenSound_V4.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\ScreenSound_V4\ScreenSound_V4\obj\Debug\net9.0\ref\ScreenSound_V4.dll

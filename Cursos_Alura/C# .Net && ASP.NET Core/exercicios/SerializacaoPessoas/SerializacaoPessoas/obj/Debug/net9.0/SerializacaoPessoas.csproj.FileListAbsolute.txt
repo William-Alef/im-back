@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\bin\Debug\net9.0\SerializacaoPessoas.exe
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\bin\Debug\net9.0\SerializacaoPessoas.deps.json
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\bin\Debug\net9.0\SerializacaoPessoas.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\bin\Debug\net9.0\SerializacaoPessoas.dll
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\bin\Debug\net9.0\SerializacaoPessoas.pdb
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\obj\Debug\net9.0\SerializacaoPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\obj\Debug\net9.0\SerializacaoPessoas.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\obj\Debug\net9.0\SerializacaoPessoas.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\obj\Debug\net9.0\SerializacaoPessoas.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\obj\Debug\net9.0\SerializacaoPessoas.dll
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\obj\Debug\net9.0\refint\SerializacaoPessoas.dll
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\obj\Debug\net9.0\SerializacaoPessoas.pdb
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\obj\Debug\net9.0\SerializacaoPessoas.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\SerializacaoPessoas\SerializacaoPessoas\obj\Debug\net9.0\ref\SerializacaoPessoas.dll
