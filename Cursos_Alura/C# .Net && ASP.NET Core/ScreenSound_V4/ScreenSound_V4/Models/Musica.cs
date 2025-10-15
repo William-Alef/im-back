@@ -1,8 +1,11 @@
-﻿using System.Text.Json.Serialization;
+﻿using System.Reflection.Metadata.Ecma335;
+using System.Text.Json.Serialization;
 
 namespace ScreenSound_V4.Models;
 internal class Musica
 {
+    private string[] tonalidades = { "C", "C#", "D", "Eb", "E", "F", "F#", "G", "Ab", "A", "Bb", "B" };
+
     [JsonPropertyName("song")]
     public string? Nome { get; set; }
     
@@ -27,6 +30,16 @@ internal class Musica
             return int.Parse(AnoNaoConvertido!);
         }
     }
+
+    [JsonPropertyName("key")]
+    public int Key { get; set; }
+    public string Tonalidade { 
+        get 
+        {
+            return tonalidades[Key];
+        } 
+    }
+
     public Musica (){}
     public Musica (string nome, string artista, double duracao, string genero, string popularidade, string ano)
     {
@@ -44,7 +57,8 @@ internal class Musica
             $"Nome: {Nome}" +
             $"\nArtista: {Artista}" +
             $"\nDuração: {Duracao}" +
-            $"\nGênero: {Genero}\n"
+            $"\nGênero: {Genero}" +
+            $"\nTonalidade: {Tonalidade}\n"
         );
     }
 }

@@ -1,6 +1,5 @@
 ﻿using ScreenSound_V4.Filtros;
 using ScreenSound_V4.Models;
-using System.ComponentModel;
 using System.Text.Json;
 
 using (HttpClient cliente = new HttpClient()) 
@@ -16,12 +15,14 @@ using (HttpClient cliente = new HttpClient())
         LinqOrder.ExibirArtistasDecrescente(musicas);
         Console.WriteLine("--------------------------");
 
-        LinqFilter.FiltrarMusicasDoArtista(musicas, "U2");
+        LinqFilter.FiltrarMusicasDoArtista(musicas, "Kendrick Lamar");
         Console.WriteLine("--------------------------");
 
         LinqFilter.FiltrarMusicasPorAno(musicas, 2020);
         Console.WriteLine("--------------------------");
-       
+
+        LinqFilter.FiltrarMusicasPorTonalidade(musicas, "F#");
+
         MusicasPreferidas musicasWilliam = new MusicasPreferidas("William");
         musicasWilliam.AdicionarMusicas(musicas[1]);
         musicasWilliam.AdicionarMusicas(musicas[2]);
@@ -29,9 +30,7 @@ using (HttpClient cliente = new HttpClient())
         musicasWilliam.AdicionarMusicas(musicas[4]);
         musicasWilliam.AdicionarMusicas(musicas[5]);
 
-        musicasWilliam.GerarArquivoJson();
-
-
+        //musicasWilliam.GerarArquivoJson();
     }
     catch(Exception ex)
     {

@@ -29,7 +29,19 @@ internal class LinqFilter
             .OrderBy(m => m.Nome)
             .Select(m => m.Nome)
             .ToList();
-        Console.WriteLine($"Musicas do ano {ano}:\n");
+        Console.WriteLine($"Músicas do ano {ano}:\n");
         foreach (var musica in musicasDoAno) Console.WriteLine(musica);
+    }
+
+    public static void FiltrarMusicasPorTonalidade(List<Musica> listaMusicas, string tom)
+    {
+        var musicasDaTonalidade = listaMusicas.Where(m => m.Tonalidade!.Equals(tom))
+            .Distinct()
+            .OrderBy(m => m.Nome)
+            .Select(m => m.Nome)
+            .ToList();
+        Console.WriteLine($"Músicas em {tom}:\n");
+        foreach (var musica in musicasDaTonalidade) Console.WriteLine(musica);
+
     }
 }
