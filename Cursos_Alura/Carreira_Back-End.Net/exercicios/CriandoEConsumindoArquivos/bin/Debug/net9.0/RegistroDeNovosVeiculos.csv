@@ -1,0 +1,545 @@
+Chevrolet,Onix,Branco,116,98500.00,187
+Volkswagen,Polo,Prata,105,96750.00,185
+Hyundai,HB20,Preto,80,90990.00,165
+Fiat,Argo,Vermelho,109,88990.00,180
+Fiat,Mobi,Cinza,71,69500.00,150
+Renault,Kwid,Branco,68,69990.00,147
+Volkswagen,Gol,Cinza,84,75000.00,160
+Chevrolet,Tracker,Azul,133,125000.00,195
+Hyundai,Creta,Prata,120,135500.00,188
+Volkswagen,T-Cross,Preto,150,145990.00,205
+Fiat,Strada,Vermelho,109,105000.00,175
+Chevrolet,S10,Branco,200,280000.00,180
+Toyota,Corolla,Prata,177,159900.00,210
+Toyota,Hilux,Preto,204,335000.00,175
+Honda,Civic,Cinza,184,175000.00,215
+Jeep,Renegade,Verde,185,140500.00,200
+Jeep,Compass,Branco,185,190000.00,202
+Nissan,Kicks,Azul,113,109990.00,178
+Renault,Duster,Marrom,120,115000.00,179
+Ford,Ranger,Prata,250,295000.00,180
+Mitsubishi,L200,Preto,190,270000.00,175
+BMW,Série 3,Branco,258,350000.00,250
+Audi,A4,Cinza,190,290000.00,230
+Mercedes-Benz,C180,Preto,156,260000.00,225
+Suzuki,Jimny,Vermelho,84,33778.00,173
+Chevrolet,Onix Plus,Prata,116,105500.00,190
+Volkswagen,Virtus,Preto,150,120990.00,207
+Hyundai,HB20S,Azul,80,95000.00,170
+Fiat,Cronos,Branco,109,92500.00,182
+Renault,Stepway,Cinza,118,98990.00,176
+Ford,Ka,Prata,85,72000.00,163
+Nissan,Versa,Vermelho,114,118500.00,185
+Chevrolet,Spin,Branco,111,119900.00,173
+Volkswagen,Nivus,Cinza,128,130000.00,189
+Hyundai,Tucson,Preto,177,185000.00,201
+Fiat,Toro,Azul,185,155000.00,190
+Renault,Captur,Prata,120,119900.00,178
+Toyota,Yaris,Branco,110,105000.00,175
+Honda,Fit,Vermelho,116,90000.00,170
+Jeep,Commander,Preto,185,235000.00,205
+BMW,X1,Cinza,192,280000.00,220
+Audi,Q3,Branco,150,250000.00,215
+Mercedes-Benz,A200,Prata,163,220000.00,210
+Chevrolet,Bolt,Azul,200,255000.00,190
+Volkswagen,ID.4,Branco,204,380000.00,160
+Hyundai,Ioniq,Preto,139,230000.00,185
+Fiat,500e,Vermelho,118,200000.00,150
+Renault,Zoe,Cinza,135,195000.00,145
+Toyota,Prius,Branco,122,170000.00,180
+Honda,HR-V,Prata,177,150000.00,198
+Nissan,Leaf,Preto,149,240000.00,155
+Ford,Territory,Azul,150,165000.00,200
+Mitsubishi,ASX,Branco,160,130000.00,190
+BMW,M3,Vermelho,480,750000.00,290
+Audi,RS 6,Cinza,600,990000.00,305
+Mercedes-Benz,AMG GT,Preto,530,850000.00,310
+Chevrolet,Camaro,Amarelo,461,500000.00,280
+Volkswagen,Jetta GLI,Branco,230,170000.00,245
+Hyundai,Veloster,Prata,201,145000.00,220
+Fiat,Pulse,Azul,130,115000.00,189
+Renault,Logan,Branco,82,78000.00,162
+Toyota,SW4,Preto,204,390000.00,180
+Honda,City,Cinza,126,110000.00,185
+Jeep,Gladiator,Vermelho,285,450000.00,180
+Nissan,Frontier,Branco,190,250000.00,178
+Ford,Mustang,Azul,466,550000.00,270
+Mitsubishi,Outlander,Prata,160,170000.00,195
+BMW,Série 5,Preto,333,480000.00,250
+Audi,A6,Cinza,340,450000.00,250
+Mercedes-Benz,E300,Branco,258,400000.00,250
+Suzuki,S-Cross,Prata,140,120000.00,188
+Chevrolet,Cruze,Preto,153,135000.00,205
+Volkswagen,Tiguan,Vermelho,186,180000.00,210
+Hyundai,Azera,Cinza,250,190000.00,230
+Fiat,500,Azul,105,80000.00,170
+Renault,Sandero,Branco,118,85000.00,175
+Toyota,RAV4,Prata,222,250000.00,200
+Honda,CR-V,Preto,190,220000.00,208
+Jeep,Wrangler,Verde,272,490000.00,180
+Nissan,Sentra,Cinza,140,125000.00,195
+Ford,Edge,Branco,250,210000.00,210
+Mitsubishi,Eclipse Cross,Prata,165,150000.00,200
+BMW,Série 7,Preto,544,800000.00,250
+Audi,A8,Cinza,460,750000.00,250
+Mercedes-Benz,S500,Branco,435,900000.00,250
+Chevrolet,Trailblazer,Azul,200,350000.00,180
+Volkswagen,Amarok,Prata,258,320000.00,190
+Hyundai,Santa Fe,Preto,280,210000.00,215
+Fiat,Doblo,Vermelho,132,95000.00,165
+Renault,Master,Branco,130,180000.00,140
+Toyota,Corolla Cross,Cinza,177,165000.00,198
+Honda,Pilot,Prata,280,250000.00,210
+Jeep,Grand Cherokee,Preto,286,400000.00,220
+Nissan,X-Trail,Azul,170,180000.00,190
+Ford,Bronco,Branco,330,300000.00,200
+Mitsubishi,Pajero Sport,Prata,190,260000.00,185
+BMW,Série 1,Preto,140,200000.00,210
+Audi,A3,Cinza,150,180000.00,220
+Mercedes-Benz,CLA250,Branco,224,280000.00,240
+Chevrolet,Corsa,Vermelho,70,55000.00,150
+Volkswagen,Fox,Prata,101,65000.00,175
+Hyundai,i30,Preto,160,95000.00,200
+Fiat,Uno,Cinza,75,50000.00,145
+Renault,Clio,Branco,80,45000.00,155
+Toyota,Etios,Prata,107,75000.00,170
+Honda,Fit Twist,Preto,116,92000.00,170
+Jeep,Cherokee,Azul,271,250000.00,200
+Nissan,Livina,Branco,108,80000.00,165
+Ford,Fusion,Prata,248,150000.00,220
+Mitsubishi,Lancer,Preto,160,120000.00,205
+BMW,Z4,Vermelho,258,350000.00,240
+Audi,TT,Cinza,245,300000.00,250
+Mercedes-Benz,SLC300,Branco,245,320000.00,240
+Chevrolet,Kadett,Prata,90,30000.00,160
+Volkswagen,Parati,Preto,99,35000.00,165
+Hyundai,Elantra,Azul,150,105000.00,200
+Fiat,Palio,Branco,80,48000.00,155
+Renault,Twingo,Verde,60,25000.00,140
+Toyota,Bandeirante,Prata,98,150000.00,120
+Honda,Passport,Preto,280,240000.00,210
+Jeep,Renegade,Branco,139,129990.00,190
+Nissan,March,Cinza,77,65000.00,158
+Ford,Focus,Vermelho,178,110000.00,215
+Mitsubishi,Outlander Sport,Prata,147,140000.00,190
+BMW,X3,Preto,249,350000.00,235
+Audi,Q5,Cinza,249,320000.00,230
+Mercedes-Benz,GLC300,Branco,258,390000.00,240
+Chevrolet,Omega,Azul,220,90000.00,210
+Volkswagen,Bora,Prata,150,85000.00,200
+Hyundai,HB20X,Preto,80,92000.00,168
+Fiat,Idea,Vermelho,115,70000.00,170
+Renault,Captur,Cinza,120,119900.00,180
+Toyota,Prius C,Branco,99,140000.00,175
+Honda,WR-V,Prata,116,105000.00,175
+Jeep,Compass,Preto,139,179900.00,195
+Nissan,Versa,Azul,114,118500.00,185
+Ford,Ecosport,Branco,137,110000.00,180
+Mitsubishi,Pajero Full,Prata,250,350000.00,180
+BMW,Série 4,Preto,258,450000.00,250
+Audi,A5,Cinza,245,380000.00,250
+Mercedes-Benz,CLS450,Branco,367,600000.00,250
+Chevrolet,Monza,Vermelho,110,40000.00,170
+Volkswagen,Saveiro,Prata,101,90000.00,170
+Hyundai,Creta,Preto,167,145000.00,190
+Fiat,Weekend,Cinza,115,75000.00,170
+Renault,Oroch,Branco,150,125000.00,185
+Toyota,Corolla,Prata,144,155000.00,205
+Honda,Accord,Preto,252,240000.00,230
+Jeep,Willys,Verde,60,80000.00,100
+Nissan,Tiida,Azul,126,88000.00,180
+Ford,Fiesta,Branco,128,75000.00,180
+Mitsubishi,Grandis,Prata,165,110000.00,190
+BMW,X5,Preto,333,550000.00,250
+Audi,Q7,Cinza,340,580000.00,250
+Mercedes-Benz,GLE400,Branco,367,650000.00,250
+Chevrolet,Agile,Vermelho,102,60000.00,170
+Volkswagen,Up!,Prata,105,70000.00,165
+Hyundai,HB20,Preto,120,99990.00,187
+Fiat,Marea,Cinza,142,50000.00,195
+Renault,Megane,Branco,138,80000.00,190
+Toyota,Hilux SW4,Prata,204,395000.00,180
+Honda,Pilot,Preto,280,250000.00,210
+Jeep,Grand Cherokee,Azul,286,400000.00,220
+Nissan,Murano,Branco,260,200000.00,210
+Ford,Explorer,Prata,300,350000.00,220
+Mitsubishi,TR4,Preto,131,95000.00,165
+BMW,Série 2,Vermelho,184,280000.00,235
+Audi,A1,Cinza,116,160000.00,203
+Mercedes-Benz,GLA200,Branco,163,250000.00,220
+Chevrolet,Meriva,Prata,110,65000.00,170
+Volkswagen,CrossFox,Preto,105,80000.00,175
+Hyundai,ix35,Azul,167,120000.00,185
+Fiat,Punto,Branco,107,70000.00,175
+Renault,Fluence,Prata,140,90000.00,200
+Toyota,Camry,Preto,209,240000.00,220
+Honda,Civic Si,Vermelho,208,180000.00,235
+Jeep,Comanche,Cinza,150,120000.00,160
+Nissan,Maxima,Branco,300,250000.00,230
+Ford,Kuga,Prata,178,160000.00,205
+Mitsubishi,Pajero Dakar,Preto,200,290000.00,180
+BMW,X6,Azul,333,600000.00,250
+Audi,Q8,Branco,340,700000.00,250
+Mercedes-Benz,GLS450,Prata,367,850000.00,250
+Chevrolet,Zafira,Preto,136,80000.00,180
+Volkswagen,Touareg,Vermelho,340,350000.00,240
+Hyundai,Veracruz,Cinza,260,180000.00,210
+Fiat,Siena,Branco,86,60000.00,165
+Renault,Trafic,Prata,120,150000.00,140
+Toyota,Prius V,Preto,134,155000.00,180
+Honda,Odyssey,Azul,248,200000.00,200
+Jeep,Wagoneer,Branco,471,700000.00,220
+Nissan,370Z,Prata,332,300000.00,250
+Ford,GT,Preto,647,2000000.00,348
+Mitsubishi,Airtrek,Vermelho,160,100000.00,190
+BMW,i8,Cinza,374,1000000.00,250
+Audi,E-Tron,Branco,408,550000.00,200
+Mercedes-Benz,EQC,Prata,408,500000.00,180
+Chevrolet,Captiva,Preto,184,120000.00,190
+Volkswagen,Passat,Azul,220,180000.00,230
+Hyundai,Sonata,Branco,198,140000.00,210
+Fiat,Linea,Prata,152,90000.00,190
+Renault,Koleos,Preto,171,150000.00,200
+Toyota,Mirai,Vermelho,153,300000.00,175
+Honda,Clarity,Cinza,212,250000.00,180
+Jeep,Cherokee Sport,Branco,190,150000.00,185
+Nissan,GTR,Prata,565,1200000.00,315
+Ford,Raptor,Preto,450,550000.00,180
+Mitsubishi,Pajero Sport,Azul,190,260000.00,185
+BMW,M5,Branco,600,850000.00,305
+Audi,RS7,Prata,600,1100000.00,305
+Mercedes-Benz,AMG E63,Preto,612,950000.00,300
+Chevrolet,Cobalt,Vermelho,106,85000.00,173
+Volkswagen,SpaceFox,Cinza,101,75000.00,170
+Hyundai,H100,Branco,130,120000.00,145
+Fiat,Doblò Cargo,Prata,132,105000.00,150
+Renault,Kangoo,Preto,98,95000.00,140
+Toyota,Supra,Vermelho,382,650000.00,250
+Honda,NSX,Cinza,573,1500000.00,307
+Jeep,Gladiator Mojave,Branco,285,460000.00,180
+Nissan,Z,Prata,400,450000.00,250
+Ford,Bronco Sport,Preto,250,250000.00,200
+Mitsubishi,Lancer Evolution,Azul,291,250000.00,240
+BMW,iX,Branco,523,750000.00,200
+Audi,RS E-Tron GT,Prata,646,1300000.00,250
+Mercedes-Benz,EQS,Preto,516,900000.00,210
+Chevrolet,Spin,Vermelho,111,119900.00,173
+Volkswagen,T-Cross Sense,Cinza,116,130000.00,184
+Hyundai,HB20 Evolution,Branco,120,99990.00,187
+Fiat,Pulse Abarth,Prata,185,149990.00,210
+Renault,Duster Turbo,Preto,170,140000.00,200
+Toyota,Yaris Sedan,Vermelho,110,108000.00,175
+Honda,City Hatchback,Cinza,126,115000.00,185
+Jeep,Renegade Longitude,Branco,139,145000.00,190
+Nissan,Kicks Exclusive,Prata,113,129990.00,180
+Ford,Territory Titanium,Preto,150,175000.00,200
+Mitsubishi,Eclipse Cross HPE-S,Azul,165,180000.00,205
+BMW,Série 3 320i,Branco,184,330000.00,235
+Audi,A4 S Line,Prata,190,300000.00,230
+Mercedes-Benz,C200,Preto,204,380000.00,240
+Chevrolet,S10 Z71,Vermelho,200,310000.00,180
+Volkswagen,Amarok Extreme,Cinza,258,350000.00,190
+Hyundai,Creta Ultimate,Branco,167,165000.00,190
+Fiat,Toro Ultra,Prata,185,195000.00,200
+Renault,Oroch Outsider,Preto,170,135000.00,185
+Toyota,Hilux GR-S,Vermelho,224,380000.00,185
+Honda,CR-V Touring,Cinza,190,230000.00,208
+Jeep,Commander Overland,Branco,185,255000.00,202
+Nissan,Frontier Platinum,Prata,190,270000.00,178
+Ford,Ranger Limited,Preto,250,330000.00,180
+Mitsubishi,L200 Triton Savana,Azul,190,300000.00,175
+BMW,M4 Competition,Branco,510,850000.00,290
+Audi,RS Q8,Prata,600,1500000.00,305
+Mercedes-Benz,AMG G63,Preto,585,1800000.00,240
+Chevrolet,Onix LT,Vermelho,80,85000.00,167
+Volkswagen,Polo Comfortline,Cinza,116,105000.00,190
+Hyundai,HB20 Platinum,Branco,120,109990.00,187
+Fiat,Argo Trekking,Prata,109,92000.00,180
+Fiat,Mobi Like,Preto,71,69500.00,150
+Renault,Kwid Intense,Azul,68,72000.00,147
+Volkswagen,Gol Last Edition,Branco,84,78000.00,160
+Chevrolet,Onix RS,Prata,116,108000.00,187
+Hyundai,Creta Comfort,Preto,120,130000.00,188
+Volkswagen,T-Cross Highline,Vermelho,150,155000.00,205
+Fiat,Strada Ranch,Cinza,109,115000.00,175
+Chevrolet,S10 LTZ,Branco,200,295000.00,180
+Toyota,Corolla Altis Premium,Prata,177,169900.00,210
+Toyota,Hilux SRX,Preto,204,350000.00,175
+Honda,Civic EXL,Azul,184,185000.00,215
+Jeep,Renegade Trailhawk,Branco,185,150000.00,200
+Jeep,Compass Limited,Prata,185,200000.00,202
+Nissan,Kicks Advance,Preto,113,119990.00,178
+Renault,Duster Iconic,Vermelho,120,125000.00,179
+Ford,Ranger XLT,Cinza,250,310000.00,180
+Mitsubishi,L200 Triton GLS,Branco,190,285000.00,175
+BMW,Série 3 M340i,Prata,387,490000.00,250
+Audi,A4 Black Edition,Preto,249,350000.00,250
+Mercedes-Benz,C300,Azul,258,400000.00,250
+Suzuki,Jimny Sierra,Branco,108,160000.00,180
+Chevrolet,Onix Plus Premier,Prata,116,115000.00,190
+Volkswagen,Virtus Exclusive,Preto,150,135000.00,207
+Hyundai,HB20S Vision,Vermelho,80,98000.00,170
+Fiat,Cronos Precision,Cinza,109,95000.00,182
+Renault,Stepway Zen,Branco,118,100000.00,176
+Ford,Ka Freestyle,Prata,85,75000.00,163
+Nissan,Versa Sense,Preto,114,110000.00,185
+Chevrolet,Spin Activ,Azul,111,125000.00,173
+Volkswagen,Nivus Comfortline,Branco,128,135000.00,189
+Hyundai,Tucson Limited,Prata,177,195000.00,201
+Fiat,Toro Endurance,Preto,139,145000.00,188
+Renault,Captur Bose,Vermelho,120,129900.00,178
+Toyota,Yaris XL,Cinza,110,100000.00,175
+Honda,Fit LX,Branco,116,88000.00,170
+Jeep,Commander Limited,Prata,185,245000.00,205
+BMW,X1 sDrive20i,Preto,192,295000.00,220
+Audi,Q3 Sportback,Azul,150,265000.00,215
+Mercedes-Benz,A250,Branco,224,300000.00,230
+Chevrolet,Bolt EUV,Prata,200,265000.00,190
+Volkswagen,ID.3,Preto,204,360000.00,160
+Hyundai,Kona Electric,Vermelho,204,270000.00,167
+Fiat,500e Icon,Cinza,118,210000.00,150
+Renault,Kwid E-Tech,Branco,65,145000.00,130
+Toyota,Corolla Hybrid,Prata,122,180000.00,180
+Honda,HR-V EX,Preto,177,160000.00,198
+Nissan,Leaf Plus,Azul,217,290000.00,165
+Ford,Mustang Mach 1,Branco,480,600000.00,260
+Mitsubishi,Outlander PHEV,Prata,221,280000.00,170
+BMW,Série 5 530e,Preto,292,500000.00,235
+Audi,A6 Avant,Vermelho,340,480000.00,250
+Mercedes-Benz,E300 Exclusive,Cinza,258,450000.00,250
+Suzuki,S-Cross Allgrip,Branco,140,130000.00,188
+Chevrolet,Cruze Sport6,Prata,153,140000.00,205
+Volkswagen,Jetta TSI,Preto,150,145000.00,210
+Hyundai,HB20 Comfort Plus,Azul,80,95000.00,165
+Fiat,Pulse Audace,Branco,130,120000.00,189
+Renault,Logan Life,Prata,79,75000.00,160
+Toyota,SW4 SRX,Preto,204,410000.00,180
+Honda,City Sensing,Vermelho,126,118000.00,185
+Jeep,Gladiator Rubicon,Cinza,285,480000.00,180
+Nissan,Frontier Attack,Branco,190,260000.00,178
+Ford,Ranger Black,Prata,250,305000.00,180
+Mitsubishi,L200 Triton Outdoor,Preto,190,290000.00,175
+BMW,M8 Competition,Azul,625,1500000.00,305
+Audi,RS3,Branco,400,550000.00,280
+Mercedes-Benz,AMG A45,Prata,421,580000.00,270
+Chevrolet,Onix Turbo,Preto,116,98500.00,187
+Volkswagen,Polo Track,Vermelho,84,85000.00,167
+Hyundai,HB20 Vision,Cinza,80,88900.00,165
+Fiat,Argo Drive,Branco,71,84990.00,160
+Fiat,Mobi Trekking,Prata,71,72000.00,150
+Renault,Kwid Zen,Preto,68,69990.00,147
+Volkswagen,Gol 1.0,Azul,84,72000.00,160
+Chevrolet,Tracker LT,Branco,116,118000.00,185
+Hyundai,Creta Platinum,Prata,120,140000.00,188
+Volkswagen,T-Cross 200 TSI,Preto,128,139990.00,195
+Fiat,Strada Freedom,Vermelho,109,100000.00,175
+Chevrolet,S10 Advantage,Cinza,200,270000.00,180
+Toyota,Corolla XEi,Branco,177,149900.00,210
+Toyota,Hilux Cabine Simples,Prata,204,280000.00,170
+Honda,Civic Touring,Preto,184,195000.00,215
+Jeep,Renegade Sport,Azul,139,135000.00,190
+Jeep,Compass Sport,Branco,185,185000.00,202
+Nissan,Kicks S,Prata,113,105000.00,178
+Renault,Duster Zen,Preto,120,110000.00,179
+Ford,Ranger XLS,Vermelho,250,280000.00,180
+Mitsubishi,L200 Triton HPE,Cinza,190,275000.00,175
+BMW,Série 3 330e,Branco,292,450000.00,230
+Audi,A4 Avant,Prata,190,320000.00,230
+Mercedes-Benz,C180 Avantgarde,Preto,156,270000.00,225
+Suzuki,Jimny Sierra 4Sport,Azul,108,180000.00,180
+Chevrolet,Onix Plus LTZ,Branco,116,110000.00,190
+Volkswagen,Virtus Highline,Prata,150,129990.00,207
+Hyundai,HB20S Diamond,Preto,120,115000.00,187
+Fiat,Cronos Drive,Vermelho,109,89900.00,182
+Renault,Stepway Intense,Cinza,118,105000.00,176
+Ford,Ka S,Branco,85,68000.00,163
+Nissan,Versa Advance,Prata,114,115000.00,185
+Chevrolet,Spin Premier,Preto,111,129900.00,173
+Volkswagen,Nivus Highline,Azul,128,145000.00,189
+Hyundai,Tucson GLS,Branco,177,175000.00,201
+Fiat,Toro Freedom Diesel,Prata,170,185000.00,190
+Renault,Captur Intense,Preto,120,125000.00,178
+Toyota,Yaris XS,Vermelho,110,103000.00,175
+Honda,Fit EX,Cinza,116,95000.00,170
+Jeep,Commander Limited Diesel,Branco,170,265000.00,200
+BMW,X1 M35i,Prata,306,450000.00,250
+Audi,Q3 Performance,Preto,230,350000.00,230
+Mercedes-Benz,A200 Style,Azul,163,230000.00,210
+Chevrolet,Bolt EV,Branco,200,245000.00,190
+Volkswagen,ID.4 Pro,Prata,299,420000.00,180
+Hyundai,Ioniq Hybrid,Preto,139,240000.00,185
+Fiat,500e Cabrio,Vermelho,118,225000.00,150
+Renault,Zoe Life,Cinza,135,185000.00,145
+Toyota,Prius Premium,Branco,122,175000.00,180
+Honda,HR-V Touring,Prata,177,170000.00,198
+Nissan,Leaf S,Preto,149,230000.00,155
+Ford,Territory S,Azul,150,160000.00,200
+Mitsubishi,ASX HPE,Branco,160,135000.00,190
+BMW,M2 Competition,Prata,410,650000.00,280
+Audi,RS4 Avant,Preto,450,700000.00,280
+Mercedes-Benz,AMG C63,Vermelho,476,750000.00,290
+Chevrolet,Camaro SS,Cinza,461,550000.00,280
+Volkswagen,Jetta R-Line,Branco,150,155000.00,210
+Hyundai,Veloster Turbo,Prata,201,155000.00,220
+Fiat,Pulse Drive,Preto,130,110000.00,189
+Renault,Logan Zen,Azul,82,79000.00,162
+Toyota,SW4 Diamond,Branco,204,430000.00,180
+Honda,City EX,Prata,126,108000.00,185
+Jeep,Gladiator Sport,Preto,285,440000.00,180
+Nissan,Frontier S,Vermelho,190,240000.00,178
+Ford,Mustang GT,Cinza,466,580000.00,270
+Mitsubishi,Outlander HPE,Branco,160,180000.00,195
+BMW,Série 5 540i,Prata,340,550000.00,250
+Audi,A6 Performance,Preto,340,490000.00,250
+Mercedes-Benz,E450,Azul,367,550000.00,250
+Chevrolet,Onix Hatch LT,Branco,80,95000.00,167
+Volkswagen,Polo Highline,Prata,128,110000.00,195
+Hyundai,HB20 Turbo,Preto,120,105000.00,187
+Fiat,Argo HGT,Vermelho,139,99990.00,190
+Fiat,Mobi Easy,Cinza,71,65000.00,150
+Renault,Kwid Outsider,Branco,68,75000.00,147
+Volkswagen,Gol Special,Prata,84,70000.00,160
+Chevrolet,Tracker Premier,Preto,133,135000.00,195
+Hyundai,Creta N Line,Azul,167,155000.00,200
+Volkswagen,T-Cross Sense,Branco,116,125000.00,184
+Fiat,Strada Ranch,Prata,109,115000.00,175
+Chevrolet,S10 High Country,Preto,200,320000.00,180
+Toyota,Corolla GLi,Vermelho,177,145000.00,210
+Toyota,Hilux Diesel,Cinza,204,340000.00,175
+Honda,Civic Sport,Branco,184,170000.00,215
+Jeep,Renegade Custom,Prata,139,120000.00,190
+Jeep,Compass 80 Anos,Preto,185,210000.00,202
+Nissan,Kicks Rio,Azul,113,115000.00,178
+Renault,Duster Tech Road,Branco,120,118000.00,179
+Ford,Ranger Storm,Prata,250,300000.00,180
+Mitsubishi,L200 Triton Sport,Preto,190,280000.00,175
+BMW,Série 3 320i Sport GP,Vermelho,184,350000.00,235
+Audi,A4 Attraction,Cinza,190,280000.00,230
+Mercedes-Benz,C200 Coupé,Branco,204,420000.00,240
+Suzuki,Jimny Sierra Long Life,Prata,108,170000.00,180
+Chevrolet,Onix Plus Midnight,Preto,116,112000.00,190
+Volkswagen,Virtus MSI,Azul,110,105000.00,187
+Hyundai,HB20S Diamond Plus,Branco,120,118000.00,187
+Fiat,Cronos HGT,Prata,139,105000.00,190
+Renault,Stepway X-Tronic,Preto,118,110000.00,176
+Ford,Ka Trail,Vermelho,85,78000.00,163
+Nissan,Versa Exclusive,Cinza,114,135000.00,185
+Chevrolet,Spin Advantage,Branco,111,115000.00,173
+Volkswagen,Nivus Launching Edition,Prata,128,140000.00,189
+Hyundai,Tucson GDI,Preto,177,180000.00,201
+Fiat,Toro Volcano,Azul,185,175000.00,200
+Renault,Captur Zen,Branco,120,115000.00,178
+Toyota,Yaris Hatch XL,Prata,110,98000.00,175
+Honda,Fit Personal,Preto,116,90000.00,170
+Jeep,Commander Longitude,Vermelho,185,230000.00,205
+BMW,X1 xDrive20i,Cinza,192,305000.00,220
+Audi,Q3 Ambition,Branco,150,280000.00,215
+Mercedes-Benz,A200 Sedan,Prata,163,240000.00,210
+Chevrolet,Bolt Premier,Preto,200,275000.00,190
+Volkswagen,ID.4 Pure,Vermelho,170,390000.00,160
+Hyundai,Kona,Cinza,147,190000.00,185
+Fiat,500 Cult,Branco,105,85000.00,170
+Renault,Zoe Intense,Prata,135,205000.00,145
+Toyota,Prius Comfort,Preto,122,165000.00,180
+Honda,HR-V Elite,Azul,177,165000.00,198
+Nissan,Leaf Acenta,Branco,149,220000.00,155
+Ford,Territory SE,Prata,150,150000.00,200
+Mitsubishi,ASX GLS,Preto,160,125000.00,190
+BMW,M340i,Vermelho,387,550000.00,250
+Audi,RS6 Avant,Cinza,600,1200000.00,305
+Mercedes-Benz,AMG GT C,Branco,557,1100000.00,316
+Chevrolet,Onix Plus RS,Prata,116,118000.00,190
+Volkswagen,Polo GTS,Preto,150,135000.00,210
+Hyundai,HB20 Limited,Azul,80,93000.00,165
+Fiat,Argo Trekking Plus,Branco,109,95000.00,180
+Fiat,Mobi Easy Comfort,Prata,71,70000.00,150
+Renault,Kwid Connect,Preto,68,71000.00,147
+Volkswagen,Gol Rallye,Vermelho,101,80000.00,175
+Chevrolet,Tracker Midnight,Cinza,133,130000.00,195
+Hyundai,Creta Smart,Branco,120,138000.00,188
+Volkswagen,T-Cross Limited Edition,Prata,150,160000.00,205
+Fiat,Strada Volcano,Preto,139,125000.00,185
+Chevrolet,S10 Executive,Azul,200,285000.00,180
+Toyota,Corolla Altis,Branco,177,165000.00,210
+Toyota,Hilux STD,Prata,204,310000.00,175
+Honda,Civic LXL,Preto,184,180000.00,215
+Jeep,Renegade LXT,Vermelho,139,140000.00,190
+Jeep,Compass S,Cinza,185,220000.00,202
+Nissan,Kicks Advanced,Branco,113,117000.00,178
+Renault,Duster Expression,Prata,120,113000.00,179
+Ford,Ranger Limited Plus,Preto,250,335000.00,180
+Mitsubishi,L200 Triton Outdoor Savana,Azul,190,310000.00,175
+BMW,M850i,Branco,530,950000.00,250
+Audi,A7 Sportback,Prata,340,550000.00,250
+Mercedes-Benz,E300 Coupé,Preto,258,480000.00,250
+Suzuki,Jimny Sierra L,Vermelho,108,165000.00,180
+Chevrolet,Onix Hatch LTZ,Cinza,116,102000.00,187
+Volkswagen,Polo Sense,Branco,84,90000.00,167
+Hyundai,HB20 Platinum Plus,Prata,120,112000.00,187
+Fiat,Argo Drive Plus,Preto,109,90000.00,180
+Fiat,Mobi Drive,Vermelho,71,73000.00,150
+Renault,Kwid Intense Plus,Cinza,68,74000.00,147
+Volkswagen,Gol Trendline,Branco,84,73000.00,160
+Chevrolet,Tracker RS,Prata,133,140000.00,195
+Hyundai,Creta Limited,Preto,167,150000.00,190
+Volkswagen,T-Cross Comfortline,Azul,128,149990.00,195
+Fiat,Strada Cabine Dupla,Branco,109,108000.00,175
+Chevrolet,S10 Chassi Cabine,Prata,200,260000.00,180
+Toyota,Corolla GR-S,Preto,177,175000.00,210
+Toyota,Hilux Cabine Dupla,Vermelho,204,320000.00,175
+Honda,Civic EX,Cinza,184,175000.00,215
+Jeep,Renegade Moab,Branco,170,145000.00,190
+Jeep,Compass Longitude Diesel,Prata,170,215000.00,200
+Nissan,Kicks PCD,Preto,113,100000.00,178
+Renault,Duster Plus,Azul,120,120000.00,179
+Ford,Ranger FX4,Branco,250,315000.00,180
+Mitsubishi,L200 Triton GL,Prata,190,265000.00,175
+BMW,Série 3 318i,Preto,156,310000.00,225
+Audi,A4 Prestige,Vermelho,190,295000.00,230
+Mercedes-Benz,C180 Exclusive,Cinza,156,280000.00,225
+Suzuki,Jimny 4You,Branco,84,130000.00,173
+Chevrolet,Onix Plus LT,Prata,116,100000.00,190
+Volkswagen,Virtus Trendline,Preto,110,100000.00,187
+Hyundai,HB20S Comfort,Azul,120,105000.00,187
+Fiat,Cronos Drive Plus,Branco,109,91000.00,182
+Renault,Stepway Expression,Prata,118,95000.00,176
+Ford,Ka SE Plus,Preto,85,73000.00,163
+Nissan,Versa Plus,Vermelho,114,112000.00,185
+Chevrolet,Spin Joy,Cinza,111,105000.00,173
+Volkswagen,Nivus Sense,Branco,116,120000.00,184
+Hyundai,Tucson Limited Plus,Prata,177,200000.00,201
+Fiat,Toro Ranch,Preto,185,205000.00,200
+Renault,Captur Life,Azul,120,110000.00,178
+Toyota,Yaris Hatch XS,Branco,110,105000.00,175
+Honda,Fit DX,Prata,116,85000.00,170
+Jeep,Commander Overland Diesel,Preto,170,275000.00,200
+BMW,X1 sDrive18i,Vermelho,140,260000.00,210
+Audi,Q3 Ambiente,Cinza,150,270000.00,215
+Mercedes-Benz,A250 Vision,Branco,224,310000.00,230
+Chevrolet,Bolt LT,Prata,200,240000.00,190
+Volkswagen,ID.4 Pure Plus,Preto,204,400000.00,170
+Hyundai,Kona Limited,Azul,204,280000.00,167
+Fiat,500e La Prima,Branco,118,235000.00,150
+Renault,Kwid E-Tech Plus,Prata,65,150000.00,130
+Toyota,Corolla Hybrid Altis,Preto,122,185000.00,180
+Honda,HR-V EXL,Vermelho,177,168000.00,198
+Nissan,Leaf SV,Cinza,149,225000.00,155
+Ford,Territory Titanium Plus,Branco,150,180000.00,200
+Mitsubishi,ASX Outdoor,Prata,160,130000.00,190
+BMW,M4 Competition M xDrive,Preto,510,900000.00,300
+Audi,RS Q3,Azul,400,650000.00,280
+Mercedes-Benz,AMG GLE53,Branco,435,780000.00,250
+Chevrolet,Camaro ZL1,Prata,650,900000.00,320
+Volkswagen,Jetta Comfortline,Preto,150,160000.00,210
+Hyundai,Veloster N,Vermelho,275,220000.00,250
+Fiat,Pulse Impetus,Cinza,130,130000.00,189
+Renault,Logan Expression,Branco,82,82000.00,162
+Toyota,SW4 SR,Prata,204,399000.00,180
+Honda,City Touring,Preto,126,125000.00,185
+Jeep,Gladiator Overland,Azul,285,470000.00,180
+Nissan,Frontier LE,Branco,190,280000.00,178
+Ford,Mustang Shelby GT500,Prata,760,1500000.00,325
+Mitsubishi,Outlander HPE-S,Preto,160,190000.00,195
+BMW,Série 5 530i,Vermelho,252,480000.00,250
+Audi,A6 Performance Black,Cinza,340,510000.00,250
+Mercedes-Benz,E300 Avantgarde,Branco,258,460000.00,250

@@ -1,0 +1,14 @@
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\bin\Debug\net9.0\CriandoEConsumindoArquivos.exe
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\bin\Debug\net9.0\CriandoEConsumindoArquivos.deps.json
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\bin\Debug\net9.0\CriandoEConsumindoArquivos.runtimeconfig.json
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\bin\Debug\net9.0\CriandoEConsumindoArquivos.dll
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\bin\Debug\net9.0\CriandoEConsumindoArquivos.pdb
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\obj\Debug\net9.0\CriandoEConsumindoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\obj\Debug\net9.0\CriandoEConsumindoArquivos.AssemblyInfoInputs.cache
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\obj\Debug\net9.0\CriandoEConsumindoArquivos.AssemblyInfo.cs
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\obj\Debug\net9.0\CriandoEConsumindoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\obj\Debug\net9.0\CriandoEConsumindoArquivos.dll
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\obj\Debug\net9.0\refint\CriandoEConsumindoArquivos.dll
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\obj\Debug\net9.0\CriandoEConsumindoArquivos.pdb
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\obj\Debug\net9.0\CriandoEConsumindoArquivos.genruntimeconfig.cache
+C:\Users\hawlk\source\repos\Exercises\CriandoEConsumindoArquivos\CriandoEConsumindoArquivos\obj\Debug\net9.0\ref\CriandoEConsumindoArquivos.dll
