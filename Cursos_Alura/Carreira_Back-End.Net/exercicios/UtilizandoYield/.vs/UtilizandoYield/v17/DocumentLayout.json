@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\UtilizandoYield\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF21B10C-423F-4771-8B84-EA8A3B30007F}|UtilizandoYield\\UtilizandoYield.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\utilizandoyield\\utilizandoyield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF21B10C-423F-4771-8B84-EA8A3B30007F}|UtilizandoYield\\UtilizandoYield.csproj|solutionrelative:utilizandoyield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF21B10C-423F-4771-8B84-EA8A3B30007F}|UtilizandoYield\\UtilizandoYield.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\utilizandoyield\\utilizandoyield\\models\\semana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF21B10C-423F-4771-8B84-EA8A3B30007F}|UtilizandoYield\\UtilizandoYield.csproj|solutionrelative:utilizandoyield\\models\\semana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF21B10C-423F-4771-8B84-EA8A3B30007F}|UtilizandoYield\\UtilizandoYield.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\utilizandoyield\\utilizandoyield\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF21B10C-423F-4771-8B84-EA8A3B30007F}|UtilizandoYield\\UtilizandoYield.csproj|solutionrelative:utilizandoyield\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF21B10C-423F-4771-8B84-EA8A3B30007F}|UtilizandoYield\\UtilizandoYield.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\utilizandoyield\\utilizandoyield\\models\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF21B10C-423F-4771-8B84-EA8A3B30007F}|UtilizandoYield\\UtilizandoYield.csproj|solutionrelative:utilizandoyield\\models\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Semana.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\UtilizandoYield\\UtilizandoYield\\Models\\Semana.cs",
+              "RelativeDocumentMoniker": "UtilizandoYield\\Models\\Semana.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\UtilizandoYield\\UtilizandoYield\\Models\\Semana.cs",
+              "RelativeToolTip": "UtilizandoYield\\Models\\Semana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:40:05.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carrinho.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\UtilizandoYield\\UtilizandoYield\\Models\\Carrinho.cs",
+              "RelativeDocumentMoniker": "UtilizandoYield\\Models\\Carrinho.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\UtilizandoYield\\UtilizandoYield\\Models\\Carrinho.cs",
+              "RelativeToolTip": "UtilizandoYield\\Models\\Carrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:54:48.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\UtilizandoYield\\UtilizandoYield\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "UtilizandoYield\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\UtilizandoYield\\UtilizandoYield\\Models\\Produto.cs",
+              "RelativeToolTip": "UtilizandoYield\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:51:55.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\UtilizandoYield\\UtilizandoYield\\Program.cs",
+              "RelativeDocumentMoniker": "UtilizandoYield\\Program.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\UtilizandoYield\\UtilizandoYield\\Program.cs",
+              "RelativeToolTip": "UtilizandoYield\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:47:55.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\bin\Debug\net9.0\UtilizandoYield.exe
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\bin\Debug\net9.0\UtilizandoYield.deps.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\bin\Debug\net9.0\UtilizandoYield.runtimeconfig.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\bin\Debug\net9.0\UtilizandoYield.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\bin\Debug\net9.0\UtilizandoYield.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\obj\Debug\net9.0\UtilizandoYield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\obj\Debug\net9.0\UtilizandoYield.AssemblyInfoInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\obj\Debug\net9.0\UtilizandoYield.AssemblyInfo.cs
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\obj\Debug\net9.0\UtilizandoYield.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\obj\Debug\net9.0\UtilizandoYield.sourcelink.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\obj\Debug\net9.0\UtilizandoYield.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\obj\Debug\net9.0\refint\UtilizandoYield.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\obj\Debug\net9.0\UtilizandoYield.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\obj\Debug\net9.0\UtilizandoYield.genruntimeconfig.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\UtilizandoYield\UtilizandoYield\obj\Debug\net9.0\ref\UtilizandoYield.dll

@@ -1,0 +1,15 @@
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\obj\Debug\net9.0\GerenciadorDeMusicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\obj\Debug\net9.0\GerenciadorDeMusicas.AssemblyInfoInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\obj\Debug\net9.0\GerenciadorDeMusicas.AssemblyInfo.cs
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\obj\Debug\net9.0\GerenciadorDeMusicas.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\obj\Debug\net9.0\GerenciadorDeMusicas.sourcelink.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\bin\Debug\net9.0\GerenciadorDeMusicas.exe
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\bin\Debug\net9.0\GerenciadorDeMusicas.deps.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\bin\Debug\net9.0\GerenciadorDeMusicas.runtimeconfig.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\bin\Debug\net9.0\GerenciadorDeMusicas.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\bin\Debug\net9.0\GerenciadorDeMusicas.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\obj\Debug\net9.0\GerenciadorDeMusicas.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\obj\Debug\net9.0\refint\GerenciadorDeMusicas.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\obj\Debug\net9.0\GerenciadorDeMusicas.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\obj\Debug\net9.0\GerenciadorDeMusicas.genruntimeconfig.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GerenciadorDeMusicas\GerenciadorDeMusicas\obj\Debug\net9.0\ref\GerenciadorDeMusicas.dll

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\gerenciadordemusicas\\gerenciadordemusicas\\models\\playerdemusicamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|solutionrelative:gerenciadordemusicas\\models\\playerdemusicamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\gerenciadordemusicas\\gerenciadordemusicas\\models\\musicamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|solutionrelative:gerenciadordemusicas\\models\\musicamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\gerenciadordemusicas\\gerenciadordemusicas\\models\\playlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|solutionrelative:gerenciadordemusicas\\models\\playlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\gerenciadordemusicas\\gerenciadordemusicas\\models\\artistamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|solutionrelative:gerenciadordemusicas\\models\\artistamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\gerenciadordemusicas\\gerenciadordemusicas\\models\\comparers\\musicaporartistacomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|solutionrelative:gerenciadordemusicas\\models\\comparers\\musicaporartistacomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\gerenciadordemusicas\\gerenciadordemusicas\\services\\maistocadasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|solutionrelative:gerenciadordemusicas\\services\\maistocadasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\gerenciadordemusicas\\gerenciadordemusicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0781779-8FB5-4A03-AFF8-46ACBD227A7A}|GerenciadorDeMusicas\\GerenciadorDeMusicas.csproj|solutionrelative:gerenciadordemusicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeMusicas\\Program.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Program.cs",
+              "RelativeToolTip": "GerenciadorDeMusicas\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:40:37.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicaPorArtistaComparer.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Models\\Comparers\\MusicaPorArtistaComparer.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeMusicas\\Models\\Comparers\\MusicaPorArtistaComparer.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Models\\Comparers\\MusicaPorArtistaComparer.cs",
+              "RelativeToolTip": "GerenciadorDeMusicas\\Models\\Comparers\\MusicaPorArtistaComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:59:37.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaisTocadasService.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Services\\MaisTocadasService.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeMusicas\\Services\\MaisTocadasService.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Services\\MaisTocadasService.cs",
+              "RelativeToolTip": "GerenciadorDeMusicas\\Services\\MaisTocadasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:24:29.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerDeMusicaModel.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Models\\PlayerDeMusicaModel.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeMusicas\\Models\\PlayerDeMusicaModel.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Models\\PlayerDeMusicaModel.cs",
+              "RelativeToolTip": "GerenciadorDeMusicas\\Models\\PlayerDeMusicaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:45:16.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicaModel.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Models\\MusicaModel.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeMusicas\\Models\\MusicaModel.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Models\\MusicaModel.cs",
+              "RelativeToolTip": "GerenciadorDeMusicas\\Models\\MusicaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:38:06.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaylistModel.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Models\\PlaylistModel.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeMusicas\\Models\\PlaylistModel.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Models\\PlaylistModel.cs",
+              "RelativeToolTip": "GerenciadorDeMusicas\\Models\\PlaylistModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:35:47.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArtistaModel.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Models\\ArtistaModel.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeMusicas\\Models\\ArtistaModel.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GerenciadorDeMusicas\\GerenciadorDeMusicas\\Models\\ArtistaModel.cs",
+              "RelativeToolTip": "GerenciadorDeMusicas\\Models\\ArtistaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:24:29.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
