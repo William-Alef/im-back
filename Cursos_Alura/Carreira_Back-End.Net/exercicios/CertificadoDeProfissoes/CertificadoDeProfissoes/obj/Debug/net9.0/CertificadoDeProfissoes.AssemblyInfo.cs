@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CertificadoDeProfissoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07a4327bce8ab51eba1aa37c998f29eefaa8fe59")]
 [assembly: System.Reflection.AssemblyProductAttribute("CertificadoDeProfissoes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CertificadoDeProfissoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

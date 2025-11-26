@@ -1,0 +1,15 @@
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\bin\Debug\net9.0\ConsultaSimplesCSV.exe
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\bin\Debug\net9.0\ConsultaSimplesCSV.deps.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\bin\Debug\net9.0\ConsultaSimplesCSV.runtimeconfig.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\bin\Debug\net9.0\ConsultaSimplesCSV.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\bin\Debug\net9.0\ConsultaSimplesCSV.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\obj\Debug\net9.0\ConsultaSimplesCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\obj\Debug\net9.0\ConsultaSimplesCSV.AssemblyInfoInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\obj\Debug\net9.0\ConsultaSimplesCSV.AssemblyInfo.cs
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\obj\Debug\net9.0\ConsultaSimplesCSV.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\obj\Debug\net9.0\ConsultaSimplesCSV.sourcelink.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\obj\Debug\net9.0\ConsultaSimplesCSV.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\obj\Debug\net9.0\refint\ConsultaSimplesCSV.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\obj\Debug\net9.0\ConsultaSimplesCSV.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\obj\Debug\net9.0\ConsultaSimplesCSV.genruntimeconfig.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ConsultaSimplesCSV\ConsultaSimplesCSV\obj\Debug\net9.0\ref\ConsultaSimplesCSV.dll

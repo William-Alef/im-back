@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AluraFilmes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07a4327bce8ab51eba1aa37c998f29eefaa8fe59")]
 [assembly: System.Reflection.AssemblyProductAttribute("AluraFilmes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AluraFilmes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
