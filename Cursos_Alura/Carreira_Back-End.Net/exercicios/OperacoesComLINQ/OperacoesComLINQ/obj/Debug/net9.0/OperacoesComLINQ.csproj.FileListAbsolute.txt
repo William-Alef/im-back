@@ -1,0 +1,15 @@
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\bin\Debug\net9.0\OperacoesComLINQ.exe
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\bin\Debug\net9.0\OperacoesComLINQ.deps.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\bin\Debug\net9.0\OperacoesComLINQ.runtimeconfig.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\bin\Debug\net9.0\OperacoesComLINQ.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\bin\Debug\net9.0\OperacoesComLINQ.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\obj\Debug\net9.0\OperacoesComLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\obj\Debug\net9.0\OperacoesComLINQ.AssemblyInfoInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\obj\Debug\net9.0\OperacoesComLINQ.AssemblyInfo.cs
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\obj\Debug\net9.0\OperacoesComLINQ.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\obj\Debug\net9.0\OperacoesComLINQ.sourcelink.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\obj\Debug\net9.0\OperacoesComLINQ.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\obj\Debug\net9.0\refint\OperacoesComLINQ.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\obj\Debug\net9.0\OperacoesComLINQ.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\obj\Debug\net9.0\OperacoesComLINQ.genruntimeconfig.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\OperacoesComLINQ\OperacoesComLINQ\obj\Debug\net9.0\ref\OperacoesComLINQ.dll

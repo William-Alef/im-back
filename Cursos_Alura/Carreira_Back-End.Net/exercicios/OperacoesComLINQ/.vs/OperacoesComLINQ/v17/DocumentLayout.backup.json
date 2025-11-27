@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\OperacoesComLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54FD089-2EB2-4309-A57D-9051F35AAEA8}|OperacoesComLINQ\\OperacoesComLINQ.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\operacoescomlinq\\operacoescomlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54FD089-2EB2-4309-A57D-9051F35AAEA8}|OperacoesComLINQ\\OperacoesComLINQ.csproj|solutionrelative:operacoescomlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54FD089-2EB2-4309-A57D-9051F35AAEA8}|OperacoesComLINQ\\OperacoesComLINQ.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\operacoescomlinq\\operacoescomlinq\\services\\musicasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54FD089-2EB2-4309-A57D-9051F35AAEA8}|OperacoesComLINQ\\OperacoesComLINQ.csproj|solutionrelative:operacoescomlinq\\services\\musicasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54FD089-2EB2-4309-A57D-9051F35AAEA8}|OperacoesComLINQ\\OperacoesComLINQ.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\operacoescomlinq\\operacoescomlinq\\data\\musicas.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E54FD089-2EB2-4309-A57D-9051F35AAEA8}|OperacoesComLINQ\\OperacoesComLINQ.csproj|solutionrelative:operacoescomlinq\\data\\musicas.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54FD089-2EB2-4309-A57D-9051F35AAEA8}|OperacoesComLINQ\\OperacoesComLINQ.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\operacoescomlinq\\operacoescomlinq\\model\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54FD089-2EB2-4309-A57D-9051F35AAEA8}|OperacoesComLINQ\\OperacoesComLINQ.csproj|solutionrelative:operacoescomlinq\\model\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "musicas.csv",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\OperacoesComLINQ\\OperacoesComLINQ\\Data\\musicas.csv",
+              "RelativeDocumentMoniker": "OperacoesComLINQ\\Data\\musicas.csv",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\OperacoesComLINQ\\OperacoesComLINQ\\Data\\musicas.csv",
+              "RelativeToolTip": "OperacoesComLINQ\\Data\\musicas.csv",
+              "ViewState": "AgIAAHEBAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-11-26T23:25:59.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\OperacoesComLINQ\\OperacoesComLINQ\\Model\\Musica.cs",
+              "RelativeDocumentMoniker": "OperacoesComLINQ\\Model\\Musica.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\OperacoesComLINQ\\OperacoesComLINQ\\Model\\Musica.cs",
+              "RelativeToolTip": "OperacoesComLINQ\\Model\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:30:22.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicasServices.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\OperacoesComLINQ\\OperacoesComLINQ\\Services\\MusicasServices.cs",
+              "RelativeDocumentMoniker": "OperacoesComLINQ\\Services\\MusicasServices.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\OperacoesComLINQ\\OperacoesComLINQ\\Services\\MusicasServices.cs",
+              "RelativeToolTip": "OperacoesComLINQ\\Services\\MusicasServices.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:29:15.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\OperacoesComLINQ\\OperacoesComLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "OperacoesComLINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\OperacoesComLINQ\\OperacoesComLINQ\\Program.cs",
+              "RelativeToolTip": "OperacoesComLINQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:25:07.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
