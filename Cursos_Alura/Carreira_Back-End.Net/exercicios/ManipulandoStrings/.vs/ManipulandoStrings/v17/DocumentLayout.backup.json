@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C604E21B-BC12-4039-B919-17332B8D017B}|ManipulandoStrings\\ManipulandoStrings.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\manipulandostrings\\manipulandostrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C604E21B-BC12-4039-B919-17332B8D017B}|ManipulandoStrings\\ManipulandoStrings.csproj|solutionrelative:manipulandostrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C604E21B-BC12-4039-B919-17332B8D017B}|ManipulandoStrings\\ManipulandoStrings.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\manipulandostrings\\manipulandostrings\\services\\stringcomparerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C604E21B-BC12-4039-B919-17332B8D017B}|ManipulandoStrings\\ManipulandoStrings.csproj|solutionrelative:manipulandostrings\\services\\stringcomparerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C604E21B-BC12-4039-B919-17332B8D017B}|ManipulandoStrings\\ManipulandoStrings.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\manipulandostrings\\manipulandostrings\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C604E21B-BC12-4039-B919-17332B8D017B}|ManipulandoStrings\\ManipulandoStrings.csproj|solutionrelative:manipulandostrings\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C604E21B-BC12-4039-B919-17332B8D017B}|ManipulandoStrings\\ManipulandoStrings.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\manipulandostrings\\manipulandostrings\\services\\musicaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C604E21B-BC12-4039-B919-17332B8D017B}|ManipulandoStrings\\ManipulandoStrings.csproj|solutionrelative:manipulandostrings\\services\\musicaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C604E21B-BC12-4039-B919-17332B8D017B}|ManipulandoStrings\\ManipulandoStrings.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\manipulandostrings\\manipulandostrings\\data\\musicas.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C604E21B-BC12-4039-B919-17332B8D017B}|ManipulandoStrings\\ManipulandoStrings.csproj|solutionrelative:manipulandostrings\\data\\musicas.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C604E21B-BC12-4039-B919-17332B8D017B}|ManipulandoStrings\\ManipulandoStrings.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\manipulandostrings\\manipulandostrings\\services\\senhaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C604E21B-BC12-4039-B919-17332B8D017B}|ManipulandoStrings\\ManipulandoStrings.csproj|solutionrelative:manipulandostrings\\services\\senhaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\ManipulandoStrings\\Program.cs",
+              "RelativeDocumentMoniker": "ManipulandoStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\ManipulandoStrings\\Program.cs*",
+              "RelativeToolTip": "ManipulandoStrings\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:23:14.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringComparerServices.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\ManipulandoStrings\\Services\\StringComparerServices.cs",
+              "RelativeDocumentMoniker": "ManipulandoStrings\\Services\\StringComparerServices.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\ManipulandoStrings\\Services\\StringComparerServices.cs",
+              "RelativeToolTip": "ManipulandoStrings\\Services\\StringComparerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:20:27.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusicaServices.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\ManipulandoStrings\\Services\\MusicaServices.cs",
+              "RelativeDocumentMoniker": "ManipulandoStrings\\Services\\MusicaServices.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\ManipulandoStrings\\Services\\MusicaServices.cs",
+              "RelativeToolTip": "ManipulandoStrings\\Services\\MusicaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:51:39.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\ManipulandoStrings\\Models\\Musica.cs",
+              "RelativeDocumentMoniker": "ManipulandoStrings\\Models\\Musica.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\ManipulandoStrings\\Models\\Musica.cs",
+              "RelativeToolTip": "ManipulandoStrings\\Models\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:24:08.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SenhaServices.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\ManipulandoStrings\\Services\\SenhaServices.cs",
+              "RelativeDocumentMoniker": "ManipulandoStrings\\Services\\SenhaServices.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\ManipulandoStrings\\Services\\SenhaServices.cs",
+              "RelativeToolTip": "ManipulandoStrings\\Services\\SenhaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T18:42:04.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "musicas.csv",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\ManipulandoStrings\\Data\\musicas.csv",
+              "RelativeDocumentMoniker": "ManipulandoStrings\\Data\\musicas.csv",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\ManipulandoStrings\\ManipulandoStrings\\Data\\musicas.csv",
+              "RelativeToolTip": "ManipulandoStrings\\Data\\musicas.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-12-02T17:25:43.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

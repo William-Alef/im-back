@@ -1,0 +1,15 @@
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\bin\Debug\net9.0\ManipulandoStrings.exe
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\bin\Debug\net9.0\ManipulandoStrings.deps.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\bin\Debug\net9.0\ManipulandoStrings.runtimeconfig.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\bin\Debug\net9.0\ManipulandoStrings.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\bin\Debug\net9.0\ManipulandoStrings.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\obj\Debug\net9.0\ManipulandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\obj\Debug\net9.0\ManipulandoStrings.AssemblyInfoInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\obj\Debug\net9.0\ManipulandoStrings.AssemblyInfo.cs
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\obj\Debug\net9.0\ManipulandoStrings.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\obj\Debug\net9.0\ManipulandoStrings.sourcelink.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\obj\Debug\net9.0\ManipulandoStrings.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\obj\Debug\net9.0\refint\ManipulandoStrings.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\obj\Debug\net9.0\ManipulandoStrings.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\obj\Debug\net9.0\ManipulandoStrings.genruntimeconfig.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\ManipulandoStrings\ManipulandoStrings\obj\Debug\net9.0\ref\ManipulandoStrings.dll
