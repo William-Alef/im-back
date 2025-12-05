@@ -1,0 +1,15 @@
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\bin\Debug\net9.0\IntroducaoRegex.exe
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\bin\Debug\net9.0\IntroducaoRegex.deps.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\bin\Debug\net9.0\IntroducaoRegex.runtimeconfig.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\bin\Debug\net9.0\IntroducaoRegex.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\bin\Debug\net9.0\IntroducaoRegex.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\obj\Debug\net9.0\IntroducaoRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\obj\Debug\net9.0\IntroducaoRegex.AssemblyInfoInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\obj\Debug\net9.0\IntroducaoRegex.AssemblyInfo.cs
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\obj\Debug\net9.0\IntroducaoRegex.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\obj\Debug\net9.0\IntroducaoRegex.sourcelink.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\obj\Debug\net9.0\IntroducaoRegex.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\obj\Debug\net9.0\refint\IntroducaoRegex.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\obj\Debug\net9.0\IntroducaoRegex.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\obj\Debug\net9.0\IntroducaoRegex.genruntimeconfig.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\IntroducaoRegex\IntroducaoRegex\obj\Debug\net9.0\ref\IntroducaoRegex.dll

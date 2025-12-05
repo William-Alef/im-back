@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alura-PetShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07a4327bce8ab51eba1aa37c998f29eefaa8fe59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6501104aa8145dc7246891a25b982a04afea58c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alura-PetShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alura-PetShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
