@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManipulandoStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+211ec7e1186c6aa530868801bedce47547f8706b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6501104aa8145dc7246891a25b982a04afea58c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManipulandoStrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManipulandoStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

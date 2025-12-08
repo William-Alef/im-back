@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SerializacaoSimples/1.0.0": {
+        "runtime": {
+          "SerializacaoSimples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SerializacaoSimples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\bin\Debug\net9.0\SerializacaoSimples.exe
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\bin\Debug\net9.0\SerializacaoSimples.deps.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\bin\Debug\net9.0\SerializacaoSimples.runtimeconfig.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\bin\Debug\net9.0\SerializacaoSimples.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\bin\Debug\net9.0\SerializacaoSimples.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\obj\Debug\net9.0\SerializacaoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\obj\Debug\net9.0\SerializacaoSimples.AssemblyInfoInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\obj\Debug\net9.0\SerializacaoSimples.AssemblyInfo.cs
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\obj\Debug\net9.0\SerializacaoSimples.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\obj\Debug\net9.0\SerializacaoSimples.sourcelink.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\obj\Debug\net9.0\SerializacaoSimples.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\obj\Debug\net9.0\refint\SerializacaoSimples.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\obj\Debug\net9.0\SerializacaoSimples.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\obj\Debug\net9.0\SerializacaoSimples.genruntimeconfig.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\SerializacaoSimples\SerializacaoSimples\obj\Debug\net9.0\ref\SerializacaoSimples.dll
