@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\ScreenSound\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\screensound\\screensound\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\screensound\\screensound\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8E46051-A7B0-4F1F-B570-3467B50783A7}|ScreenSound\\ScreenSound.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\screensound\\screensound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Podcast.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\ScreenSound\\ScreenSound\\Podcast.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Podcast.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "ScreenSound\\Podcast.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA9wCEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T19:18:31.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T19:18:31.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
@@ -72,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Musica.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\ScreenSound\\ScreenSound\\Musica.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Musica.cs",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "ScreenSound\\Musica.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAmwA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T20:05:58.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T20:05:58.551Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "ScreenSound\\Album.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAcwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T22:26:31.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T22:26:31.695Z"
             },
             {
               "$type": "Document",
@@ -110,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\ScreenSound\\ScreenSound\\Genero.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Genero.cs",

@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\bin",
     "\\Filtros",
     "\\Models"
   ],
-  "SelectedNode": "\\Filtros\\LinqOrder.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,12 @@
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\bin\Debug\net8.0\GeradorDeRelatorios.deps.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\bin\Debug\net8.0\GeradorDeRelatorios.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\bin\Debug\net8.0\GeradorDeRelatorios.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\GeradorDeRelatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\GeradorDeRelatorios.AssemblyInfoInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\GeradorDeRelatorios.AssemblyInfo.cs
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\GeradorDeRelatorios.csproj.CoreCompileInputs.cache
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\GeradorDeRelatorios.sourcelink.json
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\GeradorDeRelatorios.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\refint\GeradorDeRelatorios.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\GeradorDeRelatorios.pdb
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\ref\GeradorDeRelatorios.dll

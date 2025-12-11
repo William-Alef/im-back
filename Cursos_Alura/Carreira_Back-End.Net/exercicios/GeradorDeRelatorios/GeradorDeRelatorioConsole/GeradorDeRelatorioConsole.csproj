@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Gerador de Relatório em CSV</Title>
+    <Authors>William Alef</Authors>
+    <Company>Alura + William Alef</Company>
+    <Description>Lib para a criação de um relatório em CSV.</Description>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GeradorDeRelatorios\GeradorDeRelatorios.csproj" />
+  </ItemGroup>
+
+</Project>

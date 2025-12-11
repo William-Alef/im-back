@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "GeradorDeRelatorios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GeradorDeRelatorios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GeradorDeRelatorios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeradorDeRelatorios/1.0.0": {
+      "type": "project",
+      "path": "../GeradorDeRelatorios/GeradorDeRelatorios.csproj",
+      "msbuildProject": "../GeradorDeRelatorios/GeradorDeRelatorios.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "GeradorDeRelatorios >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hawlk\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorioConsole\\GeradorDeRelatorioConsole.csproj",
+      "projectName": "GeradorDeRelatorioConsole",
+      "projectPath": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorioConsole\\GeradorDeRelatorioConsole.csproj",
+      "packagesPath": "C:\\Users\\hawlk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorioConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hawlk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\GeradorDeRelatorios.csproj": {
+              "projectPath": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\GeradorDeRelatorios.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
