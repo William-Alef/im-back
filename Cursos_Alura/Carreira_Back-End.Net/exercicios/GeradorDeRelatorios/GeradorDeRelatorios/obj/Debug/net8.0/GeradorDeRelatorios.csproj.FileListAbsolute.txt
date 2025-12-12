@@ -10,3 +10,4 @@ C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\
 C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\refint\GeradorDeRelatorios.dll
 C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\GeradorDeRelatorios.pdb
 C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\ref\GeradorDeRelatorios.dll
+C:\Users\hawlk\Documentos\im-back\Cursos_Alura\Carreira_Back-End.Net\exercicios\GeradorDeRelatorios\GeradorDeRelatorios\obj\Debug\net8.0\GeradorDeRelatorios.csproj.AssemblyReference.cache

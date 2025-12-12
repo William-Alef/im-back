@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\geradorderelatorios\\geradorderelatorios\\igeradorderelatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|solutionrelative:geradorderelatorios\\igeradorderelatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\geradorderelatorios\\geradorderelatorios\\gerators\\geradorderelatoriospdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|solutionrelative:geradorderelatorios\\gerators\\geradorderelatoriospdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\geradorderelatorios\\geradorderelatorios\\gerators\\igeradorderelatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|solutionrelative:geradorderelatorios\\gerators\\igeradorderelatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB604401-A803-471B-BFCE-AC73CC75FDCB}|GeradorDeRelatorioConsole\\GeradorDeRelatorioConsole.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\geradorderelatorios\\geradorderelatorioconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB604401-A803-471B-BFCE-AC73CC75FDCB}|GeradorDeRelatorioConsole\\GeradorDeRelatorioConsole.csproj|solutionrelative:geradorderelatorioconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\geradorderelatorios\\geradorderelatorios\\iformatadordedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|solutionrelative:geradorderelatorios\\iformatadordedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\geradorderelatorios\\geradorderelatorios\\gerators\\geradorderelatorioscsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|solutionrelative:geradorderelatorios\\gerators\\geradorderelatorioscsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\geradorderelatorios\\geradorderelatorios\\formatadordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|solutionrelative:geradorderelatorios\\formatadordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\geradorderelatorios\\geradorderelatorios\\gerators\\geradorderelatoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|solutionrelative:geradorderelatorios\\gerators\\geradorderelatoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB604401-A803-471B-BFCE-AC73CC75FDCB}|GeradorDeRelatorioConsole\\GeradorDeRelatorioConsole.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\geradorderelatorios\\geradorderelatorioconsole\\geradorderelatorioconsole.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{DB604401-A803-471B-BFCE-AC73CC75FDCB}|GeradorDeRelatorioConsole\\GeradorDeRelatorioConsole.csproj|solutionrelative:geradorderelatorioconsole\\geradorderelatorioconsole.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\geradorderelatorios\\geradorderelatorios\\util\\formatadordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|solutionrelative:geradorderelatorios\\util\\formatadordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\geradorderelatorios\\geradorderelatorios\\geradorderelatorioscsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|solutionrelative:geradorderelatorios\\geradorderelatorioscsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|c:\\users\\hawlk\\documentos\\im-back\\cursos_alura\\carreira_back-end.net\\exercicios\\geradorderelatorios\\geradorderelatorios\\util\\iformatadordedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E22C62-60A8-4F9F-B921-D386EEFB1C8A}|GeradorDeRelatorios\\GeradorDeRelatorios.csproj|solutionrelative:geradorderelatorios\\util\\iformatadordedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,75 +46,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GeradorDeRelatorioConsole",
-              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorioConsole\\GeradorDeRelatorioConsole.csproj",
-              "RelativeDocumentMoniker": "GeradorDeRelatorioConsole\\GeradorDeRelatorioConsole.csproj",
-              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorioConsole\\GeradorDeRelatorioConsole.csproj",
-              "RelativeToolTip": "GeradorDeRelatorioConsole\\GeradorDeRelatorioConsole.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-11T02:20:55.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormatadorData.cs",
-              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\FormatadorData.cs",
-              "RelativeDocumentMoniker": "GeradorDeRelatorios\\FormatadorData.cs",
-              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\FormatadorData.cs",
-              "RelativeToolTip": "GeradorDeRelatorios\\FormatadorData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T02:06:50.479Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IFormatadorDeData.cs",
-              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\IFormatadorDeData.cs",
-              "RelativeDocumentMoniker": "GeradorDeRelatorios\\IFormatadorDeData.cs",
-              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\IFormatadorDeData.cs",
-              "RelativeToolTip": "GeradorDeRelatorios\\IFormatadorDeData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T02:04:56.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorioConsole\\Program.cs",
               "RelativeDocumentMoniker": "GeradorDeRelatorioConsole\\Program.cs",
               "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorioConsole\\Program.cs",
               "RelativeToolTip": "GeradorDeRelatorioConsole\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T01:54:56.83Z"
+              "WhenOpened": "2025-12-12T18:41:39.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IGeradorDeRelatorios.cs",
-              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\IGeradorDeRelatorios.cs",
-              "RelativeDocumentMoniker": "GeradorDeRelatorios\\IGeradorDeRelatorios.cs",
-              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\IGeradorDeRelatorios.cs",
-              "RelativeToolTip": "GeradorDeRelatorios\\IGeradorDeRelatorios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Title": "GeradorDeRelatoriosPDF.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\Gerators\\GeradorDeRelatoriosPDF.cs",
+              "RelativeDocumentMoniker": "GeradorDeRelatorios\\Gerators\\GeradorDeRelatoriosPDF.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\Gerators\\GeradorDeRelatoriosPDF.cs*",
+              "RelativeToolTip": "GeradorDeRelatorios\\Gerators\\GeradorDeRelatoriosPDF.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBkAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T01:34:04.215Z",
+              "WhenOpened": "2025-12-12T18:16:02.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeradorDeRelatorioBase.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\Gerators\\GeradorDeRelatorioBase.cs",
+              "RelativeDocumentMoniker": "GeradorDeRelatorios\\Gerators\\GeradorDeRelatorioBase.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\Gerators\\GeradorDeRelatorioBase.cs",
+              "RelativeToolTip": "GeradorDeRelatorios\\Gerators\\GeradorDeRelatorioBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:44:42.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeradorDeRelatoriosCSV.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\Gerators\\GeradorDeRelatoriosCSV.cs",
+              "RelativeDocumentMoniker": "GeradorDeRelatorios\\Gerators\\GeradorDeRelatoriosCSV.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\Gerators\\GeradorDeRelatoriosCSV.cs",
+              "RelativeToolTip": "GeradorDeRelatorios\\Gerators\\GeradorDeRelatoriosCSV.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:30:00.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGeradorDeRelatorios.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\Gerators\\IGeradorDeRelatorios.cs",
+              "RelativeDocumentMoniker": "GeradorDeRelatorios\\Gerators\\IGeradorDeRelatorios.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\Gerators\\IGeradorDeRelatorios.cs",
+              "RelativeToolTip": "GeradorDeRelatorios\\Gerators\\IGeradorDeRelatorios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:29:59.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GeradorDeRelatoriosCSV.cs",
-              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\GeradorDeRelatoriosCSV.cs",
-              "RelativeDocumentMoniker": "GeradorDeRelatorios\\GeradorDeRelatoriosCSV.cs",
-              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\GeradorDeRelatoriosCSV.cs",
-              "RelativeToolTip": "GeradorDeRelatorios\\GeradorDeRelatoriosCSV.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Title": "FormatadorData.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\Util\\FormatadorData.cs",
+              "RelativeDocumentMoniker": "GeradorDeRelatorios\\Util\\FormatadorData.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\Util\\FormatadorData.cs",
+              "RelativeToolTip": "GeradorDeRelatorios\\Util\\FormatadorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T01:32:11.612Z"
+              "WhenOpened": "2025-12-12T17:29:57.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFormatadorDeData.cs",
+              "DocumentMoniker": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\Util\\IFormatadorDeData.cs",
+              "RelativeDocumentMoniker": "GeradorDeRelatorios\\Util\\IFormatadorDeData.cs",
+              "ToolTip": "C:\\Users\\hawlk\\Documentos\\im-back\\Cursos_Alura\\Carreira_Back-End.Net\\exercicios\\GeradorDeRelatorios\\GeradorDeRelatorios\\Util\\IFormatadorDeData.cs",
+              "RelativeToolTip": "GeradorDeRelatorios\\Util\\IFormatadorDeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:29:56.968Z",
+              "EditorCaption": ""
             }
           ]
         }

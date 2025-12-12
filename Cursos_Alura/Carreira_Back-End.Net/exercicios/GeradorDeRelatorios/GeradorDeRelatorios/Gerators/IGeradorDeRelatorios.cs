@@ -1,4 +1,4 @@
-﻿namespace GeradorDeRelatorios
+﻿namespace GeradorDeRelatorios.Gerators
 {
     /// <summary>
     /// Define o contrato para gerar relatórios com inputs, título,

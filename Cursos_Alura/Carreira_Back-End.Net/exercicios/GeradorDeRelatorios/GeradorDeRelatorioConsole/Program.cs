@@ -1,4 +1,4 @@
-﻿using GeradorDeRelatorios;
+﻿using GeradorDeRelatorios.Gerators;
 
 List<Dictionary<string, string>> data = new()
 {
@@ -22,6 +22,7 @@ List<Dictionary<string, string>> data = new()
     }
 };
 
+/*
 GeradorDeRelatoriosCSV relatorioCSV = new GeradorDeRelatoriosCSV(data);
 relatorioCSV.Titulo = "Relatório de usuários";
 relatorioCSV.Cabecalho = "Lista de usuários cadastradas no sistema";
@@ -29,3 +30,10 @@ relatorioCSV.Rodape = $"Quantidade de pessoas cadastradas: {data.Count}";
 
 string caminho = relatorioCSV.GerarRelatorio();
 Console.WriteLine($"Caminho completo do relatório: {caminho}");
+*/
+GeradorDeRelatoriosPDF relatorioPDF = new GeradorDeRelatoriosPDF(data);
+relatorioPDF.Titulo = "Relatório de usuários - PDF";
+relatorioPDF.Cabecalho = "Lista de usuários cadastradas no sistema";
+relatorioPDF.Rodape = $"Quantidade de pessoas cadastradas: {data.Count}";
+
+relatorioPDF.GerarRelatorio();

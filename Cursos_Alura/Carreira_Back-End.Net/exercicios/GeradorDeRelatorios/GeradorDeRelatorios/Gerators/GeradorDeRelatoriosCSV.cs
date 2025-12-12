@@ -1,21 +1,18 @@
-﻿
+﻿using GeradorDeRelatorios.Util;
 using System.Text;
 
-namespace GeradorDeRelatorios
+namespace GeradorDeRelatorios.Gerators
 {
-    public class GeradorDeRelatoriosCSV : IGeradorDeRelatorios
+    public class GeradorDeRelatoriosCSV : GeradorDeRelatorioBase
     {
         public List<Dictionary<string, string>> Input { get; set; }
         public string Titulo { get; set; }
         public string Cabecalho { get; set; }
         public string Rodape { get; set; }
 
-        public GeradorDeRelatoriosCSV(List<Dictionary<string, string>> input)
-        {
-            Input = input;
-        }
+        public GeradorDeRelatoriosCSV(List<Dictionary<string, string>> input) : base(input){}
 
-        public string GerarRelatorio()
+        public override string GerarRelatorio()
         {
             if (Input == null || Input.Count == 0) throw new Exception("Input inválido!");
 

@@ -1,4 +1,4 @@
-﻿namespace GeradorDeRelatorios
+﻿namespace GeradorDeRelatorios.Util
 {
     internal class FormatadorData : IFormatadorDeData
     {

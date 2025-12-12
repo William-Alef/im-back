@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeradorDeRelatorios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ace6282b275ef17c10063797eca63e043ea0289")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10ff39a7f08820197f1a842ea7c350a23da6f6f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeradorDeRelatorios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeradorDeRelatorios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
