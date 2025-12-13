@@ -1,0 +1,1 @@
+Repositório criado para armazenar exercícios desenvolvidos durante as aulas introdutórias de **HTML e CSS**.
