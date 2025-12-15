@@ -1,0 +1,39 @@
+body{
+    background-color: indigo;
+    color: silver;
+}
+
+header{
+    text-align: center;
+}
+.chamada{
+    text-align: center;
+}
+
+a{
+    color: dodgerblue;
+}
+.isca
+{
+    text-align: center;
+}
+.textoIsca
+{
+    color: silver;
+}
+.texto-destaque
+{
+    color: gold;
+}
+span{
+    color: dodgerblue;
+    background-color: darkblue;
+    border: 1px solid dodgerblue;
+    padding: 5px;
+}
+
+footer{
+    color: silver;
+    text-align: center;
+    padding: 20px;
+}
