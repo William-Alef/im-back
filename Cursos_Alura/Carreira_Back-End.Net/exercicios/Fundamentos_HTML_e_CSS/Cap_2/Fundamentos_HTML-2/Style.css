@@ -1,0 +1,52 @@
+body{
+    align-items: center;
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: indigo;
+    color: silver;
+}
+
+header{
+    text-align: center;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+a{
+    color: dodgerblue;
+}
+
+.chamada{
+    text-align: center;
+}
+
+.textoIsca
+{
+    color: silver;
+}
+.texto-destaque
+{
+    color: gold;
+    padding-left: 20px;
+}
+span{
+    color: dodgerblue;
+    background-color: darkblue;
+    border: 1px solid dodgerblue;
+    padding: 5px;
+}
+
+.isca{
+    display: flex;
+    align-items: center;
+}
+
+footer{
+    color: silver;
+    text-align: center;
+    padding: 20px;
+}
